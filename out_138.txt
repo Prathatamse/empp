@@ -1,0 +1,22 @@
+nvas-fixed-position, fixed);
+            will-change: var(--framer-will-change-effect-override, transform);
+            z-index: 9;
+            flex: none;
+            order: 1003;
+            width: 138px;
+            right: 21px
+        }
+
+        [data-layout-template=true]>#overlay {
+            margin-bottom: 0
+        }
+
+        .framer-tppbh[data-selection=true] * ::selection {
+            color: var(--selection-color, none);
+            background-color: var(--selection-background-color, none)
+        }
+
+        .framer-tppbh [data-selection=true] * ::selection {
+            color: var(--selection-color, none);
+            background-color: var(--selection-background-color, none)
+   

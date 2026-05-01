@@ -1,0 +1,512 @@
+<script>try { if (localStorage.get("__framer_force_showing_editorbar_since")) { const n = document.createElement("link"); n.rel = "modulepreload"; n.href = "https://framer.com/edit/init.mjs"; document.head.appendChild(n) } } catch (e) { }</script>
+    <!-- Start of headStart -->
+    <style>
+        /* Mobile specific style overrides to fix the TextFrontCarousel overflow 
+           since React hydration will ignore inline style patches */
+        @media (max-width: 809.98px) {
+            body .phrase {
+                font-size: calc(var(--size, 100px) * 0.80) !important;
+                white-space: nowrap !important;
+                text-align: center;
+            }
+        }
+    </style>
+    <!-- End of headStart -->
+    <meta name="viewport" content="width=device-width">
+    <meta name="generator" content="Framer 97e2e97">
+    <title>Eviation Marketing </title>
+    <meta name="description" content="Marketing Eviation">
+    <meta name="framer-search-index"
+        content="https://
+
+--- MATCH ---
+
+<div
+                                                style="position:sticky;top:0;height:100vh;width:100%;display:grid;place-items:center;pointer-events:none">
+                                                <div
+                                                    style="position:relative;width:100%;height:100%;font-family:&quot;Mozilla Text&quot;, &quot;Mozilla Text Placeholder&quot;, sans-serif;font-style:normal;font-weight:600">
+                                                    <div class="phrase" data-i="0">30+ Brands</div>
+                                                    <div class="phrase" data-i="1">30+ Projects</div>
+                                                    <div class="phrase" data-i="2">5+ Markets</div>
+                                                    <div class="phrase" data-i="3">2+ Years</div>
+                                                    <div class="phrase" data-i="4">100+ Assets</div>
+                                                    <div class=
+
+--- MATCH ---
+
+:100%;display:grid;place-items:center;pointer-events:none">
+                                                <div
+                                                    style="position:relative;width:100%;height:100%;font-family:&quot;Mozilla Text&quot;, &quot;Mozilla Text Placeholder&quot;, sans-serif;font-style:normal;font-weight:600">
+                                                    <div class="phrase" data-i="0">30+ Brands</div>
+                                                    <div class="phrase" data-i="1">30+ Projects</div>
+                                                    <div class="phrase" data-i="2">5+ Markets</div>
+                                                    <div class="phrase" data-i="3">2+ Years</div>
+                                                    <div class="phrase" data-i="4">100+ Assets</div>
+                                                    <div class="phrase" data-i="5">2 Founders</div>
+                                                    <div class=
+
+--- MATCH ---
+
+      <div
+                                                    style="position:relative;width:100%;height:100%;font-family:&quot;Mozilla Text&quot;, &quot;Mozilla Text Placeholder&quot;, sans-serif;font-style:normal;font-weight:600">
+                                                    <div class="phrase" data-i="0">30+ Brands</div>
+                                                    <div class="phrase" data-i="1">30+ Projects</div>
+                                                    <div class="phrase" data-i="2">5+ Markets</div>
+                                                    <div class="phrase" data-i="3">2+ Years</div>
+                                                    <div class="phrase" data-i="4">100+ Assets</div>
+                                                    <div class="phrase" data-i="5">2 Founders</div>
+                                                    <div class="phrase" data-i="6">One Vision</div>
+                                                </div>
+          
+
+--- MATCH ---
+
+eight:100%;font-family:&quot;Mozilla Text&quot;, &quot;Mozilla Text Placeholder&quot;, sans-serif;font-style:normal;font-weight:600">
+                                                    <div class="phrase" data-i="0">30+ Brands</div>
+                                                    <div class="phrase" data-i="1">30+ Projects</div>
+                                                    <div class="phrase" data-i="2">5+ Markets</div>
+                                                    <div class="phrase" data-i="3">2+ Years</div>
+                                                    <div class="phrase" data-i="4">100+ Assets</div>
+                                                    <div class="phrase" data-i="5">2 Founders</div>
+                                                    <div class="phrase" data-i="6">One Vision</div>
+                                                </div>
+                                            </div>
+                                            <style>
+       
+
+--- MATCH ---
+
+font-style:normal;font-weight:600">
+                                                    <div class="phrase" data-i="0">30+ Brands</div>
+                                                    <div class="phrase" data-i="1">30+ Projects</div>
+                                                    <div class="phrase" data-i="2">5+ Markets</div>
+                                                    <div class="phrase" data-i="3">2+ Years</div>
+                                                    <div class="phrase" data-i="4">100+ Assets</div>
+                                                    <div class="phrase" data-i="5">2 Founders</div>
+                                                    <div class="phrase" data-i="6">One Vision</div>
+                                                </div>
+                                            </div>
+                                            <style>
+                                                .phrase {
+                                               
+
+--- MATCH ---
+
+hrase" data-i="0">30+ Brands</div>
+                                                    <div class="phrase" data-i="1">30+ Projects</div>
+                                                    <div class="phrase" data-i="2">5+ Markets</div>
+                                                    <div class="phrase" data-i="3">2+ Years</div>
+                                                    <div class="phrase" data-i="4">100+ Assets</div>
+                                                    <div class="phrase" data-i="5">2 Founders</div>
+                                                    <div class="phrase" data-i="6">One Vision</div>
+                                                </div>
+                                            </div>
+                                            <style>
+                                                .phrase {
+                                                    position: absolute;
+                                                    left: 50%;
+             
+
+--- MATCH ---
+
+hrase" data-i="1">30+ Projects</div>
+                                                    <div class="phrase" data-i="2">5+ Markets</div>
+                                                    <div class="phrase" data-i="3">2+ Years</div>
+                                                    <div class="phrase" data-i="4">100+ Assets</div>
+                                                    <div class="phrase" data-i="5">2 Founders</div>
+                                                    <div class="phrase" data-i="6">One Vision</div>
+                                                </div>
+                                            </div>
+                                            <style>
+                                                .phrase {
+                                                    position: absolute;
+                                                    left: 50%;
+                                                    top: 50%;
+                                                   
+
+--- MATCH ---
+
+                                            <div class="phrase" data-i="4">100+ Assets</div>
+                                                    <div class="phrase" data-i="5">2 Founders</div>
+                                                    <div class="phrase" data-i="6">One Vision</div>
+                                                </div>
+                                            </div>
+                                            <style>
+                                                .phrase {
+                                                    position: absolute;
+                                                    left: 50%;
+                                                    top: 50%;
+                                                    transform: translate(-50%, -50%) translateY(var(--y, 0)) translateZ(0);
+                                                    font-size: var(--size, 16px);
+                                                    opacity: var(--opacity, 0);
+        
+
+--- MATCH ---
+
+<div
+                                                style="position:sticky;top:0;height:100vh;width:100%;display:grid;place-items:center;pointer-events:none">
+                                                <div
+                                                    style="position:relative;width:100%;height:100%;font-family:&quot;Mozilla Text&quot;, &quot;Mozilla Text Placeholder&quot;, sans-serif;font-style:normal;font-weight:600">
+                                                    <div class="phrase" data-i="0">30+ Brands</div>
+                                                    <div class="phrase" data-i="1">30+ Projects</div>
+                                                    <div class="phrase" data-i="2">5+ Markets</div>
+                                                    <div class="phrase" data-i="3">2+ Years</div>
+                                                    <div class="phrase" data-i="4">100+ Assets</div>
+                                                    <div class=
+
+--- MATCH ---
+
+:100%;display:grid;place-items:center;pointer-events:none">
+                                                <div
+                                                    style="position:relative;width:100%;height:100%;font-family:&quot;Mozilla Text&quot;, &quot;Mozilla Text Placeholder&quot;, sans-serif;font-style:normal;font-weight:600">
+                                                    <div class="phrase" data-i="0">30+ Brands</div>
+                                                    <div class="phrase" data-i="1">30+ Projects</div>
+                                                    <div class="phrase" data-i="2">5+ Markets</div>
+                                                    <div class="phrase" data-i="3">2+ Years</div>
+                                                    <div class="phrase" data-i="4">100+ Assets</div>
+                                                    <div class="phrase" data-i="5">2 Founders</div>
+                                                    <div class=
+
+--- MATCH ---
+
+      <div
+                                                    style="position:relative;width:100%;height:100%;font-family:&quot;Mozilla Text&quot;, &quot;Mozilla Text Placeholder&quot;, sans-serif;font-style:normal;font-weight:600">
+                                                    <div class="phrase" data-i="0">30+ Brands</div>
+                                                    <div class="phrase" data-i="1">30+ Projects</div>
+                                                    <div class="phrase" data-i="2">5+ Markets</div>
+                                                    <div class="phrase" data-i="3">2+ Years</div>
+                                                    <div class="phrase" data-i="4">100+ Assets</div>
+                                                    <div class="phrase" data-i="5">2 Founders</div>
+                                                    <div class="phrase" data-i="6">One Vision</div>
+                                                </div>
+          
+
+--- MATCH ---
+
+eight:100%;font-family:&quot;Mozilla Text&quot;, &quot;Mozilla Text Placeholder&quot;, sans-serif;font-style:normal;font-weight:600">
+                                                    <div class="phrase" data-i="0">30+ Brands</div>
+                                                    <div class="phrase" data-i="1">30+ Projects</div>
+                                                    <div class="phrase" data-i="2">5+ Markets</div>
+                                                    <div class="phrase" data-i="3">2+ Years</div>
+                                                    <div class="phrase" data-i="4">100+ Assets</div>
+                                                    <div class="phrase" data-i="5">2 Founders</div>
+                                                    <div class="phrase" data-i="6">One Vision</div>
+                                                </div>
+                                            </div>
+                                            <style>
+       
+
+--- MATCH ---
+
+font-style:normal;font-weight:600">
+                                                    <div class="phrase" data-i="0">30+ Brands</div>
+                                                    <div class="phrase" data-i="1">30+ Projects</div>
+                                                    <div class="phrase" data-i="2">5+ Markets</div>
+                                                    <div class="phrase" data-i="3">2+ Years</div>
+                                                    <div class="phrase" data-i="4">100+ Assets</div>
+                                                    <div class="phrase" data-i="5">2 Founders</div>
+                                                    <div class="phrase" data-i="6">One Vision</div>
+                                                </div>
+                                            </div>
+                                            <style>
+                                                .phrase {
+                                               
+
+--- MATCH ---
+
+hrase" data-i="0">30+ Brands</div>
+                                                    <div class="phrase" data-i="1">30+ Projects</div>
+                                                    <div class="phrase" data-i="2">5+ Markets</div>
+                                                    <div class="phrase" data-i="3">2+ Years</div>
+                                                    <div class="phrase" data-i="4">100+ Assets</div>
+                                                    <div class="phrase" data-i="5">2 Founders</div>
+                                                    <div class="phrase" data-i="6">One Vision</div>
+                                                </div>
+                                            </div>
+                                            <style>
+                                                .phrase {
+                                                    position: absolute;
+                                                    left: 50%;
+             
+
+--- MATCH ---
+
+hrase" data-i="1">30+ Projects</div>
+                                                    <div class="phrase" data-i="2">5+ Markets</div>
+                                                    <div class="phrase" data-i="3">2+ Years</div>
+                                                    <div class="phrase" data-i="4">100+ Assets</div>
+                                                    <div class="phrase" data-i="5">2 Founders</div>
+                                                    <div class="phrase" data-i="6">One Vision</div>
+                                                </div>
+                                            </div>
+                                            <style>
+                                                .phrase {
+                                                    position: absolute;
+                                                    left: 50%;
+                                                    top: 50%;
+                                                   
+
+--- MATCH ---
+
+                                            <div class="phrase" data-i="4">100+ Assets</div>
+                                                    <div class="phrase" data-i="5">2 Founders</div>
+                                                    <div class="phrase" data-i="6">One Vision</div>
+                                                </div>
+                                            </div>
+                                            <style>
+                                                .phrase {
+                                                    position: absolute;
+                                                    left: 50%;
+                                                    top: 50%;
+                                                    transform: translate(-50%, -50%) translateY(var(--y, 0)) translateZ(0);
+                                                    font-size: var(--size, 16px);
+                                                    opacity: var(--opacity, 0);
+        
+
+--- MATCH ---
+
+                <div
+                                            style="position:sticky;top:0;height:100vh;width:100%;display:grid;place-items:center;pointer-events:none">
+                                            <div
+                                                style="position:relative;width:100%;height:100%;font-family:&quot;Mozilla Text&quot;, &quot;Mozilla Text Placeholder&quot;, sans-serif;font-style:normal;font-weight:600">
+                                                <div class="phrase" data-i="0">30+ Brands</div>
+                                                <div class="phrase" data-i="1">30+ Projects</div>
+                                                <div class="phrase" data-i="2">5+ Markets</div>
+                                                <div class="phrase" data-i="3">2+ Years</div>
+                                                <div class="phrase" data-i="4">100+ Assets</div>
+                                                <div class="phrase" data-i="5">
+
+--- MATCH ---
+
+ight:100vh;width:100%;display:grid;place-items:center;pointer-events:none">
+                                            <div
+                                                style="position:relative;width:100%;height:100%;font-family:&quot;Mozilla Text&quot;, &quot;Mozilla Text Placeholder&quot;, sans-serif;font-style:normal;font-weight:600">
+                                                <div class="phrase" data-i="0">30+ Brands</div>
+                                                <div class="phrase" data-i="1">30+ Projects</div>
+                                                <div class="phrase" data-i="2">5+ Markets</div>
+                                                <div class="phrase" data-i="3">2+ Years</div>
+                                                <div class="phrase" data-i="4">100+ Assets</div>
+                                                <div class="phrase" data-i="5">2 Founders</div>
+                                                <div class="phrase" data-i="6">
+
+--- MATCH ---
+
+                      <div
+                                                style="position:relative;width:100%;height:100%;font-family:&quot;Mozilla Text&quot;, &quot;Mozilla Text Placeholder&quot;, sans-serif;font-style:normal;font-weight:600">
+                                                <div class="phrase" data-i="0">30+ Brands</div>
+                                                <div class="phrase" data-i="1">30+ Projects</div>
+                                                <div class="phrase" data-i="2">5+ Markets</div>
+                                                <div class="phrase" data-i="3">2+ Years</div>
+                                                <div class="phrase" data-i="4">100+ Assets</div>
+                                                <div class="phrase" data-i="5">2 Founders</div>
+                                                <div class="phrase" data-i="6">One Vision</div>
+                                            </div>
+                              
+
+--- MATCH ---
+
+ive;width:100%;height:100%;font-family:&quot;Mozilla Text&quot;, &quot;Mozilla Text Placeholder&quot;, sans-serif;font-style:normal;font-weight:600">
+                                                <div class="phrase" data-i="0">30+ Brands</div>
+                                                <div class="phrase" data-i="1">30+ Projects</div>
+                                                <div class="phrase" data-i="2">5+ Markets</div>
+                                                <div class="phrase" data-i="3">2+ Years</div>
+                                                <div class="phrase" data-i="4">100+ Assets</div>
+                                                <div class="phrase" data-i="5">2 Founders</div>
+                                                <div class="phrase" data-i="6">One Vision</div>
+                                            </div>
+                                        </div>
+                                        <style>
+                               
+
+--- MATCH ---
+
+r&quot;, sans-serif;font-style:normal;font-weight:600">
+                                                <div class="phrase" data-i="0">30+ Brands</div>
+                                                <div class="phrase" data-i="1">30+ Projects</div>
+                                                <div class="phrase" data-i="2">5+ Markets</div>
+                                                <div class="phrase" data-i="3">2+ Years</div>
+                                                <div class="phrase" data-i="4">100+ Assets</div>
+                                                <div class="phrase" data-i="5">2 Founders</div>
+                                                <div class="phrase" data-i="6">One Vision</div>
+                                            </div>
+                                        </div>
+                                        <style>
+                                            .phrase {
+                                                position: absolute;
+   
+
+--- MATCH ---
+
+       <div class="phrase" data-i="0">30+ Brands</div>
+                                                <div class="phrase" data-i="1">30+ Projects</div>
+                                                <div class="phrase" data-i="2">5+ Markets</div>
+                                                <div class="phrase" data-i="3">2+ Years</div>
+                                                <div class="phrase" data-i="4">100+ Assets</div>
+                                                <div class="phrase" data-i="5">2 Founders</div>
+                                                <div class="phrase" data-i="6">One Vision</div>
+                                            </div>
+                                        </div>
+                                        <style>
+                                            .phrase {
+                                                position: absolute;
+                                                left: 50%;
+                                         
+
+--- MATCH ---
+
+       <div class="phrase" data-i="1">30+ Projects</div>
+                                                <div class="phrase" data-i="2">5+ Markets</div>
+                                                <div class="phrase" data-i="3">2+ Years</div>
+                                                <div class="phrase" data-i="4">100+ Assets</div>
+                                                <div class="phrase" data-i="5">2 Founders</div>
+                                                <div class="phrase" data-i="6">One Vision</div>
+                                            </div>
+                                        </div>
+                                        <style>
+                                            .phrase {
+                                                position: absolute;
+                                                left: 50%;
+                                                top: 50%;
+                                                transform: translate(-50%, -50%
+
+--- MATCH ---
+
+="3">2+ Years</div>
+                                                <div class="phrase" data-i="4">100+ Assets</div>
+                                                <div class="phrase" data-i="5">2 Founders</div>
+                                                <div class="phrase" data-i="6">One Vision</div>
+                                            </div>
+                                        </div>
+                                        <style>
+                                            .phrase {
+                                                position: absolute;
+                                                left: 50%;
+                                                top: 50%;
+                                                transform: translate(-50%, -50%) translateY(var(--y, 0)) translateZ(0);
+                                                font-size: var(--size, 16px);
+                                                opacity: var(--opacity, 0);
+                                
+
+--- MATCH ---
+
+                <div
+                                            style="position:sticky;top:0;height:100vh;width:100%;display:grid;place-items:center;pointer-events:none">
+                                            <div
+                                                style="position:relative;width:100%;height:100%;font-family:&quot;Mozilla Text&quot;, &quot;Mozilla Text Placeholder&quot;, sans-serif;font-style:normal;font-weight:600">
+                                                <div class="phrase" data-i="0">30+ Brands</div>
+                                                <div class="phrase" data-i="1">30+ Projects</div>
+                                                <div class="phrase" data-i="2">5+ Markets</div>
+                                                <div class="phrase" data-i="3">2+ Years</div>
+                                                <div class="phrase" data-i="4">100+ Assets</div>
+                                                <div class="phrase" data-i="5">
+
+--- MATCH ---
+
+ight:100vh;width:100%;display:grid;place-items:center;pointer-events:none">
+                                            <div
+                                                style="position:relative;width:100%;height:100%;font-family:&quot;Mozilla Text&quot;, &quot;Mozilla Text Placeholder&quot;, sans-serif;font-style:normal;font-weight:600">
+                                                <div class="phrase" data-i="0">30+ Brands</div>
+                                                <div class="phrase" data-i="1">30+ Projects</div>
+                                                <div class="phrase" data-i="2">5+ Markets</div>
+                                                <div class="phrase" data-i="3">2+ Years</div>
+                                                <div class="phrase" data-i="4">100+ Assets</div>
+                                                <div class="phrase" data-i="5">2 Founders</div>
+                                                <div class="phrase" data-i="6">
+
+--- MATCH ---
+
+                      <div
+                                                style="position:relative;width:100%;height:100%;font-family:&quot;Mozilla Text&quot;, &quot;Mozilla Text Placeholder&quot;, sans-serif;font-style:normal;font-weight:600">
+                                                <div class="phrase" data-i="0">30+ Brands</div>
+                                                <div class="phrase" data-i="1">30+ Projects</div>
+                                                <div class="phrase" data-i="2">5+ Markets</div>
+                                                <div class="phrase" data-i="3">2+ Years</div>
+                                                <div class="phrase" data-i="4">100+ Assets</div>
+                                                <div class="phrase" data-i="5">2 Founders</div>
+                                                <div class="phrase" data-i="6">One Vision</div>
+                                            </div>
+                              
+
+--- MATCH ---
+
+ive;width:100%;height:100%;font-family:&quot;Mozilla Text&quot;, &quot;Mozilla Text Placeholder&quot;, sans-serif;font-style:normal;font-weight:600">
+                                                <div class="phrase" data-i="0">30+ Brands</div>
+                                                <div class="phrase" data-i="1">30+ Projects</div>
+                                                <div class="phrase" data-i="2">5+ Markets</div>
+                                                <div class="phrase" data-i="3">2+ Years</div>
+                                                <div class="phrase" data-i="4">100+ Assets</div>
+                                                <div class="phrase" data-i="5">2 Founders</div>
+                                                <div class="phrase" data-i="6">One Vision</div>
+                                            </div>
+                                        </div>
+                                        <style>
+                               
+
+--- MATCH ---
+
+r&quot;, sans-serif;font-style:normal;font-weight:600">
+                                                <div class="phrase" data-i="0">30+ Brands</div>
+                                                <div class="phrase" data-i="1">30+ Projects</div>
+                                                <div class="phrase" data-i="2">5+ Markets</div>
+                                                <div class="phrase" data-i="3">2+ Years</div>
+                                                <div class="phrase" data-i="4">100+ Assets</div>
+                                                <div class="phrase" data-i="5">2 Founders</div>
+                                                <div class="phrase" data-i="6">One Vision</div>
+                                            </div>
+                                        </div>
+                                        <style>
+                                            .phrase {
+                                                position: absolute;
+   
+
+--- MATCH ---
+
+       <div class="phrase" data-i="0">30+ Brands</div>
+                                                <div class="phrase" data-i="1">30+ Projects</div>
+                                                <div class="phrase" data-i="2">5+ Markets</div>
+                                                <div class="phrase" data-i="3">2+ Years</div>
+                                                <div class="phrase" data-i="4">100+ Assets</div>
+                                                <div class="phrase" data-i="5">2 Founders</div>
+                                                <div class="phrase" data-i="6">One Vision</div>
+                                            </div>
+                                        </div>
+                                        <style>
+                                            .phrase {
+                                                position: absolute;
+                                                left: 50%;
+                                         
+
+--- MATCH ---
+
+       <div class="phrase" data-i="1">30+ Projects</div>
+                                                <div class="phrase" data-i="2">5+ Markets</div>
+                                                <div class="phrase" data-i="3">2+ Years</div>
+                                                <div class="phrase" data-i="4">100+ Assets</div>
+                                                <div class="phrase" data-i="5">2 Founders</div>
+                                                <div class="phrase" data-i="6">One Vision</div>
+                                            </div>
+                                        </div>
+                                        <style>
+                                            .phrase {
+                                                position: absolute;
+                                                left: 50%;
+                                                top: 50%;
+                                                transform: translate(-50%, -50%
+
+--- MATCH ---
+
+="3">2+ Years</div>
+                                                <div class="phrase" data-i="4">100+ Assets</div>
+                                                <div class="phrase" data-i="5">2 Founders</div>
+                                                <div class="phrase" data-i="6">One Vision</div>
+                                            </div>
+                                        </div>
+                                        <style>
+                                            .phrase {
+                                                position: absolute;
+                                                left: 50%;
+                                                top: 50%;
+                                                transform: translate(-50%, -50%) translateY(var(--y, 0)) translateZ(0);
+                                                font-size: var(--size, 16px);
+                                                opacity: var(--opacity, 0);
+                                

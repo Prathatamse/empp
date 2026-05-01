@@ -1,0 +1,32 @@
+                                                  Work</h6>
+                                            
+
+--- MATCH ---
+
+    <div class="framer-1k7pmmx" data-framer-name="Worker"
+                                              
+
+--- MATCH ---
+
+    <div class="framer-1k7pmmx" data-framer-name="Worker"
+                                              
+
+--- MATCH ---
+
+    <div class="framer-1k7pmmx" data-framer-name="Worker"
+                                              
+
+--- MATCH ---
+
+    <div class="framer-1k7pmmx" data-framer-name="Worker"
+                                              
+
+--- MATCH ---
+
+ <section class="framer-iu37fo" data-framer-name="Work" id="work">
+                    <section class="f
+
+--- MATCH ---
+
+server + element.animate() — zero dependencies.
+* Works from file:// protocol (no module imports, no CDN

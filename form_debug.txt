@@ -1,0 +1,88 @@
+Form 0:
+  Action: https://nocodeexport.com/api/submit/form_EgkGxoo1Iyir3b0a
+  Method: POST
+  Inputs:
+    - name=Name type=text
+    - name=Email type=email
+    - name=Link type=text
+    - name=website type=text
+    - name=company type=text
+    - name=message type=text
+    - name=subject type=text
+    - name=title type=text
+    - name=description type=text
+    - name=feedback type=text
+    - name=notes type=text
+    - name=details type=text
+    - name=remarks type=text
+    - name=comments type=text
+    - name=_gotcha type=text
+    - name=Mesage
+    - type=None
+--------------------
+Form 1:
+  Action: https://nocodeexport.com/api/submit/form_EgkGxoo1Iyir3b0a
+  Method: POST
+  Inputs:
+    - name=Name type=text
+    - name=Email type=email
+    - name=Link type=text
+    - name=website type=text
+    - name=company type=text
+    - name=message type=text
+    - name=subject type=text
+    - name=title type=text
+    - name=description type=text
+    - name=feedback type=text
+    - name=notes type=text
+    - name=details type=text
+    - name=remarks type=text
+    - name=comments type=text
+    - name=_gotcha type=text
+    - name=Mesage
+    - type=None
+--------------------
+Form 2:
+  Action: https://nocodeexport.com/api/submit/form_EgkGxoo1Iyir3b0a
+  Method: POST
+  Inputs:
+    - name=Name type=text
+    - name=Email type=email
+    - name=Link type=text
+    - name=website type=text
+    - name=company type=text
+    - name=message type=text
+    - name=subject type=text
+    - name=title type=text
+    - name=description type=text
+    - name=feedback type=text
+    - name=notes type=text
+    - name=details type=text
+    - name=remarks type=text
+    - name=comments type=text
+    - name=_gotcha type=text
+    - name=Mesage
+    - type=None
+--------------------
+Form 3:
+  Action: https://nocodeexport.com/api/submit/form_EgkGxoo1Iyir3b0a
+  Method: POST
+  Inputs:
+    - name=Name type=text
+    - name=Email type=email
+    - name=Link type=text
+    - name=website type=text
+    - name=company type=text
+    - name=message type=text
+    - name=subject type=text
+    - name=title type=text
+    - name=description type=text
+    - name=feedback type=text
+    - name=notes type=text
+    - name=details type=text
+    - name=remarks type=text
+    - name=comments type=text
+    - name=_gotcha type=text
+    - name=Mesage
+    - type=None
+--------------------

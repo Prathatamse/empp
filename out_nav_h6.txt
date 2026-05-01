@@ -1,0 +1,172 @@
+                                   <div class="framer-1pu1avj" data-framer-name="Contact now"
+                                                            style="justify-content:center;--extracted-1w1cjl5:var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255));--framer-paragraph-spacing:0px;transform:none"
+                                                            data-framer-component-type="RichTextContainer">
+                                                            <h6 class="framer-text framer-styles-preset-4995rr"
+                                                                data-styles-preset="eGWmhLuo2"
+                                                                style="--framer-text-alignment:center;--framer-text-color:var(--extracted-1w1cjl5, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))">
+                                                                Contact Now</h6>
+                                                        </div>
+
+
+--- MATCH ---
+
+                                   <div class="framer-1pu1avj" data-framer-name="Contact now"
+                                                            style="justify-content:center;--extracted-1w1cjl5:var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255));--framer-paragraph-spacing:0px;transform:none"
+                                                            data-framer-component-type="RichTextContainer">
+                                                            <h6 class="framer-text framer-styles-preset-4995rr"
+                                                                data-styles-preset="eGWmhLuo2"
+                                                                style="--framer-text-alignment:center;--framer-text-color:var(--extracted-1w1cjl5, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))">
+                                                                Contact Now</h6>
+                                                        </div>
+
+
+--- MATCH ---
+
+class="framer-15qeho2">
+                                                    <div class="framer-e36fom" data-framer-name="Line 1"
+                                                        style="--extracted-1w1cjl5:var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255));--framer-paragraph-spacing:0px;transform:none"
+                                                        data-framer-component-type="RichTextContainer">
+                                                        <h6 class="framer-text framer-styles-preset-4995rr"
+                                                            data-styles-preset="eGWmhLuo2"
+                                                            style="--framer-text-alignment:right;--framer-text-color:var(--extracted-1w1cjl5, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))">
+                                                            FOCUSED CRAFT</h6>
+                                                    </div>
+               
+
+--- MATCH ---
+
+                     </div>
+                                                    <div class="framer-10ea8c5" data-framer-name="Dot"
+                                                        style="--extracted-1w1cjl5:var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48));--framer-paragraph-spacing:0px;transform:none"
+                                                        data-framer-component-type="RichTextContainer">
+                                                        <h6 class="framer-text framer-styles-preset-4995rr"
+                                                            data-styles-preset="eGWmhLuo2"
+                                                            style="--framer-text-alignment:right;--framer-text-color:var(--extracted-1w1cjl5, var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48)))">
+                                                            .</h6>
+                                                    </div>
+                             
+
+--- MATCH ---
+
+class="framer-1weejng">
+                                                    <div class="framer-pay75p" data-framer-name="Line 2"
+                                                        style="--extracted-1w1cjl5:var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255));--framer-paragraph-spacing:0px;transform:none"
+                                                        data-framer-component-type="RichTextContainer">
+                                                        <h6 class="framer-text framer-styles-preset-4995rr"
+                                                            data-styles-preset="eGWmhLuo2"
+                                                            style="--framer-text-alignment:right;--framer-text-color:var(--extracted-1w1cjl5, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))">
+                                                            GLOBAL FOOTPRINT</h6>
+                                                    </div>
+            
+
+--- MATCH ---
+
+                      </div>
+                                                    <div class="framer-dqs2xu" data-framer-name="Dot"
+                                                        style="--extracted-1w1cjl5:var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48));--framer-paragraph-spacing:0px;transform:none"
+                                                        data-framer-component-type="RichTextContainer">
+                                                        <h6 class="framer-text framer-styles-preset-4995rr"
+                                                            data-styles-preset="eGWmhLuo2"
+                                                            style="--framer-text-alignment:right;--framer-text-color:var(--extracted-1w1cjl5, var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48)))">
+                                                            .</h6>
+                                                    </div>
+                             
+
+--- MATCH ---
+
+class="framer-15qeho2">
+                                                    <div class="framer-e36fom" data-framer-name="Line 1"
+                                                        style="--extracted-1w1cjl5:var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255));--framer-paragraph-spacing:0px;transform:none"
+                                                        data-framer-component-type="RichTextContainer">
+                                                        <h6 class="framer-text framer-styles-preset-4995rr"
+                                                            data-styles-preset="eGWmhLuo2"
+                                                            style="--framer-text-alignment:right;--framer-text-color:var(--extracted-1w1cjl5, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))">
+                                                            FOCUSED CRAFT</h6>
+                                                    </div>
+               
+
+--- MATCH ---
+
+                     </div>
+                                                    <div class="framer-10ea8c5" data-framer-name="Dot"
+                                                        style="--extracted-1w1cjl5:var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48));--framer-paragraph-spacing:0px;transform:none"
+                                                        data-framer-component-type="RichTextContainer">
+                                                        <h6 class="framer-text framer-styles-preset-4995rr"
+                                                            data-styles-preset="eGWmhLuo2"
+                                                            style="--framer-text-alignment:right;--framer-text-color:var(--extracted-1w1cjl5, var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48)))">
+                                                            .</h6>
+                                                    </div>
+                             
+
+--- MATCH ---
+
+class="framer-1weejng">
+                                                    <div class="framer-pay75p" data-framer-name="Line 2"
+                                                        style="--extracted-1w1cjl5:var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255));--framer-paragraph-spacing:0px;transform:none"
+                                                        data-framer-component-type="RichTextContainer">
+                                                        <h6 class="framer-text framer-styles-preset-4995rr"
+                                                            data-styles-preset="eGWmhLuo2"
+                                                            style="--framer-text-alignment:right;--framer-text-color:var(--extracted-1w1cjl5, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))">
+                                                            GLOBAL FOOTPRINT</h6>
+                                                    </div>
+            
+
+--- MATCH ---
+
+                      </div>
+                                                    <div class="framer-dqs2xu" data-framer-name="Dot"
+                                                        style="--extracted-1w1cjl5:var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48));--framer-paragraph-spacing:0px;transform:none"
+                                                        data-framer-component-type="RichTextContainer">
+                                                        <h6 class="framer-text framer-styles-preset-4995rr"
+                                                            data-styles-preset="eGWmhLuo2"
+                                                            style="--framer-text-alignment:right;--framer-text-color:var(--extracted-1w1cjl5, var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48)))">
+                                                            .</h6>
+                                                    </div>
+                             
+
+--- MATCH ---
+
+                                   <div class="framer-10lt0l4" data-framer-name="Contact now"
+                                                            style="justify-content:center;--extracted-1w1cjl5:var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255));--framer-paragraph-spacing:0px;transform:none"
+                                                            data-framer-component-type="RichTextContainer">
+                                                            <h6 class="framer-text framer-styles-preset-4995rr"
+                                                                data-styles-preset="eGWmhLuo2"
+                                                                style="--framer-text-alignment:center;--framer-text-color:var(--extracted-1w1cjl5, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))">
+                                                                Contact now</h6>
+                                                        </div>
+
+
+--- MATCH ---
+
+                                   <div class="framer-10lt0l4" data-framer-name="Contact now"
+                                                            style="justify-content:center;--extracted-1w1cjl5:var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255));--framer-paragraph-spacing:0px;transform:none"
+                                                            data-framer-component-type="RichTextContainer">
+                                                            <h6 class="framer-text framer-styles-preset-4995rr"
+                                                                data-styles-preset="eGWmhLuo2"
+                                                                style="--framer-text-alignment:center;--framer-text-color:var(--extracted-1w1cjl5, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))">
+                                                                Contact now</h6>
+                                                        </div>
+
+
+--- MATCH ---
+
+                                   <div class="framer-10lt0l4" data-framer-name="Contact now"
+                                                            style="justify-content:center;--extracted-1w1cjl5:var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255));--framer-paragraph-spacing:0px;transform:none"
+                                                            data-framer-component-type="RichTextContainer">
+                                                            <h6 class="framer-text framer-styles-preset-4995rr"
+                                                                data-styles-preset="eGWmhLuo2"
+                                                                style="--framer-text-alignment:center;--framer-text-color:var(--extracted-1w1cjl5, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))">
+                                                                Contact now</h6>
+                                                        </div>
+
+
+--- MATCH ---
+
+                                   <div class="framer-10lt0l4" data-framer-name="Contact now"
+                                                            style="justify-content:center;--extracted-1w1cjl5:var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255));--framer-paragraph-spacing:0px;transform:none"
+                                                            data-framer-component-type="RichTextContainer">
+                                                            <h6 class="framer-text framer-styles-preset-4995rr"
+                                                                data-styles-preset="eGWmhLuo2"
+                                                                style="--framer-text-alignment:center;--framer-text-color:var(--extracted-1w1cjl5, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))">
+                                                                Contact now</h6>
+                                                        </div>

@@ -1,0 +1,41 @@
+                        if (y > 50 && !scrolled) {
+                            scrolled = true;
+                            el.style.backgroundColor = targetBg;
+                            el.style.backdropFilter = 'blur(5px)';
+                            el.style.webkitBackdropFilter = 'blur(5px)';
+                        } else if (y <= 10 && scrolled) {
+                            scrolled = false;
+                            el.style.backgroundColor = originalBg;
+                            el.style.backdropFilter = originalBackdrop;
+                            el.style.webkitBackdropFilter = originalBackdrop;
+                        }
+                        ticking = false;
+                    });
+                }
+
+                window.addEventListener('scroll', onScroll, { passive: true });
+                onScroll();
+            });
+        })();
+    </script>
+    <script>
+        (function () {
+            var origin = "https://breezy-months-462813.framer.app";
+            var allowed = ["https://breezy-months-462813.framer.app/", "https://breezy-months-462813.framer.app/404", "https://breezy-months-462813.framer.app/cases", "https://breezy-months-462813.framer.app/cases/hotel-%C3%A9den-karwar"];
+            var relativeRoot = "./";
+
+            function neutralizeLink(a) {
+                if (!a || a.getAttribute("data-nce-checked")) return;
+                var rawHref = a.getAttribute("href");
+                if (!rawHref) return;
+
+                a.setAttribute("data-nce-checked", "true");
+
+                // Ignore anchors, JS, mailto, tel
+                if (rawHref.indexOf("#") === 0 || rawHref.indexOf("javascript:") === 0 || rawHref.indexOf("mailto:") === 0 || rawHref.indexOf("tel:") === 0) return;
+
+                try {
+                    // Crucial: Resolve against intended page URL, NOT local filesystem.
+                    var url = new URL(rawHref, origin + "/");
+                    if (url.origin === origin) {
+                        // Int

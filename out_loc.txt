@@ -1,0 +1,34 @@
+--framer-text-color: #fff;
+            --framer-text-decoration: none;
+            --framer-text-stroke-color: initial;
+            --framer-text-stroke-width: initial;
+            --framer-text-transform: none
+        }
+    </style><!-- Start of headEnd -->
+
+    <!-- End of headEnd -->
+    <style data-nce-scroll-fallback="">
+        [data-nce-scroll] {
+            opacity: 1 !important;
+            transform: none !important
+        }
+    </style>
+
+    <style>
+        /* Fix for Safari/Chrome 'ContactHome' spacing issue */
+        .framer-FbrZO .framer-40t19v > div {
+            margin-right: 15px !important;
+            margin-bottom: 5px !important;
+        }
+        .framer-190oa1v {
+            padding: 0 10px !important;
+            white-space: nowrap !important;
+        }
+        /* Hide book preloader and show stage instantly */
+        .preloader { display: none !important; }
+        .stage { opacity: 1 !important; transition: none !important; }
+    </style>
+</head>
+
+<body>
+

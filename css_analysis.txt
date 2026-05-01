@@ -1,0 +1,301 @@
+.framer-xg4zmt { 
+        flex-flow: column;
+        flex: none;
+        place-content: center flex-start;
+        align-items: center;
+        gap: 0;
+        width: 100%;
+        height: 100%;
+        padding: 0;
+        display: flex;
+        position: relative
+     }
+.framer-xg4zmt { 
+        z-index: 1;
+        order: 1;
+        justify-content: flex-end
+     }
+@media (min-width:1400px) and (max-width:1399.98px) { .framer-xg4zmt { 
+        flex-flow: column;
+        flex: none;
+        place-content: center flex-start;
+        align-items: center;
+        gap: 0;
+        width: 100%;
+        height: 100%;
+        padding: 0;
+        display: flex;
+        position: relative
+     } }
+.framer-7q7o31-container { 
+        flex: none;
+        width: 100%;
+        height: auto;
+        position: relative
+     }
+.framer-7q7o31-container { 
+        order: 0
+     }
+@media (min-width:1400px) and (max-width:1399.98px) { .framer-7q7o31-container { 
+        flex: none;
+        width: 100%;
+        height: auto;
+        position: relative
+     } }
+.framer-1grtbnz { 
+        flex-flow: column;
+        flex: none;
+        place-content: flex-end space-between;
+        align-items: flex-end;
+        width: 390px;
+        height: 727px;
+        padding: 40px 20px 20px;
+        display: flex;
+        position: relative;
+        overflow: visible
+     }
+@media (min-width:1400px) and (max-width:1399.98px) { .framer-1grtbnz { 
+        flex-flow: column;
+        flex: none;
+        place-content: flex-end space-between;
+        align-items: flex-end;
+        width: 390px;
+        height: 727px;
+        padding: 40px 20px 20px;
+        display: flex;
+        position: relative;
+        overflow: visible
+     } }
+.framer-vg1kpn { 
+        z-index: 3;
+        flex-flow: column;
+        flex: none;
+        place-content: center flex-start;
+        align-items: center;
+        gap: 0;
+        width: 100%;
+        height: min-content;
+        padding: 150px 0 250px;
+        display: flex;
+        position: relative;
+        overflow: visible
+     }
+.framer-vg1kpn { 
+        padding: 150px 0
+     }
+.framer-vg1kpn { 
+        padding: 100px 0
+     }
+.framer-vg1kpn { 
+        place-self: start;
+        padding: 80px 0
+     }
+@media (min-width:1400px) and (max-width:1399.98px) { .framer-vg1kpn { 
+        z-index: 3;
+        flex-flow: column;
+        flex: none;
+        place-content: center flex-start;
+        align-items: center;
+        gap: 0;
+        width: 100%;
+        height: min-content;
+        padding: 150px 0 250px;
+        display: flex;
+        position: relative;
+        overflow: visible
+     } }
+.framer-u028yh { 
+        flex-flow: row;
+        place-content: center;
+        align-items: center;
+        gap: 10px;
+        width: 1600px;
+        height: min-content;
+        padding: 0;
+        display: flex;
+        position: relative;
+        overflow: visible
+     }
+.framer-u028yh { 
+        width: 1200px;
+        min-height: 1500px
+     }
+.framer-u028yh { 
+        gap: 0;
+        width: 810px;
+        min-height: 1500px
+     }
+.framer-u028yh { 
+        align-content: unset;
+        align-items: unset;
+        grid-template-rows: repeat(2, minmax(0, 1fr));
+        grid-template-columns: repeat(1, minmax(50px, 1fr));
+        grid-auto-rows: minmax(0, 1fr);
+        gap: 0 20px;
+        width: 390px;
+        min-height: 1000px;
+        display: grid
+     }
+@media (min-width:1400px) and (max-width:1399.98px) { .framer-u028yh { 
+        flex-flow: row;
+        place-content: center;
+        align-items: center;
+        gap: 10px;
+        width: 1600px;
+        height: min-content;
+        padding: 0;
+        display: flex;
+        position: relative;
+        overflow: visible
+     } }
+.framer-xg4zmt { 
+            flex-flow: column;
+            flex: none;
+            place-content: center flex-start;
+            align-items: center;
+            gap: 0;
+            width: 100%;
+            height: 100%;
+            padding: 0;
+            display: flex;
+            position: relative
+         }
+.framer-xg4zmt { 
+            z-index: 1;
+            order: 1;
+            justify-content: flex-end
+         }
+@media (min-width:1400px) and (max-width:1399.98px) { .framer-xg4zmt { 
+            flex-flow: column;
+            flex: none;
+            place-content: center flex-start;
+            align-items: center;
+            gap: 0;
+            width: 100%;
+            height: 100%;
+            padding: 0;
+            display: flex;
+            position: relative
+         } }
+.framer-7q7o31-container { 
+            flex: none;
+            width: 100%;
+            height: auto;
+            position: relative
+         }
+.framer-7q7o31-container { 
+            order: 0
+         }
+@media (min-width:1400px) and (max-width:1399.98px) { .framer-7q7o31-container { 
+            flex: none;
+            width: 100%;
+            height: auto;
+            position: relative
+         } }
+.framer-1grtbnz { 
+            flex-flow: column;
+            flex: none;
+            place-content: flex-end space-between;
+            align-items: flex-end;
+            width: 390px;
+            height: 727px;
+            padding: 40px 20px 20px;
+            display: flex;
+            position: relative;
+            overflow: visible
+         }
+@media (min-width:1400px) and (max-width:1399.98px) { .framer-1grtbnz { 
+            flex-flow: column;
+            flex: none;
+            place-content: flex-end space-between;
+            align-items: flex-end;
+            width: 390px;
+            height: 727px;
+            padding: 40px 20px 20px;
+            display: flex;
+            position: relative;
+            overflow: visible
+         } }
+.framer-vg1kpn { 
+            z-index: 3;
+            flex-flow: column;
+            flex: none;
+            place-content: center flex-start;
+            align-items: center;
+            gap: 0;
+            width: 100%;
+            height: min-content;
+            padding: 150px 0 250px;
+            display: flex;
+            position: relative;
+            overflow: visible
+         }
+.framer-vg1kpn { 
+            padding: 132px 0
+         }
+.framer-vg1kpn { 
+            order: 0;
+            padding: 150px 0 819px
+         }
+.framer-vg1kpn { 
+            place-self: start;
+            padding: 80px 0
+         }
+@media (min-width:1400px) and (max-width:1399.98px) { .framer-vg1kpn { 
+            z-index: 3;
+            flex-flow: column;
+            flex: none;
+            place-content: center flex-start;
+            align-items: center;
+            gap: 0;
+            width: 100%;
+            height: min-content;
+            padding: 150px 0 250px;
+            display: flex;
+            position: relative;
+            overflow: visible
+         } }
+.framer-u028yh { 
+            flex-flow: row;
+            place-content: center;
+            align-items: center;
+            gap: 10px;
+            width: 1600px;
+            height: min-content;
+            padding: 0;
+            display: flex;
+            position: relative;
+            overflow: visible
+         }
+.framer-u028yh { 
+            width: 1200px;
+            min-height: 1500px
+         }
+.framer-u028yh { 
+            gap: 11px;
+            width: 810px;
+            min-height: 1500px
+         }
+.framer-u028yh { 
+            align-content: unset;
+            align-items: unset;
+            grid-template-rows: repeat(2, minmax(0, 1fr));
+            grid-template-columns: repeat(1, minmax(50px, 1fr));
+            grid-auto-rows: minmax(0, 1fr);
+            gap: 0 20px;
+            width: 390px;
+            min-height: 1000px;
+            display: grid
+         }
+@media (min-width:1400px) and (max-width:1399.98px) { .framer-u028yh { 
+            flex-flow: row;
+            place-content: center;
+            align-items: center;
+            gap: 10px;
+            width: 1600px;
+            height: min-content;
+            padding: 0;
+            display: flex;
+            position: relative;
+            overflow: visible
+         } }

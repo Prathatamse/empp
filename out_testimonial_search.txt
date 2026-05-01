@@ -1,0 +1,59 @@
+                                        data-framer-component-type="RichTextContainer">
+                                                <h6 class="framer-text framer-styles-preset-753q9u"
+                                                    data-styles-preset="DPlrwsrr0"
+                                                    style="--framer-text-color:var(--extracted-1w1cjl5, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))">
+                                                    Testimonial&nbsp;</h6>
+                                            </div>
+                                            <div class="framer-y5upef" data-framer-name="Left" style="opacity:0">
+                                                <div data-framer-component-type="SVG" data-framer-name="Lines"
+                                                    style="image-rendering:pixelated;flex-shrink:0"
+                                                    class="framer-11dud2k" aria-hidden="true">
+      
+
+--- MATCH ---
+
+      <p dir="auto"
+                                                style="--font-selector:Q1VTVE9NVjI7Q2FuZHkgSHVudGVyIFJlZ3VsYXI=;--framer-font-family:&quot;Candy Hunter Regular&quot;, &quot;Candy Hunter Regular Placeholder&quot;, sans-serif;--framer-font-size:229.79072630283133px;--framer-letter-spacing:0.025em;--framer-text-color:var(--extracted-r6o4lv, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))"
+                                                class="framer-text">Testimonials<span
+                                                    style="--framer-text-color:var(--extracted-1w3ko1f, var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48)))"
+                                                    class="framer-text">.</span></p>
+                                        </foreignObject>
+                                    </svg></div>
+                                <div class="framer-1lytv5o" data-framer-name="Spacer"></div>
+                        
+
+--- MATCH ---
+
+      <p dir="auto"
+                                                style="--font-selector:Q1VTVE9NVjI7Q2FuZHkgSHVudGVyIFJlZ3VsYXI=;--framer-font-family:&quot;Candy Hunter Regular&quot;, &quot;Candy Hunter Regular Placeholder&quot;, sans-serif;--framer-font-size:229.79072630283133px;--framer-letter-spacing:0.025em;--framer-text-color:var(--extracted-r6o4lv, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))"
+                                                class="framer-text">Testimonials<span
+                                                    style="--framer-text-color:var(--extracted-1w3ko1f, var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48)))"
+                                                    class="framer-text">.</span></p>
+                                        </foreignObject>
+                                    </svg></div>
+                                <div class="framer-1lytv5o" data-framer-name="Spacer"></div>
+                        
+
+--- MATCH ---
+
+      <p dir="auto"
+                                                style="--font-selector:Q1VTVE9NVjI7Q2FuZHkgSHVudGVyIFJlZ3VsYXI=;--framer-font-family:&quot;Candy Hunter Regular&quot;, &quot;Candy Hunter Regular Placeholder&quot;, sans-serif;--framer-font-size:229.79072630283133px;--framer-letter-spacing:0.025em;--framer-text-color:var(--extracted-r6o4lv, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))"
+                                                class="framer-text">Testimonials<span
+                                                    style="--framer-text-color:var(--extracted-1w3ko1f, var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48)))"
+                                                    class="framer-text">.</span></p>
+                                        </foreignObject>
+                                    </svg></div>
+                                <div class="framer-1lytv5o" data-framer-name="Spacer"></div>
+                        
+
+--- MATCH ---
+
+      <p dir="auto"
+                                                style="--font-selector:Q1VTVE9NVjI7Q2FuZHkgSHVudGVyIFJlZ3VsYXI=;--framer-font-family:&quot;Candy Hunter Regular&quot;, &quot;Candy Hunter Regular Placeholder&quot;, sans-serif;--framer-font-size:229.79072630283133px;--framer-letter-spacing:0.025em;--framer-text-color:var(--extracted-r6o4lv, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))"
+                                                class="framer-text">Testimonials<span
+                                                    style="--framer-text-color:var(--extracted-1w3ko1f, var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48)))"
+                                                    class="framer-text">.</span></p>
+                                        </foreignObject>
+                                    </svg></div>
+                                <div class="framer-1lytv5o" data-framer-name="Spacer"></div>
+                        

@@ -1,0 +1,630 @@
+                                        data-framer-component-type="RichTextContainer">
+                                                <h6 class="framer-text framer-styles-preset-753q9u"
+                                                    data-styles-preset="DPlrwsrr0"
+                                                    style="--framer-text-color:var(--extracted-1w1cjl5, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))">
+                                                    Presence&nbsp;</h6>
+                                            </div>
+                                            <div class="framer-y5upef" data-framer-name="Left" style="opacity:0">
+                                                <div data-framer-component-type="SVG" data-framer-name="Lines"
+                                                    style="image-rendering:pixelated;flex-shrink:0"
+                                                    class="framer-11dud2k" aria-hidden="true">
+         
+
+--- MATCH ---
+
+r-text-color:var(--token-aa2aae09-fd2b-480f-94fb-7ffa5e6da639, rgb(153, 153, 153))"
+                                                class="framer-text">Eviation Marketing builds distinctive globally
+                                                minded brands through strategy, creativity, and intentional execution.
+                                                Born in 2024 and refined through real client work, we shape brand
+                                                identities, digital presence, and content ecosystems designed to last
+                                                with clarity and craft, making your brand feel like you.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="framer-9q6mc5" data-framer-name="Banner Logo">
+                            <div class="ssr-variant">
+         
+
+--- MATCH ---
+
+v, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))">
+                                            Click to Experience</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                </div><!--$-->
+                <div class="ssr-variant hidden-3kpr47 hidden-1bbcz71">
+                    <div class="framer-rjb25q-container" data-framer-name="Presence" id="process" name="Presence">
+                        <div class="ssr-variant hidden-kcs94i"><!--$-->
+                            <section name="Presence"
+                                class="framer-78YLH framer-s5fU5 framer-bjhvT framer-wn0r5 framer-4fghF framer-iX5XH framer-pFger framer-i81Sq framer-Xmzzq framer-1u1a849 framer-v-1u1a849"
+                                data-framer-name="Wide Screen" style="width:100%">
+                                <div class="framer-k5q8xs" data
+
+--- MATCH ---
+
+41bf-9dfa-3682975d9176, rgb(255, 255, 255)))">
+                                            Click to Experience</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                </div><!--$-->
+                <div class="ssr-variant hidden-3kpr47 hidden-1bbcz71">
+                    <div class="framer-rjb25q-container" data-framer-name="Presence" id="process" name="Presence">
+                        <div class="ssr-variant hidden-kcs94i"><!--$-->
+                            <section name="Presence"
+                                class="framer-78YLH framer-s5fU5 framer-bjhvT framer-wn0r5 framer-4fghF framer-iX5XH framer-pFger framer-i81Sq framer-Xmzzq framer-1u1a849 framer-v-1u1a849"
+                                data-framer-name="Wide Screen" style="width:100%">
+                                <div class="framer-k5q8xs" data-framer-name="Container">
+   
+
+--- MATCH ---
+
+                         </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                </div><!--$-->
+                <div class="ssr-variant hidden-3kpr47 hidden-1bbcz71">
+                    <div class="framer-rjb25q-container" data-framer-name="Presence" id="process" name="Presence">
+                        <div class="ssr-variant hidden-kcs94i"><!--$-->
+                            <section name="Presence"
+                                class="framer-78YLH framer-s5fU5 framer-bjhvT framer-wn0r5 framer-4fghF framer-iX5XH framer-pFger framer-i81Sq framer-Xmzzq framer-1u1a849 framer-v-1u1a849"
+                                data-framer-name="Wide Screen" style="width:100%">
+                                <div class="framer-k5q8xs" data-framer-name="Container">
+                                    <div class="framer-xu84wl" data-framer-name="Heading">
+                                      
+
+--- MATCH ---
+
+             data-framer-component-type="RichTextContainer">
+                                                <h2 class="framer-text framer-styles-preset-ep0jra"
+                                                    data-styles-preset="hZ8usl_26"
+                                                    style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1of0zx5, var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48)))">
+                                                    PRESENCE</h2>
+                                            </div>
+                                            <div class="framer-1i4hu8z" data-framer-name="Dot"
+                                                style="justify-content:center;--extracted-1of0zx5:var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(130, 19, 4));--framer-paragraph-spacing:0px;transform:none"
+                                                data-framer-component-type="RichTextContainer">
+                                
+
+--- MATCH ---
+
+tyles-preset-1ud6gfb"
+                                                    data-styles-preset="LFTrb0jZU" dir="auto"
+                                                    style="--framer-text-color:var(--extracted-r6o4lv, var(--token-a2467b4d-125d-4601-bae0-7c5d57dd1cbe, rgba(255, 255, 255, 0.6)))">
+                                                    We led social media marketing for Hotel Navil Exotica, building a
+                                                    credible, locally trusted hotel presence around Vasco da Gama
+                                                    through consistent positioning, content systems, and
+                                                    visibility-driven digital storytelling.</p>
+                                            </div>
+                                        </div>
+                                        <div class="framer-1tbyyim" data-framer-name="2">
+                                            <div class="framer-1o9r5x1" data-fram
+
+--- MATCH ---
+
+                                           </div>
+                                                    </div>
+                                                </a><!--/$--></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section><!--/$-->
+                        </div>
+                        <div class="ssr-variant hidden-72rtr7"><!--$-->
+                            <section name="Presence"
+                                class="framer-78YLH framer-s5fU5 framer-bjhvT framer-wn0r5 framer-4fghF framer-iX5XH framer-pFger framer-i81Sq framer-Xmzzq framer-1u1a849 framer-v-xeunre"
+                                data-framer-name="Laptop" style="width:100%">
+                                <div class="framer-k5q8xs" data-framer-name="Container">
+                                    <div class="framer-xu84wl" data-framer-name="Heading">
+                                        <div
+
+--- MATCH ---
+
+             data-framer-component-type="RichTextContainer">
+                                                <h2 class="framer-text framer-styles-preset-ep0jra"
+                                                    data-styles-preset="hZ8usl_26"
+                                                    style="--framer-text-alignment:left;--framer-text-color:var(--extracted-1of0zx5, var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48)))">
+                                                    PRESENCE</h2>
+                                            </div>
+                                            <div class="framer-1i4hu8z" data-framer-name="Dot"
+                                                style="justify-content:center;--extracted-1of0zx5:var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(130, 19, 4));--framer-paragraph-spacing:0px;transform:none"
+                                                data-framer-component-type="RichTextContainer">
+                                
+
+--- MATCH ---
+
+tyles-preset-1ud6gfb"
+                                                    data-styles-preset="LFTrb0jZU" dir="auto"
+                                                    style="--framer-text-color:var(--extracted-r6o4lv, var(--token-a2467b4d-125d-4601-bae0-7c5d57dd1cbe, rgba(255, 255, 255, 0.6)))">
+                                                    We led social media marketing for Hotel Navil Exotica, building a
+                                                    credible, locally trusted hotel presence around Vasco da Gama
+                                                    through consistent positioning, content systems, and
+                                                    visibility-driven digital storytelling.</p>
+                                            </div>
+                                        </div>
+                                        <div class="framer-1tbyyim" data-framer-name="2">
+                                            <div class="framer-1o9r5x1" data-fram
+
+--- MATCH ---
+
+       </div>
+                                                </a><!--/$--></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section><!--/$-->
+                        </div>
+                    </div>
+                </div>
+                <div class="ssr-variant hidden-1bbcz71 hidden-kcs94i hidden-72rtr7">
+                    <div class="framer-rjb25q-container" data-framer-name="Presence" id="process" name="Presence">
+                        <!--$-->
+                        <section name="Presence"
+                            class="framer-78YLH framer-s5fU5 framer-bjhvT framer-wn0r5 framer-4fghF framer-iX5XH framer-pFger framer-i81Sq framer-Xmzzq framer-1u1a849 framer-v-1c08esx"
+                            data-framer-name="Phone" style="width:100%">
+                            <div class="framer-k5q8xs" data-framer-name="Container">
+                                <di
+
+--- MATCH ---
+
+                                 </a><!--/$--></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section><!--/$-->
+                        </div>
+                    </div>
+                </div>
+                <div class="ssr-variant hidden-1bbcz71 hidden-kcs94i hidden-72rtr7">
+                    <div class="framer-rjb25q-container" data-framer-name="Presence" id="process" name="Presence">
+                        <!--$-->
+                        <section name="Presence"
+                            class="framer-78YLH framer-s5fU5 framer-bjhvT framer-wn0r5 framer-4fghF framer-iX5XH framer-pFger framer-i81Sq framer-Xmzzq framer-1u1a849 framer-v-1c08esx"
+                            data-framer-name="Phone" style="width:100%">
+                            <div class="framer-k5q8xs" data-framer-name="Container">
+                                <div class="framer-xu84wl" data-
+
+--- MATCH ---
+
+          </div>
+                                    </div>
+                                </div>
+                            </section><!--/$-->
+                        </div>
+                    </div>
+                </div>
+                <div class="ssr-variant hidden-1bbcz71 hidden-kcs94i hidden-72rtr7">
+                    <div class="framer-rjb25q-container" data-framer-name="Presence" id="process" name="Presence">
+                        <!--$-->
+                        <section name="Presence"
+                            class="framer-78YLH framer-s5fU5 framer-bjhvT framer-wn0r5 framer-4fghF framer-iX5XH framer-pFger framer-i81Sq framer-Xmzzq framer-1u1a849 framer-v-1c08esx"
+                            data-framer-name="Phone" style="width:100%">
+                            <div class="framer-k5q8xs" data-framer-name="Container">
+                                <div class="framer-xu84wl" data-framer-name="Heading">
+                                    <div class="framer-1cudq
+
+--- MATCH ---
+
+                              data-framer-component-type="RichTextContainer">
+                                            <h3 class="framer-text framer-styles-preset-wvy7ez"
+                                                data-styles-preset="hdCs32bmG"
+                                                style="--framer-text-alignment:left;--framer-text-color:var(--extracted-a0htzi, var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48)))">
+                                                PRESENCE</h3>
+                                        </div>
+                                        <div class="framer-1i4hu8z" data-framer-name="Dot"
+                                            style="justify-content:center;--extracted-1of0zx5:var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(130, 19, 4));--framer-paragraph-spacing:0px;--extracted-a0htzi:var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(130, 19, 4));transform:none"
+                                            data-frame
+
+--- MATCH ---
+
+er-text framer-styles-preset-1ud6gfb"
+                                                data-styles-preset="LFTrb0jZU" dir="auto"
+                                                style="--framer-text-color:var(--extracted-r6o4lv, var(--token-a2467b4d-125d-4601-bae0-7c5d57dd1cbe, rgba(255, 255, 255, 0.6)))">
+                                                We led social media marketing for Hotel Navil Exotica, building a
+                                                credible, locally trusted hotel presence around Vasco da Gama through
+                                                consistent positioning, content systems, and visibility-driven digital
+                                                storytelling.</p>
+                                        </div>
+                                    </div>
+                                    <div class="framer-1tbyyim" data-framer-name="2">
+                                        <div class="framer-1o9r5x1" data-framer-name="Spacer"></div>
+
+
+--- MATCH ---
+
+    </div>
+                                                </div>
+                                            </a><!--/$--></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section><!--/$-->
+                    </div>
+                </div>
+                <div class="ssr-variant hidden-3kpr47 hidden-kcs94i hidden-72rtr7">
+                    <div class="framer-rjb25q-container" data-framer-name="Presence" id="process" name="Presence">
+                        <!--$-->
+                        <section name="Presence"
+                            class="framer-78YLH framer-s5fU5 framer-bjhvT framer-wn0r5 framer-4fghF framer-iX5XH framer-pFger framer-i81Sq framer-Xmzzq framer-1u1a849 framer-v-82mqvs"
+                            data-framer-name="Tablet" style="width:100%">
+                            <div class="framer-k5q8xs" data-framer-name="Container">
+                                <di
+
+--- MATCH ---
+
+                              </div>
+                                            </a><!--/$--></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section><!--/$-->
+                    </div>
+                </div>
+                <div class="ssr-variant hidden-3kpr47 hidden-kcs94i hidden-72rtr7">
+                    <div class="framer-rjb25q-container" data-framer-name="Presence" id="process" name="Presence">
+                        <!--$-->
+                        <section name="Presence"
+                            class="framer-78YLH framer-s5fU5 framer-bjhvT framer-wn0r5 framer-4fghF framer-iX5XH framer-pFger framer-i81Sq framer-Xmzzq framer-1u1a849 framer-v-82mqvs"
+                            data-framer-name="Tablet" style="width:100%">
+                            <div class="framer-k5q8xs" data-framer-name="Container">
+                                <div class="framer-xu84wl" data-
+
+--- MATCH ---
+
+a><!--/$--></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section><!--/$-->
+                    </div>
+                </div>
+                <div class="ssr-variant hidden-3kpr47 hidden-kcs94i hidden-72rtr7">
+                    <div class="framer-rjb25q-container" data-framer-name="Presence" id="process" name="Presence">
+                        <!--$-->
+                        <section name="Presence"
+                            class="framer-78YLH framer-s5fU5 framer-bjhvT framer-wn0r5 framer-4fghF framer-iX5XH framer-pFger framer-i81Sq framer-Xmzzq framer-1u1a849 framer-v-82mqvs"
+                            data-framer-name="Tablet" style="width:100%">
+                            <div class="framer-k5q8xs" data-framer-name="Container">
+                                <div class="framer-xu84wl" data-framer-name="Heading">
+                                    <div class="framer-1cudq
+
+--- MATCH ---
+
+                              data-framer-component-type="RichTextContainer">
+                                            <h3 class="framer-text framer-styles-preset-wvy7ez"
+                                                data-styles-preset="hdCs32bmG"
+                                                style="--framer-text-alignment:left;--framer-text-color:var(--extracted-a0htzi, var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48)))">
+                                                PRESENCE</h3>
+                                        </div>
+                                        <div class="framer-1i4hu8z" data-framer-name="Dot"
+                                            style="justify-content:center;--extracted-1of0zx5:var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(130, 19, 4));--framer-paragraph-spacing:0px;--extracted-a0htzi:var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(130, 19, 4));transform:none"
+                                            data-frame
+
+--- MATCH ---
+
+er-text framer-styles-preset-1ud6gfb"
+                                                data-styles-preset="LFTrb0jZU" dir="auto"
+                                                style="--framer-text-color:var(--extracted-r6o4lv, var(--token-a2467b4d-125d-4601-bae0-7c5d57dd1cbe, rgba(255, 255, 255, 0.6)))">
+                                                We led social media marketing for Hotel Navil Exotica, building a
+                                                credible, locally trusted hotel presence around Vasco da Gama through
+                                                consistent positioning, content systems, and visibility-driven digital
+                                                storytelling.</p>
+                                        </div>
+                                    </div>
+                                    <div class="framer-1tbyyim" data-framer-name="2">
+                                        <div class="framer-1o9r5x1" data-framer-name="Spacer"></div>
+
+
+--- MATCH ---
+
+                                                  </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="framer-jdkz9o"
+                                                data-framer-name="I highly recommend Eviation Marketing for their excellent support in building and promoting my brand, Criuzen. They helped improve our brand presence and reach the right audience in the car enthusiast space. Their strategic approach increased visibility and engagement, and the team was professional, creative, and genuinely invested in our growth."
+                                                style="justify-content:center;--extracted-r6o4lv:var(--token-01059a39-a761-426d-acce-d63b217ea6c2, rgba(255, 255, 255, 0.8));--framer-paragraph-spacing:0px;transform:none"
+                                                data-framer-component-t
+
+--- MATCH ---
+
+00;--framer-letter-spacing:0.85px;--framer-line-height:27px;--framer-text-color:var(--extracted-r6o4lv, var(--token-01059a39-a761-426d-acce-d63b217ea6c2, rgba(255, 255, 255, 0.8)))"
+                                                    class="framer-text">"I highly recommend Eviation Marketing for their
+                                                    excellent support in building and promoting my brand, Criuzen. They
+                                                    helped improve our brand presence and reach the right audience in
+                                                    the car enthusiast space. Their strategic approach increased
+                                                    visibility and engagement, and the team was professional, creative,
+                                                    and genuinely invested in our growth."</p>
+                                            </div>
+                                        </div>
+                                 
+
+--- MATCH ---
+
+                                                  </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="framer-jdkz9o"
+                                                data-framer-name="I highly recommend Eviation Marketing for their excellent support in building and promoting my brand, Criuzen. They helped improve our brand presence and reach the right audience in the car enthusiast space. Their strategic approach increased visibility and engagement, and the team was professional, creative, and genuinely invested in our growth."
+                                                style="justify-content:center;--extracted-r6o4lv:var(--token-01059a39-a761-426d-acce-d63b217ea6c2, rgba(255, 255, 255, 0.8));--framer-paragraph-spacing:0px;transform:none"
+                                                data-framer-component-t
+
+--- MATCH ---
+
+                                                  </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="framer-jdkz9o"
+                                                data-framer-name="I highly recommend Eviation Marketing for their excellent support in building and promoting my brand, Criuzen. They helped improve our brand presence and reach the right audience in the car enthusiast space. Their strategic approach increased visibility and engagement, and the team was professional, creative, and genuinely invested in our growth."
+                                                style="justify-content:center;--extracted-r6o4lv:var(--token-01059a39-a761-426d-acce-d63b217ea6c2, rgba(255, 255, 255, 0.8));--framer-paragraph-spacing:0px;transform:none"
+                                                data-framer-component-t
+
+--- MATCH ---
+
+letter-spacing:0.85px;--framer-line-height:27px;--framer-text-color:var(--extracted-r6o4lv, var(--token-01059a39-a761-426d-acce-d63b217ea6c2, rgba(255, 255, 255, 0.8)))"
+                                                    class="framer-text">"We highly recommend Eviation Marketing, they
+                                                    are a great team to work with. If you really want to upgrade your
+                                                    brand on social media &amp; create online presence, Eviation is the
+                                                    right agency to get it done. They have recently designed our brand
+                                                    identity, brochure, and website for Silverline Creation. Their
+                                                    ability to incorporate feedback swiftly and accommodate last minute
+                                                    changes with professionalism and efficiency made the entire process
+
+
+--- MATCH ---
+
+                                                  </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="framer-jdkz9o"
+                                                data-framer-name="I highly recommend Eviation Marketing for their excellent support in building and promoting my brand, Criuzen. They helped improve our brand presence and reach the right audience in the car enthusiast space. Their strategic approach increased visibility and engagement, and the team was professional, creative, and genuinely invested in our growth."
+                                                style="justify-content:center;--extracted-r6o4lv:var(--token-01059a39-a761-426d-acce-d63b217ea6c2, rgba(255, 255, 255, 0.8));--framer-paragraph-spacing:0px;transform:none"
+                                                data-framer-component-t
+
+--- MATCH ---
+
+                                                  </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="framer-jdkz9o"
+                                                data-framer-name="I highly recommend Eviation Marketing for their excellent support in building and promoting my brand, Criuzen. They helped improve our brand presence and reach the right audience in the car enthusiast space. Their strategic approach increased visibility and engagement, and the team was professional, creative, and genuinely invested in our growth."
+                                                style="justify-content:center;--extracted-r6o4lv:var(--token-01059a39-a761-426d-acce-d63b217ea6c2, rgba(255, 255, 255, 0.8));--framer-paragraph-spacing:0px;transform:none"
+                                                data-framer-component-t
+
+--- MATCH ---
+
+00;--framer-letter-spacing:0.85px;--framer-line-height:27px;--framer-text-color:var(--extracted-r6o4lv, var(--token-01059a39-a761-426d-acce-d63b217ea6c2, rgba(255, 255, 255, 0.8)))"
+                                                    class="framer-text">"I highly recommend Eviation Marketing for their
+                                                    excellent support in building and promoting my brand, Criuzen. They
+                                                    helped improve our brand presence and reach the right audience in
+                                                    the car enthusiast space. Their strategic approach increased
+                                                    visibility and engagement, and the team was professional, creative,
+                                                    and genuinely invested in our growth."</p>
+                                            </div>
+                                        </div>
+                                 
+
+--- MATCH ---
+
+                                                  </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="framer-jdkz9o"
+                                                data-framer-name="I highly recommend Eviation Marketing for their excellent support in building and promoting my brand, Criuzen. They helped improve our brand presence and reach the right audience in the car enthusiast space. Their strategic approach increased visibility and engagement, and the team was professional, creative, and genuinely invested in our growth."
+                                                style="justify-content:center;--extracted-r6o4lv:var(--token-01059a39-a761-426d-acce-d63b217ea6c2, rgba(255, 255, 255, 0.8));--framer-paragraph-spacing:0px;transform:none"
+                                                data-framer-component-t
+
+--- MATCH ---
+
+                                                  </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="framer-jdkz9o"
+                                                data-framer-name="I highly recommend Eviation Marketing for their excellent support in building and promoting my brand, Criuzen. They helped improve our brand presence and reach the right audience in the car enthusiast space. Their strategic approach increased visibility and engagement, and the team was professional, creative, and genuinely invested in our growth."
+                                                style="justify-content:center;--extracted-r6o4lv:var(--token-01059a39-a761-426d-acce-d63b217ea6c2, rgba(255, 255, 255, 0.8));--framer-paragraph-spacing:0px;transform:none"
+                                                data-framer-component-t
+
+--- MATCH ---
+
+letter-spacing:0.85px;--framer-line-height:27px;--framer-text-color:var(--extracted-r6o4lv, var(--token-01059a39-a761-426d-acce-d63b217ea6c2, rgba(255, 255, 255, 0.8)))"
+                                                    class="framer-text">"We highly recommend Eviation Marketing, they
+                                                    are a great team to work with. If you really want to upgrade your
+                                                    brand on social media &amp; create online presence, Eviation is the
+                                                    right agency to get it done. They have recently designed our brand
+                                                    identity, brochure, and website for Silverline Creation. Their
+                                                    ability to incorporate feedback swiftly and accommodate last minute
+                                                    changes with professionalism and efficiency made the entire process
+
+
+--- MATCH ---
+
+                                                  </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="framer-jdkz9o"
+                                                data-framer-name="I highly recommend Eviation Marketing for their excellent support in building and promoting my brand, Criuzen. They helped improve our brand presence and reach the right audience in the car enthusiast space. Their strategic approach increased visibility and engagement, and the team was professional, creative, and genuinely invested in our growth."
+                                                style="justify-content:center;--extracted-r6o4lv:var(--token-01059a39-a761-426d-acce-d63b217ea6c2, rgba(255, 255, 255, 0.8));--framer-paragraph-spacing:0px;transform:none"
+                                                data-framer-component-t
+
+--- MATCH ---
+
+                                                  </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="framer-jdkz9o"
+                                                data-framer-name="I highly recommend Eviation Marketing for their excellent support in building and promoting my brand, Criuzen. They helped improve our brand presence and reach the right audience in the car enthusiast space. Their strategic approach increased visibility and engagement, and the team was professional, creative, and genuinely invested in our growth."
+                                                style="justify-content:center;--extracted-r6o4lv:var(--token-01059a39-a761-426d-acce-d63b217ea6c2, rgba(255, 255, 255, 0.8));--framer-paragraph-spacing:0px;transform:none"
+                                                data-framer-component-t
+
+--- MATCH ---
+
+00;--framer-letter-spacing:0.85px;--framer-line-height:27px;--framer-text-color:var(--extracted-r6o4lv, var(--token-01059a39-a761-426d-acce-d63b217ea6c2, rgba(255, 255, 255, 0.8)))"
+                                                    class="framer-text">"I highly recommend Eviation Marketing for their
+                                                    excellent support in building and promoting my brand, Criuzen. They
+                                                    helped improve our brand presence and reach the right audience in
+                                                    the car enthusiast space. Their strategic approach increased
+                                                    visibility and engagement, and the team was professional, creative,
+                                                    and genuinely invested in our growth."</p>
+                                            </div>
+                                        </div>
+                                 
+
+--- MATCH ---
+
+                                                  </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="framer-jdkz9o"
+                                                data-framer-name="I highly recommend Eviation Marketing for their excellent support in building and promoting my brand, Criuzen. They helped improve our brand presence and reach the right audience in the car enthusiast space. Their strategic approach increased visibility and engagement, and the team was professional, creative, and genuinely invested in our growth."
+                                                style="justify-content:center;--extracted-r6o4lv:var(--token-01059a39-a761-426d-acce-d63b217ea6c2, rgba(255, 255, 255, 0.8));--framer-paragraph-spacing:0px;transform:none"
+                                                data-framer-component-t
+
+--- MATCH ---
+
+                                                  </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="framer-jdkz9o"
+                                                data-framer-name="I highly recommend Eviation Marketing for their excellent support in building and promoting my brand, Criuzen. They helped improve our brand presence and reach the right audience in the car enthusiast space. Their strategic approach increased visibility and engagement, and the team was professional, creative, and genuinely invested in our growth."
+                                                style="justify-content:center;--extracted-r6o4lv:var(--token-01059a39-a761-426d-acce-d63b217ea6c2, rgba(255, 255, 255, 0.8));--framer-paragraph-spacing:0px;transform:none"
+                                                data-framer-component-t
+
+--- MATCH ---
+
+letter-spacing:0.85px;--framer-line-height:27px;--framer-text-color:var(--extracted-r6o4lv, var(--token-01059a39-a761-426d-acce-d63b217ea6c2, rgba(255, 255, 255, 0.8)))"
+                                                    class="framer-text">"We highly recommend Eviation Marketing, they
+                                                    are a great team to work with. If you really want to upgrade your
+                                                    brand on social media &amp; create online presence, Eviation is the
+                                                    right agency to get it done. They have recently designed our brand
+                                                    identity, brochure, and website for Silverline Creation. Their
+                                                    ability to incorporate feedback swiftly and accommodate last minute
+                                                    changes with professionalism and efficiency made the entire process
+
+
+--- MATCH ---
+
+                                                  </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="framer-jdkz9o"
+                                                data-framer-name="I highly recommend Eviation Marketing for their excellent support in building and promoting my brand, Criuzen. They helped improve our brand presence and reach the right audience in the car enthusiast space. Their strategic approach increased visibility and engagement, and the team was professional, creative, and genuinely invested in our growth."
+                                                style="justify-content:center;--extracted-r6o4lv:var(--token-01059a39-a761-426d-acce-d63b217ea6c2, rgba(255, 255, 255, 0.8));--framer-paragraph-spacing:0px;transform:none"
+                                                data-framer-component-t
+
+--- MATCH ---
+
+                                                  </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="framer-jdkz9o"
+                                                data-framer-name="I highly recommend Eviation Marketing for their excellent support in building and promoting my brand, Criuzen. They helped improve our brand presence and reach the right audience in the car enthusiast space. Their strategic approach increased visibility and engagement, and the team was professional, creative, and genuinely invested in our growth."
+                                                style="justify-content:center;--extracted-r6o4lv:var(--token-01059a39-a761-426d-acce-d63b217ea6c2, rgba(255, 255, 255, 0.8));--framer-paragraph-spacing:0px;transform:none"
+                                                data-framer-component-t
+
+--- MATCH ---
+
+00;--framer-letter-spacing:0.85px;--framer-line-height:27px;--framer-text-color:var(--extracted-r6o4lv, var(--token-01059a39-a761-426d-acce-d63b217ea6c2, rgba(255, 255, 255, 0.8)))"
+                                                    class="framer-text">"I highly recommend Eviation Marketing for their
+                                                    excellent support in building and promoting my brand, Criuzen. They
+                                                    helped improve our brand presence and reach the right audience in
+                                                    the car enthusiast space. Their strategic approach increased
+                                                    visibility and engagement, and the team was professional, creative,
+                                                    and genuinely invested in our growth."</p>
+                                            </div>
+                                        </div>
+                                 
+
+--- MATCH ---
+
+                                                  </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="framer-jdkz9o"
+                                                data-framer-name="I highly recommend Eviation Marketing for their excellent support in building and promoting my brand, Criuzen. They helped improve our brand presence and reach the right audience in the car enthusiast space. Their strategic approach increased visibility and engagement, and the team was professional, creative, and genuinely invested in our growth."
+                                                style="justify-content:center;--extracted-r6o4lv:var(--token-01059a39-a761-426d-acce-d63b217ea6c2, rgba(255, 255, 255, 0.8));--framer-paragraph-spacing:0px;transform:none"
+                                                data-framer-component-t
+
+--- MATCH ---
+
+                                                  </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="framer-jdkz9o"
+                                                data-framer-name="I highly recommend Eviation Marketing for their excellent support in building and promoting my brand, Criuzen. They helped improve our brand presence and reach the right audience in the car enthusiast space. Their strategic approach increased visibility and engagement, and the team was professional, creative, and genuinely invested in our growth."
+                                                style="justify-content:center;--extracted-r6o4lv:var(--token-01059a39-a761-426d-acce-d63b217ea6c2, rgba(255, 255, 255, 0.8));--framer-paragraph-spacing:0px;transform:none"
+                                                data-framer-component-t
+
+--- MATCH ---
+
+letter-spacing:0.85px;--framer-line-height:27px;--framer-text-color:var(--extracted-r6o4lv, var(--token-01059a39-a761-426d-acce-d63b217ea6c2, rgba(255, 255, 255, 0.8)))"
+                                                    class="framer-text">"We highly recommend Eviation Marketing, they
+                                                    are a great team to work with. If you really want to upgrade your
+                                                    brand on social media &amp; create online presence, Eviation is the
+                                                    right agency to get it done. They have recently designed our brand
+                                                    identity, brochure, and website for Silverline Creation. Their
+                                                    ability to incorporate feedback swiftly and accommodate last minute
+                                                    changes with professionalism and efficiency made the entire process
+
+
+--- MATCH ---
+
+                                                  </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="framer-jdkz9o"
+                                                data-framer-name="I highly recommend Eviation Marketing for their excellent support in building and promoting my brand, Criuzen. They helped improve our brand presence and reach the right audience in the car enthusiast space. Their strategic approach increased visibility and engagement, and the team was professional, creative, and genuinely invested in our growth."
+                                                style="justify-content:center;--extracted-r6o4lv:var(--token-01059a39-a761-426d-acce-d63b217ea6c2, rgba(255, 255, 255, 0.8));--framer-paragraph-spacing:0px;transform:none"
+                                                data-framer-component-t
+
+--- MATCH ---
+
+ },
+                            { opacity: 1, transform: finalTransform }
+                        ],
+                        { duration: 600, easing: 'ease-out', fill: 'forwards' }
+                    );
+
+                    observer.unobserve(el);
+                });
+            }, { threshold: 0.1 });
+
+            els.forEach(function (el) { observer.observe(el); });
+        })();
+    </script>
+    <script>/**
+* Accordion Polyfill — Structural Detection Algorithm
+*
+* Replaces framework AnimatePresence for accordion/FAQ components.
+* Instead of matching specific attribute names, this polyfill detects the
+* accordion *pattern* algorithmically:
+*
+* ALGORITHM:
+*   1. Find "accordion groups": containers with 3+ similar sibling children
+*      (same tag, ±1 child-element-count, all have [data-highlight] or [tabindex])
+*   2. For each item, identify the TRIGGER vs CONTENT regions:
+*      - CONTENT: a descendant whose computed height ≤ 2px, or whose first
+*        text-bearing child has opac

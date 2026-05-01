@@ -1,0 +1,24 @@
+                                        data-framer-component-type="RichTextContainer">
+                                                <h6 class="framer-text framer-styles-preset-753q9u"
+                                                    data-styles-preset="DPlrwsrr0"
+                                                    style="--framer-text-color:var(--extracted-1w1cjl5, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))">
+                                                    Services</h6>
+                                            </div>
+                                            <div class="framer-y5upef" data-framer-name="Left" style="opacity:0">
+                                                <div data-framer-component-type="SVG" data-framer-name="Lines"
+                                                    style="image-rendering:pixelated;flex-shrink:0"
+                                                    class="framer-11dud2k" aria-hidden="true">
+               
+
+--- MATCH ---
+
+                data-framer-component-type="RichTextContainer">
+                                            <h2 class="framer-text framer-styles-preset-ep0jra"
+                                                data-styles-preset="hZ8usl_26" dir="auto"
+                                                style="--framer-text-alignment:center;--framer-text-color:var(--extracted-1of0zx5, var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48)))">
+                                                Services</h2>
+                                        </div>
+                                        <div class="framer-mrc7gh" data-framer-name="Dot"
+                                            style="justify-content:center;--extracted-1of0zx5:var(--token-7aee89be-f7d7-4b0b-b618-6062693d065d, rgb(0, 0, 0));--framer-paragraph-spacing:0px;transform:none"
+                                            data-framer-component-type="RichTextContainer">
+                                            <h2 clas

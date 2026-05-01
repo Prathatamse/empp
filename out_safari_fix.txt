@@ -1,0 +1,20 @@
+nt
+        }
+    </style>
+
+    <style>
+        /* Fix for Safari/Chrome 'ContactHome' spacing issue */
+        .framer-FbrZO .framer-40t19v > div {
+            margin-right: 15px !important;
+            margin-bottom: 5px !important;
+        }
+        .framer-190oa1v h6::after {
+            content: "\00a0"; /* Add space after navigation labels */
+            display: inline-block;
+            width: 5px;
+        }
+        .framer-190oa1v {
+            padding: 0 10px !important;
+            white-space: nowrap !important;
+        }
+        /* 

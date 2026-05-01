@@ -1,0 +1,78 @@
+-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))">
+                                                    Presence</h6>
+                                            </div>
+                                           
+
+--- MATCH ---
+
+-3kpr47 hidden-1bbcz71">
+                    <div class="framer-rjb25q-container" data-framer-name="Presence" id="process" name="Presence">
+                        <div class="ssr-variant hidden-kcs94i"><!--$
+
+--- MATCH ---
+
+                <div class="framer-rjb25q-container" data-framer-name="Presence" id="process" name="Presence">
+                        <div class="ssr-variant hidden-kcs94i"><!--$-->
+                         
+
+--- MATCH ---
+
+         <div class="ssr-variant hidden-kcs94i"><!--$-->
+                            <section name="Presence"
+                                class="framer-78YLH framer-s5fU5 framer-bjhvT framer-wn0r5 framer-
+
+--- MATCH ---
+
+         <div class="ssr-variant hidden-72rtr7"><!--$-->
+                            <section name="Presence"
+                                class="framer-78YLH framer-s5fU5 framer-bjhvT framer-wn0r5 framer-
+
+--- MATCH ---
+
+n-kcs94i hidden-72rtr7">
+                    <div class="framer-rjb25q-container" data-framer-name="Presence" id="process" name="Presence">
+                        <!--$-->
+                        <section na
+
+--- MATCH ---
+
+                <div class="framer-rjb25q-container" data-framer-name="Presence" id="process" name="Presence">
+                        <!--$-->
+                        <section name="Presence"
+               
+
+--- MATCH ---
+
+="process" name="Presence">
+                        <!--$-->
+                        <section name="Presence"
+                            class="framer-78YLH framer-s5fU5 framer-bjhvT framer-wn0r5 framer-4fgh
+
+--- MATCH ---
+
+n-kcs94i hidden-72rtr7">
+                    <div class="framer-rjb25q-container" data-framer-name="Presence" id="process" name="Presence">
+                        <!--$-->
+                        <section na
+
+--- MATCH ---
+
+                <div class="framer-rjb25q-container" data-framer-name="Presence" id="process" name="Presence">
+                        <!--$-->
+                        <section name="Presence"
+               
+
+--- MATCH ---
+
+="process" name="Presence">
+                        <!--$-->
+                        <section name="Presence"
+                            class="framer-78YLH framer-s5fU5 framer-bjhvT framer-wn0r5 framer-4fgh
+
+--- MATCH ---
+
+    <script>/**
+* Accordion Polyfill — Structural Detection Algorithm
+*
+* Replaces framework AnimatePresence for accordion/FAQ components.
+* Instead of matching specific attribute names, this polyfill detects

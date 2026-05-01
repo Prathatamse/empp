@@ -1,0 +1,78 @@
+--framer-text-color: #fff;
+            --framer-text-decoration: none;
+            --framer-text-stroke-color: initial;
+            --framer-text-stroke-width: initial;
+            --framer-text-transform: none
+        }
+    </style><!-- Start of headEnd -->
+
+    <!-- End of headEnd -->
+    <style data-nce-scroll-fallback="">
+        [data-nce-scroll] {
+            opacity: 1 !important;
+            transform: none !important
+        }
+    </style>
+
+    <style>
+        /* Fix for Safari/Chrome 'ContactHome' spacing issue */
+        .framer-FbrZO .framer-40t19v > div {
+            margin-right: 15px !important;
+            margin-bottom: 5px !important;
+        }
+        .framer-190oa1v h6::after {
+            content: "\00a0"; /* Add space after navigation labels */
+            display: inline-block;
+            width: 5px;
+        }
+        .framer-190oa1v {
+            padding: 0 10px !important;
+            white-space: nowrap !important;
+        }
+        /* Hide book preloader and
+
+--- MATCH ---
+
+</div>
+                                        </a><!--/$--></div><!--/$--><!--$-->
+                                    <div class="framer-5qcxgr-container"><!--$--><a
+                                            class="framer-O6ncF framer-4fghF framer-AWrPb framer-nugfsk framer-v-naltii framer-1hb11wj"
+                                            data-framer-name="Without Right Padding" data-highlight="true"
+                                            style="--9vryxv:10px 0px 10px 20px" href="./#contact" tabindex="0">
+                                            <div class="framer-190oa1v" data-framer-name="Home"
+                                                style="justify-content:center;--extracted-1w1cjl5:var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255));--framer-paragraph-spacing:0px;transform:none"
+                                                data-framer-component-type="RichTextContainer">
+                                                <h6 class="framer-text
+
+--- MATCH ---
+
+                                        data-framer-component-type="RichTextContainer">
+                                                <h6 class="framer-text framer-styles-preset-753q9u"
+                                                    data-styles-preset="DPlrwsrr0"
+                                                    style="--framer-text-color:var(--extracted-1w1cjl5, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))">
+                                                    Contact&nbsp;</h6>
+                                            </div>
+                                            <div class="framer-y5upef" data-framer-name="Left" style="opacity:0">
+                                                <div data-framer-component-type="SVG" data-framer-name="Lines"
+                                                    style="image-rendering:pixelated;flex-shrink:0"
+                                                    class="framer-11dud2k" aria-hidden="true">
+          
+
+--- MATCH ---
+
+mer-name="Dot"
+                                        style="background-color:var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255))">
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+                <div class="ssr-variant hidden-3kpr47 hidden-1bbcz71 hidden-kcs94i">
+                    <div class="framer-19294oq-container" id="contact"><!--$-->
+                        <section
+                            class="framer-s7GXx framer-i81Sq framer-Xmzzq framer-4fghF framer-bjhvT framer-eRK3q framer-wn0r5 framer-pFger framer-qYUgB framer-2vmqob framer-v-2vmqob"
+                            data-framer-name="Wide Screen" style="width:100%">
+                            <div class="framer-1qbytu" data-framer-name="Container">
+                                <div class="framer-1v97ihe" data-framer-name="Heading">
+              

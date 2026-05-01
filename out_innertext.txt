@@ -1,0 +1,35 @@
+pos=50706
+unction (e) {
+                var btn = e.target.closest('button');
+                if (btn && (btn.innerText && btn.innerText.includes('CONTACT NOW'))) {
+                    var form = btn.closest('form');
+                    if (form) {
+                        form.setAttribute('action', FORM_ENDP
+
+pos=50723
+             var btn = e.target.closest('button');
+                if (btn && (btn.innerText && btn.innerText.includes('CONTACT NOW'))) {
+                    var form = btn.closest('form');
+                    if (form) {
+                        form.setAttribute('action', FORM_ENDPOINT);
+          
+
+pos=2048255
+         var s = document.createElement('style');
+                s.id = styleId;
+                s.textContent = [
+                    '.nce-acc-content { transition: height 0.35s ease !important; overflow: hidden !important; }',
+                    '.nce-acc-text { transition: opacity 0.3s ease !i
+
+pos=2052415
+)) buttonCount++;
+                    // Check for question-mark text
+                    if ((item.textContent || '').indexOf('?') !== -1) questionCount++;
+                    // Check for substantial text (answers are typically >50 chars)
+                    if ((item.textContent || '').length > 5
+
+pos=2052586
+      // Check for substantial text (answers are typically >50 chars)
+                    if ((item.textContent || '').length > 50) hasLongText = true;
+                    // Check for multi-region layout (heading + answer)
+                    var inner = item.children.length === 1 ? item.firstEleme

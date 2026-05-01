@@ -1,0 +1,29 @@
+<!-- Start of headStart -->
+    <style>
+        /* Mobile specific style overrides to fix the TextFrontCarousel overflow 
+           since React hydration will ignore inline style patches */
+        @media (max-width: 809.98px) {
+            body .phrase {
+                font-size: calc(var(--size, 100px) * 0.80) !important;
+                white-space: nowrap !important;
+                text-align: center;
+            }
+        }
+    </style>
+    <!-- End of headStart -->
+    <meta name="viewport" content="width=device-width">
+    <meta name="generator" content="Framer 97e2e97">
+    <title>Eviation Marketing </title>
+    <meta name="description" content="Marketing Eviation">
+    <meta name="framer-search-index"
+        content="https://framerusercontent.com/sites/2TJlmTmK48T8qzgHcPm2Tm/searchIndex-cJjsjbBvRXkt.json">
+    <meta name="framer-search-index-fallback"
+        content="https://framerusercontent.com/sites/2TJlmTmK48T8qzgHcPm2Tm/searchIndex-0pkqo4tY2o6z.json">
+    <link href="https://framerusercontent.com/images/KMvtDplTAzHSDHDfsp08QNruHvk.png" rel="icon"
+        media="(prefers-color-scheme: light)">
+    <link href="https://framerusercontent.com/images/KMvtDplTAzHSDHDfsp08QNruHvk.png" rel="icon"
+        media="(prefers-color-scheme: dark)">
+    <link rel="apple-touch-icon" href="https://framerusercontent.com/images/ZO13NtZK8TppCxi8jIW7FYNvu4g.png">
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" conte

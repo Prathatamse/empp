@@ -1,0 +1,255 @@
+n:relative;overflow:hidden;user-select:none">
+                                            <svg viewBox="0 0 2000 300" width="100%" height="100%"
+                                                style="position:absolute;top:50%;left:0;transform:translateY(-50%);pointer-events:none">
+                                                <defs>
+                                                    <path id="curve" d="M100 180 Q1000 80 1900 180"></path>
+                                                </defs><text fill="#2a2a2a" font-size="clamp(60px, 250px, 160px)"
+                                                    font-weight="900" letter-spacing="6"
+                                                    font-family="Candy Hunter, Druk Wide Bold, Bebas Neue, Anton, League Spartan, sans-serif">
+                                                    <textPath href="#curve" startOffset="50%" text-anchor="middle">
+                                                        CONSULTANCY </textPath>
+             
+
+--- MATCH ---
+
+                                              <path id="curve" d="M100 180 Q1000 80 1900 180"></path>
+                                                </defs><text fill="#2a2a2a" font-size="clamp(60px, 250px, 160px)"
+                                                    font-weight="900" letter-spacing="6"
+                                                    font-family="Candy Hunter, Druk Wide Bold, Bebas Neue, Anton, League Spartan, sans-serif">
+                                                    <textPath href="#curve" startOffset="50%" text-anchor="middle">
+                                                        CONSULTANCY </textPath>
+                                                </text>
+                                            </svg>
+                                            <div
+                                                style="position:absolute;inset:0;clip-path:inset(0 50% 0 0);pointer-events:none">
+                                                <svg viewBox="0 0 2000
+
+--- MATCH ---
+
+ 0);pointer-events:none">
+                                                <svg viewBox="0 0 2000 300" width="100%" height="100%"
+                                                    style="position:absolute;top:50%;left:0;transform:translateY(-50%);pointer-events:none">
+                                                    <defs>
+                                                        <path id="curve" d="M100 180 Q1000 80 1900 180"></path>
+                                                    </defs><text fill="#fff" font-size="clamp(60px, 250px, 160px)"
+                                                        font-weight="900" letter-spacing="6"
+                                                        font-family="Candy Hunter, Druk Wide Bold, Bebas Neue, Anton, League Spartan, sans-serif"
+                                                        style="filter:drop-shadow(0px 4px 16px rgba(0,0,0,0.7))">
+                                                        <textPath href="#curve" startOffset
+
+--- MATCH ---
+
+                            </defs><text fill="#fff" font-size="clamp(60px, 250px, 160px)"
+                                                        font-weight="900" letter-spacing="6"
+                                                        font-family="Candy Hunter, Druk Wide Bold, Bebas Neue, Anton, League Spartan, sans-serif"
+                                                        style="filter:drop-shadow(0px 4px 16px rgba(0,0,0,0.7))">
+                                                        <textPath href="#curve" startOffset="50%" text-anchor="middle">
+                                                            CONSULTANCY </textPath>
+                                                    </text>
+                                                </svg>
+                                            </div>
+                                            <div style="position:absolute;top:0;left:50%;width:2px;height:100%;background:linear-gradient(to bottom, transparent, white, transparent);curs
+
+--- MATCH ---
+
+n:relative;overflow:hidden;user-select:none">
+                                            <svg viewBox="0 0 2000 300" width="100%" height="100%"
+                                                style="position:absolute;top:50%;left:0;transform:translateY(-50%);pointer-events:none">
+                                                <defs>
+                                                    <path id="curve" d="M100 180 Q1000 80 1900 180"></path>
+                                                </defs><text fill="#2a2a2a" font-size="clamp(60px, 250px, 160px)"
+                                                    font-weight="900" letter-spacing="6"
+                                                    font-family="Candy Hunter, Druk Wide Bold, Bebas Neue, Anton, League Spartan, sans-serif">
+                                                    <textPath href="#curve" startOffset="50%" text-anchor="middle">
+                                                        CONSULTANCY </textPath>
+             
+
+--- MATCH ---
+
+                                              <path id="curve" d="M100 180 Q1000 80 1900 180"></path>
+                                                </defs><text fill="#2a2a2a" font-size="clamp(60px, 250px, 160px)"
+                                                    font-weight="900" letter-spacing="6"
+                                                    font-family="Candy Hunter, Druk Wide Bold, Bebas Neue, Anton, League Spartan, sans-serif">
+                                                    <textPath href="#curve" startOffset="50%" text-anchor="middle">
+                                                        CONSULTANCY </textPath>
+                                                </text>
+                                            </svg>
+                                            <div
+                                                style="position:absolute;inset:0;clip-path:inset(0 50% 0 0);pointer-events:none">
+                                                <svg viewBox="0 0 2000
+
+--- MATCH ---
+
+ 0);pointer-events:none">
+                                                <svg viewBox="0 0 2000 300" width="100%" height="100%"
+                                                    style="position:absolute;top:50%;left:0;transform:translateY(-50%);pointer-events:none">
+                                                    <defs>
+                                                        <path id="curve" d="M100 180 Q1000 80 1900 180"></path>
+                                                    </defs><text fill="#fff" font-size="clamp(60px, 250px, 160px)"
+                                                        font-weight="900" letter-spacing="6"
+                                                        font-family="Candy Hunter, Druk Wide Bold, Bebas Neue, Anton, League Spartan, sans-serif"
+                                                        style="filter:drop-shadow(0px 4px 16px rgba(0,0,0,0.7))">
+                                                        <textPath href="#curve" startOffset
+
+--- MATCH ---
+
+                            </defs><text fill="#fff" font-size="clamp(60px, 250px, 160px)"
+                                                        font-weight="900" letter-spacing="6"
+                                                        font-family="Candy Hunter, Druk Wide Bold, Bebas Neue, Anton, League Spartan, sans-serif"
+                                                        style="filter:drop-shadow(0px 4px 16px rgba(0,0,0,0.7))">
+                                                        <textPath href="#curve" startOffset="50%" text-anchor="middle">
+                                                            CONSULTANCY </textPath>
+                                                    </text>
+                                                </svg>
+                                            </div>
+                                            <div style="position:absolute;top:0;left:50%;width:2px;height:100%;background:linear-gradient(to bottom, transparent, white, transparent);curs
+
+--- MATCH ---
+
+kground:#000;position:relative;overflow:hidden;user-select:none">
+                                        <svg viewBox="0 0 2000 300" width="100%" height="100%"
+                                            style="position:absolute;top:50%;left:0;transform:translateY(-50%);pointer-events:none">
+                                            <defs>
+                                                <path id="curve" d="M100 180 Q1000 80 1900 180"></path>
+                                            </defs><text fill="#2a2a2a" font-size="clamp(60px, 250px, 160px)"
+                                                font-weight="900" letter-spacing="6"
+                                                font-family="Candy Hunter, Druk Wide Bold, Bebas Neue, Anton, League Spartan, sans-serif">
+                                                <textPath href="#curve" startOffset="50%" text-anchor="middle">
+                                                    CONSULTANCY </textPath>
+                             
+
+--- MATCH ---
+
+       <defs>
+                                                <path id="curve" d="M100 180 Q1000 80 1900 180"></path>
+                                            </defs><text fill="#2a2a2a" font-size="clamp(60px, 250px, 160px)"
+                                                font-weight="900" letter-spacing="6"
+                                                font-family="Candy Hunter, Druk Wide Bold, Bebas Neue, Anton, League Spartan, sans-serif">
+                                                <textPath href="#curve" startOffset="50%" text-anchor="middle">
+                                                    CONSULTANCY </textPath>
+                                            </text>
+                                        </svg>
+                                        <div
+                                            style="position:absolute;inset:0;clip-path:inset(0 50% 0 0);pointer-events:none">
+                                            <svg viewBox="0 0 2000 300" width="100%" heigh
+
+--- MATCH ---
+
+p-path:inset(0 50% 0 0);pointer-events:none">
+                                            <svg viewBox="0 0 2000 300" width="100%" height="100%"
+                                                style="position:absolute;top:50%;left:0;transform:translateY(-50%);pointer-events:none">
+                                                <defs>
+                                                    <path id="curve" d="M100 180 Q1000 80 1900 180"></path>
+                                                </defs><text fill="#fff" font-size="clamp(60px, 250px, 160px)"
+                                                    font-weight="900" letter-spacing="6"
+                                                    font-family="Candy Hunter, Druk Wide Bold, Bebas Neue, Anton, League Spartan, sans-serif"
+                                                    style="filter:drop-shadow(0px 4px 16px rgba(0,0,0,0.7))">
+                                                    <textPath href="#curve" startOffset="50%" text-anch
+
+--- MATCH ---
+
+                                            </defs><text fill="#fff" font-size="clamp(60px, 250px, 160px)"
+                                                    font-weight="900" letter-spacing="6"
+                                                    font-family="Candy Hunter, Druk Wide Bold, Bebas Neue, Anton, League Spartan, sans-serif"
+                                                    style="filter:drop-shadow(0px 4px 16px rgba(0,0,0,0.7))">
+                                                    <textPath href="#curve" startOffset="50%" text-anchor="middle">
+                                                        CONSULTANCY </textPath>
+                                                </text>
+                                            </svg>
+                                        </div>
+                                        <div style="position:absolute;top:0;left:50%;width:2px;height:100%;background:linear-gradient(to bottom, transparent, white, transparent);cursor:ew-resize;z-index
+
+--- MATCH ---
+
+kground:#000;position:relative;overflow:hidden;user-select:none">
+                                        <svg viewBox="0 0 2000 300" width="100%" height="100%"
+                                            style="position:absolute;top:50%;left:0;transform:translateY(-50%);pointer-events:none">
+                                            <defs>
+                                                <path id="curve" d="M100 180 Q1000 80 1900 180"></path>
+                                            </defs><text fill="#2a2a2a" font-size="clamp(60px, 250px, 160px)"
+                                                font-weight="900" letter-spacing="6"
+                                                font-family="Candy Hunter, Druk Wide Bold, Bebas Neue, Anton, League Spartan, sans-serif">
+                                                <textPath href="#curve" startOffset="50%" text-anchor="middle">
+                                                    CONSULTANCY </textPath>
+                             
+
+--- MATCH ---
+
+       <defs>
+                                                <path id="curve" d="M100 180 Q1000 80 1900 180"></path>
+                                            </defs><text fill="#2a2a2a" font-size="clamp(60px, 250px, 160px)"
+                                                font-weight="900" letter-spacing="6"
+                                                font-family="Candy Hunter, Druk Wide Bold, Bebas Neue, Anton, League Spartan, sans-serif">
+                                                <textPath href="#curve" startOffset="50%" text-anchor="middle">
+                                                    CONSULTANCY </textPath>
+                                            </text>
+                                        </svg>
+                                        <div
+                                            style="position:absolute;inset:0;clip-path:inset(0 50% 0 0);pointer-events:none">
+                                            <svg viewBox="0 0 2000 300" width="100%" heigh
+
+--- MATCH ---
+
+p-path:inset(0 50% 0 0);pointer-events:none">
+                                            <svg viewBox="0 0 2000 300" width="100%" height="100%"
+                                                style="position:absolute;top:50%;left:0;transform:translateY(-50%);pointer-events:none">
+                                                <defs>
+                                                    <path id="curve" d="M100 180 Q1000 80 1900 180"></path>
+                                                </defs><text fill="#fff" font-size="clamp(60px, 250px, 160px)"
+                                                    font-weight="900" letter-spacing="6"
+                                                    font-family="Candy Hunter, Druk Wide Bold, Bebas Neue, Anton, League Spartan, sans-serif"
+                                                    style="filter:drop-shadow(0px 4px 16px rgba(0,0,0,0.7))">
+                                                    <textPath href="#curve" startOffset="50%" text-anch
+
+--- MATCH ---
+
+                                            </defs><text fill="#fff" font-size="clamp(60px, 250px, 160px)"
+                                                    font-weight="900" letter-spacing="6"
+                                                    font-family="Candy Hunter, Druk Wide Bold, Bebas Neue, Anton, League Spartan, sans-serif"
+                                                    style="filter:drop-shadow(0px 4px 16px rgba(0,0,0,0.7))">
+                                                    <textPath href="#curve" startOffset="50%" text-anchor="middle">
+                                                        CONSULTANCY </textPath>
+                                                </text>
+                                            </svg>
+                                        </div>
+                                        <div style="position:absolute;top:0;left:50%;width:2px;height:100%;background:linear-gradient(to bottom, transparent, white, transparent);cursor:ew-resize;z-index
+
+--- MATCH ---
+
+-input-font-color:var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255));--framer-input-icon-color:rgb(153, 153, 153);--framer-input-placeholder-color:var(--token-44fe5c6a-e01c-44b7-9812-682da634d2bc, rgba(255, 255, 255, 0.4))"
+                                                                class="framer-form-text-input framer-form-input-wrapper framer-kwoqjk framer-form-textarea-input-type"
+                                                                data-framer-name="Mesage"><textarea name="Mesage"
+                                                                    placeholder="" class="framer-form-input"
+                                                                    maxlength="500"></textarea></div>
+                                                            <div class="framer-xza9ic" data-framer-name="Line"
+                                                                style="background-color:var(--token-44fe5c6a-e01c-44b7-9812-682da634d2bc, rgba(255, 255, 2
+
+--- MATCH ---
+
+-input-font-color:var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255));--framer-input-icon-color:rgb(153, 153, 153);--framer-input-placeholder-color:var(--token-44fe5c6a-e01c-44b7-9812-682da634d2bc, rgba(255, 255, 255, 0.4))"
+                                                                class="framer-form-text-input framer-form-input-wrapper framer-kwoqjk framer-form-textarea-input-type"
+                                                                data-framer-name="Mesage"><textarea name="Mesage"
+                                                                    placeholder="" class="framer-form-input"
+                                                                    maxlength="500"></textarea></div>
+                                                            <div class="framer-xza9ic" data-framer-name="Line"
+                                                                style="background-color:var(--token-44fe5c6a-e01c-44b7-9812-682da634d2bc, rgba(255, 255, 2
+
+--- MATCH ---
+
+-input-font-color:var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255));--framer-input-icon-color:rgb(153, 153, 153);--framer-input-placeholder-color:var(--token-44fe5c6a-e01c-44b7-9812-682da634d2bc, rgba(255, 255, 255, 0.4))"
+                                                                class="framer-form-text-input framer-form-input-wrapper framer-kwoqjk framer-form-textarea-input-type"
+                                                                data-framer-name="Mesage"><textarea name="Mesage"
+                                                                    placeholder="" class="framer-form-input"
+                                                                    maxlength="500"></textarea></div>
+                                                            <div class="framer-xza9ic" data-framer-name="Line"
+                                                                style="background-color:var(--token-44fe5c6a-e01c-44b7-9812-682da634d2bc, rgba(255, 255, 2
+
+--- MATCH ---
+
+-input-font-color:var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255));--framer-input-icon-color:rgb(153, 153, 153);--framer-input-placeholder-color:var(--token-44fe5c6a-e01c-44b7-9812-682da634d2bc, rgba(255, 255, 255, 0.4))"
+                                                                class="framer-form-text-input framer-form-input-wrapper framer-kwoqjk framer-form-textarea-input-type"
+                                                                data-framer-name="Mesage"><textarea name="Mesage"
+                                                                    placeholder="" class="framer-form-input"
+                                                                    maxlength="500"></textarea></div>
+                                                            <div class="framer-xza9ic" data-framer-name="Line"
+                                                                style="background-color:var(--token-44fe5c6a-e01c-44b7-9812-682da634d2bc, rgba(255, 255, 2

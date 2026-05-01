@@ -1,0 +1,97 @@
+=== Script 1 (len 230) attrs:  ===
+try { if (localStorage.get("__framer_force_showing_editorbar_since")) { const n = document.createElement("link"); n.rel = "modulepreload"; n.href = "https://framer.com/edit/init.mjs"; document.head.appendChild(n) } } catch (e) { }
+
+=== Script 2 (len 2829) attrs:  id="custom-form-fix" ===
+
+        // Global interception of ALL form submissions to force FormSubmit.co
+        (function () {
+            const FORM_ENDPOINT = 'https://formsubmit.co/info@eviationmarketing.com';
+
+            function handleFormSubmission(e) {
+                const form = e.target;
+                if (form && form.tagName === 'FORM') {
+                    // If it's one of our Framer forms or any form really
+                    console.log('Intercepted form submit event. Forcing POST to:', FORM_ENDPOINT)
+
+=== Script 3 (len 1275) attrs:  ===
+(() => { function u() { function n(t, e, i) { let r = document.createElement("a"); r.href = t, r.target = i, r.rel = e, document.body.appendChild(r), r.click(), r.remove() } function o(t) { if (this.dataset.hydrated) { this.removeEventListener("click", o); return } t.preventDefault(), t.stopPropagation(); let e = this.getAttribute("href"); if (!e) return; if (/Mac|iPod|iPhone|iPad/u.test(navigator.userAgent) ? t.metaKey : t.ctrlKey) return n(e, "", "_blank"); let r = this.getAttribute("rel") ?? 
+
+=== Script 4 (len 945) attrs:  ===
+!function () {
+            var w = "framer_variant"; function u(a, r) { let e = r.indexOf("#"), t = e === -1 ? r : r.substring(0, e), o = e === -1 ? "" : r.substring(e), n = t.indexOf("?"), h = n === -1 ? t : t.substring(0, n), d = n === -1 ? "" : t.substring(n), s = new URLSearchParams(d), m = new URLSearchParams(a); for (let [i, l] of m) s.has(i) || i !== w && s.append(i, l); let c = s.toString(); return c === "" ? t + o : h + "?" + c + o } var g = 'div#main a[href^="#"],div#main a[href^="/"],
+
+=== Script 5 (len 13206) attrs:  ===
+var animator = (() => { var O = (e, r, t) => t > r ? r : t < e ? e : t; var j = () => { }; function W(e) { let r; return () => (r === void 0 && (r = e()), r) } var q = e => e; var v = e => e * 1e3, V = e => e / 1e3; function X(e, r) { return r ? e * (1e3 / r) : 0 } var Y = e => Array.isArray(e) && typeof e[0] == "number"; var H = { value: null, addProjectionMetrics: null }; var Z = { layout: 0, mainThread: 0, waapi: 0 }; var L = (e, r, t = 10) => { let o = "", s = Math.max(Math.round(r / t), 2);
+
+=== Script 6 (len 5789) attrs:  type="framer/appear"
+        id="__framer__appearAnimationsContent" ===
+{"ggctko":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-400},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":40,"delay":0,"mass":1,"stiffness":200,"type":"spring"},"x":0,"y":0}},"kcs94i":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-400},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"sk
+
+=== Script 7 (len 459) attrs:  type="framer/appear"
+        id="__framer__breakpoints" ===
+[{"hash":"72rtr7","mediaQuery":"(min-width: 1400px)"},{"hash":"kcs94i","mediaQuery":"(min-width: 1400px) and (max-width: 1399.98px)"},{"hash":"1bbcz71","mediaQuery":"(min-width: 810px) and (max-width: 1399.98px)"},{"hash":"3kpr47","mediaQuery":"(max-width: 809.98px)"},{"hash":"17go8qu","mediaQuery":"(min-width: 1200px)"},{"hash":"1buhi9k","mediaQuery":"(min-width: 810px) and (max-width: 1199.98px)"},{"hash":"1xeog52","mediaQuery":"(max-width: 809.98px)"}]
+
+=== Script 8 (len 867) attrs: 
+        data-framer-appear-animation="no-preference" ===
+(() => { function c(i, o, s) { if (window.__framer_disable_appear_effects_optimization__ || typeof animator > "u") return; let e = { detail: { bg: document.hidden } }; requestAnimationFrame(() => { let a = "framer-appear-start"; performance.mark(a, e), animator.animateAppearEffects(JSON.parse(window.__framer__appearAnimationsContent.text), (m, p, d) => { let t = document.querySelector(m); if (t) for (let [r, f] of Object.entries(p)) animator.startOptimizedAppearAnimation(t, r, f, d[r]) }, i, o, 
+
+=== Script 9 (len 123) attrs:  ===
+typeof document < "u" && (window.process = { ...window.process, env: { ...window.process?.env, NODE_ENV: "production" } });
+
+=== Script 11 (len 2042) attrs:  type="framer/handover"
+        id="__framer__handoverData" ===
+[{"0":1,"1":28},["Map",2,3],"{\"from\":\"a5c81d53-b96a-4c3b-a395-801bc0e72178\",\"limit\":{\"type\":\"LiteralValue\",\"value\":1},\"select\":[{\"collection\":\"HTeWk9tTA\",\"name\":\"NgUeCgB51\",\"type\":\"Identifier\"},{\"collection\":\"HTeWk9tTA\",\"name\":\"clnm46k8N\",\"type\":\"Identifier\"},{\"collection\":\"HTeWk9tTA\",\"name\":\"ff6KFKIFV\",\"type\":\"Identifier\"},{\"collection\":\"HTeWk9tTA\",\"name\":\"dm40P6hXm\",\"type\":\"Identifier\"},{\"collection\":\"HTeWk9tTA\",\"name\":\"ZWdl4
+
+=== Script 13 (len 4086) attrs:  ===
+/**
+* Scroll Reveal Polyfill (Vanilla JS)
+*
+* Uses IntersectionObserver + element.animate() — zero dependencies.
+* Works from file:// protocol (no module imports, no CDN).
+*
+* Targets: [data-nce-scroll] elements tagged by page-processor Cheerio phase.
+* Also scans [style] at runtime for opacity:0 + transform elements
+* not caught by Cheerio (covers computed/cascaded styles).
+*/
+        (function () {
+            var fallbackStyle = document.querySelector('style[data-nce-scroll-fallback]');
+
+    
+
+=== Script 14 (len 21035) attrs:  ===
+/**
+* Accordion Polyfill — Structural Detection Algorithm
+*
+* Replaces framework AnimatePresence for accordion/FAQ components.
+* Instead of matching specific attribute names, this polyfill detects the
+* accordion *pattern* algorithmically:
+*
+* ALGORITHM:
+*   1. Find "accordion groups": containers with 3+ similar sibling children
+*      (same tag, ±1 child-element-count, all have [data-highlight] or [tabindex])
+*   2. For each item, identify the TRIGGER vs CONTENT regions:
+*      - CONTENT: a des
+
+=== Script 15 (len 5126) attrs:  ===
+/**
+* Nav Scroll Polyfill — Structural Detection Algorithm
+*
+* Adds scroll-based background transition for fixed navigation headers.
+* Frameworks like Framer Motion normally drive this via variant animations on scroll.
+*
+* ALGORITHM:
+*   1. PRE-TAGGED: Check for [data-nce-nav-scroll] (set by page-processor.ts
+*      during the Cheerio phase, which can inspect CSS rules for position:fixed).
+*   2. SELF-DETECT: If no pre-tagged elements found, scan for elements matching
+*      the fixed-transparen
+
+=== Script 16 (len 5939) attrs:  ===
+
+        (function () {
+            var origin = "https://breezy-months-462813.framer.app";
+            var allowed = ["https://breezy-months-462813.framer.app/", "https://breezy-months-462813.framer.app/404", "https://breezy-months-462813.framer.app/cases", "https://breezy-months-462813.framer.app/cases/hotel-%C3%A9den-karwar"];
+            var relativeRoot = "./";
+
+            function neutralizeLink(a) {
+                if (!a || a.getAttribute("data-nce-checked")) return;
+                var

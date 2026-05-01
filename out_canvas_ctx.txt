@@ -1,0 +1,231 @@
+=== CANVAS 1 at pos 584968 ===
+">
+                                    <div class="framer-zc26t0" data-framer-name="Heading">
+                                        <div class="framer-2q1b7n"
+                                            style="justify-content:center;--extracted-1of0zx5:var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48));--framer-paragraph-spacing:0px;transform:none"
+                                            data-framer-component-type="RichTextContainer">
+                                            <h2 class="framer-text framer-styles-preset-ep0jra"
+                                                data-styles-preset="hZ8usl_26" dir="auto"
+                                                style="--framer-text-alignment:center;--framer-text-color:var(--extracted-1of0zx5, var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48)))">
+                                                Services</h2>
+                                        </div>
+                                        <div class="framer-mrc7gh" data-framer-name="Dot"
+                                            style="justify-content:center;--extracted-1of0zx5:var(--token-7aee89be-f7d7-4b0b-b618-6062693d065d, rgb(0, 0, 0));--framer-paragraph-spacing:0px;transform:none"
+                                            data-framer-component-type="RichTextContainer">
+                                            <h2 class="framer-text framer-styles-preset-ep0jra"
+                                                data-styles-preset="hZ8usl_26"
+                                                style="--framer-text-alignment:center;--framer-text-color:var(--extracted-1of0zx5, var(--token-7aee89be-f7d7-4b0b-b618-6062693d065d, rgb(0, 0, 0)))">
+                                                .</h2>
+                                        </div>
+                                    </div>
+                                    <div class="framer-ljc3kb-container"><!--$-->
+                                        <div data-font-key="&quot;Mozilla Text&quot;, &quot;Mozilla Text Placeholder&quot;, sans-serif|normal|700"
+                                            style="position:relative;width:100%;height:100%;overflow:visible;background:transparent;font-family:&quot;Mozilla Text&quot;, &quot;Mozilla Text Placeholder&quot;, sans-serif;font-weight:700;font-style:normal;font-synthesis:none">
+                                            <span aria-hidden="true"
+                                                style="position:absolute;opacity:0;pointer-events:none;white-space:nowrap;font-family:&quot;Mozilla Text&quot;, &quot;Mozilla Text Placeholder&quot;, sans-serif;font-weight:700;font-style:normal;font-synthesis:none">AaБбWwmn—1234567890</span>
+                                            <div
+                                                style="position:sticky;top:0;height:100vh;width:100%;pointer-events:none;display:grid;justify-items:center;align-items:start">
+                                                <canvas style="width:100%;height:100%;display:block"></canvas>
+                                            </div>
+                                        </div><!--/$-->
+                                    </div>
+                                </a><!--/$-->
+                            </section>
+                        </div>
+                        <div class="ssr-variant hidden-72rtr7">
+                            <section
+                                class="framer-BDvJp framer-s5fU5 frame
+
+=== CANVAS 2 at pos 589152 ===
+">
+                                    <div class="framer-zc26t0" data-framer-name="Heading">
+                                        <div class="framer-2q1b7n"
+                                            style="justify-content:center;--extracted-1of0zx5:var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48));--framer-paragraph-spacing:0px;transform:none"
+                                            data-framer-component-type="RichTextContainer">
+                                            <h2 class="framer-text framer-styles-preset-ep0jra"
+                                                data-styles-preset="hZ8usl_26" dir="auto"
+                                                style="--framer-text-alignment:center;--framer-text-color:var(--extracted-1of0zx5, var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48)))">
+                                                Services</h2>
+                                        </div>
+                                        <div class="framer-mrc7gh" data-framer-name="Dot"
+                                            style="justify-content:center;--extracted-1of0zx5:var(--token-7aee89be-f7d7-4b0b-b618-6062693d065d, rgb(0, 0, 0));--framer-paragraph-spacing:0px;transform:none"
+                                            data-framer-component-type="RichTextContainer">
+                                            <h2 class="framer-text framer-styles-preset-ep0jra"
+                                                data-styles-preset="hZ8usl_26"
+                                                style="--framer-text-alignment:center;--framer-text-color:var(--extracted-1of0zx5, var(--token-7aee89be-f7d7-4b0b-b618-6062693d065d, rgb(0, 0, 0)))">
+                                                .</h2>
+                                        </div>
+                                    </div>
+                                    <div class="framer-ljc3kb-container"><!--$-->
+                                        <div data-font-key="&quot;Mozilla Text&quot;, &quot;Mozilla Text Placeholder&quot;, sans-serif|normal|700"
+                                            style="position:relative;width:100%;height:100%;overflow:visible;background:transparent;font-family:&quot;Mozilla Text&quot;, &quot;Mozilla Text Placeholder&quot;, sans-serif;font-weight:700;font-style:normal;font-synthesis:none">
+                                            <span aria-hidden="true"
+                                                style="position:absolute;opacity:0;pointer-events:none;white-space:nowrap;font-family:&quot;Mozilla Text&quot;, &quot;Mozilla Text Placeholder&quot;, sans-serif;font-weight:700;font-style:normal;font-synthesis:none">AaБбWwmn—1234567890</span>
+                                            <div
+                                                style="position:sticky;top:0;height:100vh;width:100%;pointer-events:none;display:grid;justify-items:center;align-items:start">
+                                                <canvas style="width:100%;height:100%;display:block"></canvas>
+                                            </div>
+                                        </div><!--/$-->
+                                    </div>
+                                </a><!--/$-->
+                            </section>
+                        </div>
+                    </div>
+                </div>
+                <div class="ssr-variant hidden-1bbcz71 hidden-kcs94i hidden-72rtr7">
+                    <div class="fram
+
+=== CANVAS 3 at pos 593499 ===
+mer-name="Heading">
+                                    <div class="framer-2q1b7n"
+                                        style="justify-content:center;--extracted-1of0zx5:var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48));--framer-paragraph-spacing:0px;--extracted-1eung3n:var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48));transform:none"
+                                        data-framer-component-type="RichTextContainer">
+                                        <h4 class="framer-text framer-styles-preset-19084qk"
+                                            data-styles-preset="D2Nj2b5ip" dir="auto"
+                                            style="--framer-text-alignment:center;--framer-text-color:var(--extracted-1eung3n, var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48)))">
+                                            Services</h4>
+                                    </div>
+                                    <div class="framer-mrc7gh" data-framer-name="Dot"
+                                        style="justify-content:center;--extracted-1of0zx5:var(--token-7aee89be-f7d7-4b0b-b618-6062693d065d, rgb(0, 0, 0));--framer-paragraph-spacing:0px;--extracted-1eung3n:var(--token-7aee89be-f7d7-4b0b-b618-6062693d065d, rgb(0, 0, 0));transform:none"
+                                        data-framer-component-type="RichTextContainer">
+                                        <h4 class="framer-text framer-styles-preset-19084qk"
+                                            data-styles-preset="D2Nj2b5ip"
+                                            style="--framer-text-alignment:center;--framer-text-color:var(--extracted-1eung3n, var(--token-7aee89be-f7d7-4b0b-b618-6062693d065d, rgb(0, 0, 0)))">
+                                            .</h4>
+                                    </div>
+                                </div>
+                                <div class="framer-ljc3kb-container"><!--$-->
+                                    <div data-font-key="&quot;Mozilla Text&quot;, &quot;Mozilla Text Placeholder&quot;, sans-serif|normal|700"
+                                        style="position:relative;width:100%;height:100%;overflow:visible;background:transparent;font-family:&quot;Mozilla Text&quot;, &quot;Mozilla Text Placeholder&quot;, sans-serif;font-weight:700;font-style:normal;font-synthesis:none">
+                                        <span aria-hidden="true"
+                                            style="position:absolute;opacity:0;pointer-events:none;white-space:nowrap;font-family:&quot;Mozilla Text&quot;, &quot;Mozilla Text Placeholder&quot;, sans-serif;font-weight:700;font-style:normal;font-synthesis:none">AaБбWwmn—1234567890</span>
+                                        <div
+                                            style="position:sticky;top:0;height:100vh;width:100%;pointer-events:none;display:grid;justify-items:center;align-items:start">
+                                            <canvas style="width:100%;height:100%;display:block"></canvas>
+                                        </div>
+                                    </div><!--/$-->
+                                </div>
+                            </a><!--/$-->
+                        </section>
+                    </div>
+                </div>
+                <div class="ssr-variant hidden-3kpr47 hidden-kcs94i hidden-72rtr7">
+                    <div class="framer-1x3tzhw-container" data-framer-cursor="1r791u8" i
+
+=== CANVAS 4 at pos 597789 ===
+ta-framer-name="Heading">
+                                    <div class="framer-2q1b7n"
+                                        style="justify-content:center;--extracted-1of0zx5:var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48));--framer-paragraph-spacing:0px;--extracted-a0htzi:var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48));transform:none"
+                                        data-framer-component-type="RichTextContainer">
+                                        <h3 class="framer-text framer-styles-preset-wvy7ez"
+                                            data-styles-preset="hdCs32bmG" dir="auto"
+                                            style="--framer-text-alignment:center;--framer-text-color:var(--extracted-a0htzi, var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48)))">
+                                            Services</h3>
+                                    </div>
+                                    <div class="framer-mrc7gh" data-framer-name="Dot"
+                                        style="justify-content:center;--extracted-1of0zx5:var(--token-7aee89be-f7d7-4b0b-b618-6062693d065d, rgb(0, 0, 0));--framer-paragraph-spacing:0px;--extracted-a0htzi:var(--token-7aee89be-f7d7-4b0b-b618-6062693d065d, rgb(0, 0, 0));transform:none"
+                                        data-framer-component-type="RichTextContainer">
+                                        <h3 class="framer-text framer-styles-preset-wvy7ez"
+                                            data-styles-preset="hdCs32bmG"
+                                            style="--framer-text-alignment:center;--framer-text-color:var(--extracted-a0htzi, var(--token-7aee89be-f7d7-4b0b-b618-6062693d065d, rgb(0, 0, 0)))">
+                                            .</h3>
+                                    </div>
+                                </div>
+                                <div class="framer-ljc3kb-container"><!--$-->
+                                    <div data-font-key="&quot;Mozilla Text&quot;, &quot;Mozilla Text Placeholder&quot;, sans-serif|normal|700"
+                                        style="position:relative;width:100%;height:100%;overflow:visible;background:transparent;font-family:&quot;Mozilla Text&quot;, &quot;Mozilla Text Placeholder&quot;, sans-serif;font-weight:700;font-style:normal;font-synthesis:none">
+                                        <span aria-hidden="true"
+                                            style="position:absolute;opacity:0;pointer-events:none;white-space:nowrap;font-family:&quot;Mozilla Text&quot;, &quot;Mozilla Text Placeholder&quot;, sans-serif;font-weight:700;font-style:normal;font-synthesis:none">AaБбWwmn—1234567890</span>
+                                        <div
+                                            style="position:sticky;top:0;height:100vh;width:100%;pointer-events:none;display:grid;justify-items:center;align-items:start">
+                                            <canvas style="width:100%;height:100%;display:block"></canvas>
+                                        </div>
+                                    </div><!--/$-->
+                                </div>
+                            </a><!--/$-->
+                        </section>
+                    </div>
+                </div><!--/$-->
+                <div class="ssr-variant hidden-3kpr47 hidden-1bbcz71">
+                    <div class="framer-1vrhvdp-container" id="stack">
+                      
+
+=== CANVAS 5 at pos 908855 ===
+   </div>
+                                                <div class="framer-1kmvq68" data-framer-name="Tech Lines Left"
+                                                    style="opacity:1;transform:rotate(180deg)">
+                                                    <div data-framer-component-type="SVG" data-framer-name="tech_lines"
+                                                        style="image-rendering:pixelated;flex-shrink:0"
+                                                        class="framer-1wnclzh" aria-hidden="true">
+                                                        <div class="svgContainer"
+                                                            style="width:100%;height:100%;aspect-ratio:inherit"><svg
+                                                                style="width:100%;height:100%;">
+                                                                <use href="#svg11330059636"></use>
+                                                            </svg></div>
+                                                    </div>
+                                                </div>
+                                                <div class="framer-14awg2u" data-border="true" data-framer-name="Text"
+                                                    style="--border-bottom-width:0px;--border-color:var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48));--border-left-width:0px;--border-right-width:0px;--border-style:solid;--border-top-width:0px;background-color:var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(130, 19, 4))">
+                                                    <div class="framer-1pu1avj" data-framer-name="Contact now"
+                                                        style="justify-content:center;--extracted-1w1cjl5:var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255));--framer-paragraph-spacing:0px;transform:none"
+                                                        data-framer-component-type="RichTextContainer">
+                                                        <h6 class="framer-text framer-styles-preset-92mpg9"
+                                                            data-styles-preset="pLAsvwM58"
+                                                            style="--framer-text-alignment:center;--framer-text-color:var(--extracted-1w1cjl5, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))">
+                                                            Contact Now</h6>
+                                                    </div>
+                                                    <div class="framer-s2oyol-container" style="opacity:1"><!--$-->
+                                                        <div
+                                                            style="width:100%;height:100%;background:var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(130, 19, 4));overflow:hidden">
+                                                            <canvas></canvas>
+                                                        </div><!--/$-->
+                                                    </div>
+                                                </div>
+                                            </a><!--/$--></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section><!--/$-->
+                    </div>
+                </div>
+                <div 
+
+=== CANVAS 6 at pos 961954 ===
+   </div>
+                                                <div class="framer-1kmvq68" data-framer-name="Tech Lines Left"
+                                                    style="opacity:1;transform:rotate(180deg)">
+                                                    <div data-framer-component-type="SVG" data-framer-name="tech_lines"
+                                                        style="image-rendering:pixelated;flex-shrink:0"
+                                                        class="framer-1wnclzh" aria-hidden="true">
+                                                        <div class="svgContainer"
+                                                            style="width:100%;height:100%;aspect-ratio:inherit"><svg
+                                                                style="width:100%;height:100%;">
+                                                                <use href="#svg11330059636"></use>
+                                                            </svg></div>
+                                                    </div>
+                                                </div>
+                                                <div class="framer-14awg2u" data-border="true" data-framer-name="Text"
+                                                    style="--border-bottom-width:0px;--border-color:var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48));--border-left-width:0px;--border-right-width:0px;--border-style:solid;--border-top-width:0px;background-color:var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(130, 19, 4))">
+                                                    <div class="framer-1pu1avj" data-framer-name="Contact now"
+                                                        style="justify-content:center;--extracted-1w1cjl5:var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255));--framer-paragraph-spacing:0px;transform:none"
+                                                        data-framer-component-type="RichTextContainer">
+                                                        <h6 class="framer-text framer-styles-preset-92mpg9"
+                                                            data-styles-preset="pLAsvwM58"
+                                                            style="--framer-text-alignment:center;--framer-text-color:var(--extracted-1w1cjl5, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))">
+                                                            Contact Now</h6>
+                                                    </div>
+                                                    <div class="framer-s2oyol-container" style="opacity:1"><!--$-->
+                                                        <div
+                                                            style="width:100%;height:100%;background:var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(130, 19, 4));overflow:hidden">
+                                                            <canvas></canvas>
+                                                        </div><!--/$-->
+                                                    </div>
+                                                </div>
+                                            </a><!--/$--></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section><!--/$-->
+                    </div>
+                </div><!--/$-->
+            

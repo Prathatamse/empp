@@ -1,0 +1,251 @@
+--framer-text-color: #fff;
+            --framer-text-decoration: none;
+            --framer-text-stroke-color: initial;
+            --framer-text-stroke-width: initial;
+            --framer-text-transform: none
+        }
+    </style><!-- Start of headEnd -->
+
+    <!-- End of headEnd -->
+    <style data-nce-scroll-fallback="">
+        [data-nce-scroll] {
+            opacity: 1 !important;
+            transform: none !important
+        }
+    </style>
+
+    <style>
+        /* Fix for Safari/Chrome 'ContactHome' spacing issue */
+        .framer-FbrZO .framer-40t19v > div {
+            margin-right: 15px !important;
+            margin-bottom: 5px !important;
+        }
+        .framer-190oa1v h6::after {
+            content: "\00a0"; /* Add space after navigation labels */
+            display: inline-block;
+            width: 5px;
+        }
+        .framer-190oa1v {
+            padding: 0 10px !important;
+            white-space: nowrap !important;
+        }
+        /* Hide book preloader and
+
+--- MATCH ---
+
+                                        data-framer-component-type="RichTextContainer">
+                                                <h6 class="framer-text framer-styles-preset-753q9u"
+                                                    data-styles-preset="DPlrwsrr0"
+                                                    style="--framer-text-color:var(--extracted-1w1cjl5, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))">
+                                                    Contact&nbsp;</h6>
+                                            </div>
+                                            <div class="framer-y5upef" data-framer-name="Left" style="opacity:0">
+                                                <div data-framer-component-type="SVG" data-framer-name="Lines"
+                                                    style="image-rendering:pixelated;flex-shrink:0"
+                                                    class="framer-11dud2k" aria-hidden="true">
+          
+
+--- MATCH ---
+
+ta-border="true"
+                                                        data-framer-name="Text"
+                                                        style="--border-bottom-width:1px;--border-color:var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48));--border-left-width:1px;--border-right-width:1px;--border-style:solid;--border-top-width:1px;background-color:rgba(0, 0, 0, 0)">
+                                                        <div class="framer-1pu1avj" data-framer-name="Contact now"
+                                                            style="justify-content:center;--extracted-1w1cjl5:var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255));--framer-paragraph-spacing:0px;transform:none"
+                                                            data-framer-component-type="RichTextContainer">
+                                                            <h6 class="framer-text framer-styles-preset-4995rr"
+                                        
+
+--- MATCH ---
+
+tainer">
+                                                            <h6 class="framer-text framer-styles-preset-4995rr"
+                                                                data-styles-preset="eGWmhLuo2"
+                                                                style="--framer-text-alignment:center;--framer-text-color:var(--extracted-1w1cjl5, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))">
+                                                                Contact Now</h6>
+                                                        </div>
+                                                    </div>
+                                                </a><!--/$--></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section><!--/$-->
+                        </div>
+                        <div class="ssr-variant hidden-72rtr7"><!--$-->
+             
+
+--- MATCH ---
+
+ta-border="true"
+                                                        data-framer-name="Text"
+                                                        style="--border-bottom-width:1px;--border-color:var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48));--border-left-width:1px;--border-right-width:1px;--border-style:solid;--border-top-width:1px;background-color:rgba(0, 0, 0, 0)">
+                                                        <div class="framer-1pu1avj" data-framer-name="Contact now"
+                                                            style="justify-content:center;--extracted-1w1cjl5:var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255));--framer-paragraph-spacing:0px;transform:none"
+                                                            data-framer-component-type="RichTextContainer">
+                                                            <h6 class="framer-text framer-styles-preset-4995rr"
+                                        
+
+--- MATCH ---
+
+tainer">
+                                                            <h6 class="framer-text framer-styles-preset-4995rr"
+                                                                data-styles-preset="eGWmhLuo2"
+                                                                style="--framer-text-alignment:center;--framer-text-color:var(--extracted-1w1cjl5, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))">
+                                                                Contact Now</h6>
+                                                        </div>
+                                                    </div>
+                                                </a><!--/$--></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section><!--/$-->
+                        </div>
+                    </div>
+                </div>
+                <div class="ssr-var
+
+--- MATCH ---
+
+er-14awg2u" data-border="true" data-framer-name="Text"
+                                                    style="--border-bottom-width:0px;--border-color:var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48));--border-left-width:0px;--border-right-width:0px;--border-style:solid;--border-top-width:0px;background-color:var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(130, 19, 4))">
+                                                    <div class="framer-1pu1avj" data-framer-name="Contact now"
+                                                        style="justify-content:center;--extracted-1w1cjl5:var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255));--framer-paragraph-spacing:0px;transform:none"
+                                                        data-framer-component-type="RichTextContainer">
+                                                        <h6 class="framer-text framer-styles-preset-92mpg9"
+                                                    
+
+--- MATCH ---
+
+ype="RichTextContainer">
+                                                        <h6 class="framer-text framer-styles-preset-92mpg9"
+                                                            data-styles-preset="pLAsvwM58"
+                                                            style="--framer-text-alignment:center;--framer-text-color:var(--extracted-1w1cjl5, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))">
+                                                            Contact Now</h6>
+                                                    </div>
+                                                    <div class="framer-s2oyol-container" style="opacity:1"><!--$-->
+                                                        <div
+                                                            style="width:100%;height:100%;background:var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(130, 19, 4));overflow:hidden">
+                                                            <
+
+--- MATCH ---
+
+er-14awg2u" data-border="true" data-framer-name="Text"
+                                                    style="--border-bottom-width:0px;--border-color:var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48));--border-left-width:0px;--border-right-width:0px;--border-style:solid;--border-top-width:0px;background-color:var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(130, 19, 4))">
+                                                    <div class="framer-1pu1avj" data-framer-name="Contact now"
+                                                        style="justify-content:center;--extracted-1w1cjl5:var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255));--framer-paragraph-spacing:0px;transform:none"
+                                                        data-framer-component-type="RichTextContainer">
+                                                        <h6 class="framer-text framer-styles-preset-92mpg9"
+                                                    
+
+--- MATCH ---
+
+ype="RichTextContainer">
+                                                        <h6 class="framer-text framer-styles-preset-92mpg9"
+                                                            data-styles-preset="pLAsvwM58"
+                                                            style="--framer-text-alignment:center;--framer-text-color:var(--extracted-1w1cjl5, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))">
+                                                            Contact Now</h6>
+                                                    </div>
+                                                    <div class="framer-s2oyol-container" style="opacity:1"><!--$-->
+                                                        <div
+                                                            style="width:100%;height:100%;background:var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(130, 19, 4));overflow:hidden">
+                                                            <
+
+--- MATCH ---
+
+ta-border="true"
+                                                        data-framer-name="Text"
+                                                        style="--border-bottom-width:1px;--border-color:var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48));--border-left-width:1px;--border-right-width:1px;--border-style:solid;--border-top-width:1px;background-color:rgba(0, 0, 0, 0)">
+                                                        <div class="framer-10lt0l4" data-framer-name="Contact now"
+                                                            style="justify-content:center;--extracted-1w1cjl5:var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255));--framer-paragraph-spacing:0px;transform:none"
+                                                            data-framer-component-type="RichTextContainer">
+                                                            <h6 class="framer-text framer-styles-preset-4995rr"
+                                        
+
+--- MATCH ---
+
+tainer">
+                                                            <h6 class="framer-text framer-styles-preset-4995rr"
+                                                                data-styles-preset="eGWmhLuo2"
+                                                                style="--framer-text-alignment:center;--framer-text-color:var(--extracted-1w1cjl5, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))">
+                                                                Contact now</h6>
+                                                        </div>
+                                                    </div>
+                                                </button><!--/$--></div><input type="text" name="website" tabindex="-1"
+                                                autocomplete="one-time-code" aria-hidden="true"
+                                                style="position:absolute;transform:scale(0)" data-1p-ignore="true"
+                              
+
+--- MATCH ---
+
+ta-border="true"
+                                                        data-framer-name="Text"
+                                                        style="--border-bottom-width:1px;--border-color:var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48));--border-left-width:1px;--border-right-width:1px;--border-style:solid;--border-top-width:1px;background-color:rgba(0, 0, 0, 0)">
+                                                        <div class="framer-10lt0l4" data-framer-name="Contact now"
+                                                            style="justify-content:center;--extracted-1w1cjl5:var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255));--framer-paragraph-spacing:0px;transform:none"
+                                                            data-framer-component-type="RichTextContainer">
+                                                            <h6 class="framer-text framer-styles-preset-4995rr"
+                                        
+
+--- MATCH ---
+
+tainer">
+                                                            <h6 class="framer-text framer-styles-preset-4995rr"
+                                                                data-styles-preset="eGWmhLuo2"
+                                                                style="--framer-text-alignment:center;--framer-text-color:var(--extracted-1w1cjl5, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))">
+                                                                Contact now</h6>
+                                                        </div>
+                                                    </div>
+                                                </button><!--/$--></div><input type="text" name="website" tabindex="-1"
+                                                autocomplete="one-time-code" aria-hidden="true"
+                                                style="position:absolute;transform:scale(0)" data-1p-ignore="true"
+                              
+
+--- MATCH ---
+
+ta-border="true"
+                                                        data-framer-name="Text"
+                                                        style="--border-bottom-width:1px;--border-color:var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48));--border-left-width:1px;--border-right-width:1px;--border-style:solid;--border-top-width:1px;background-color:rgba(0, 0, 0, 0)">
+                                                        <div class="framer-10lt0l4" data-framer-name="Contact now"
+                                                            style="justify-content:center;--extracted-1w1cjl5:var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255));--framer-paragraph-spacing:0px;transform:none"
+                                                            data-framer-component-type="RichTextContainer">
+                                                            <h6 class="framer-text framer-styles-preset-4995rr"
+                                        
+
+--- MATCH ---
+
+tainer">
+                                                            <h6 class="framer-text framer-styles-preset-4995rr"
+                                                                data-styles-preset="eGWmhLuo2"
+                                                                style="--framer-text-alignment:center;--framer-text-color:var(--extracted-1w1cjl5, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))">
+                                                                Contact now</h6>
+                                                        </div>
+                                                    </div>
+                                                </button><!--/$--></div><input type="text" name="website" tabindex="-1"
+                                                autocomplete="one-time-code" aria-hidden="true"
+                                                style="position:absolute;transform:scale(0)" data-1p-ignore="true"
+                              
+
+--- MATCH ---
+
+ta-border="true"
+                                                        data-framer-name="Text"
+                                                        style="--border-bottom-width:1px;--border-color:var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48));--border-left-width:1px;--border-right-width:1px;--border-style:solid;--border-top-width:1px;background-color:rgba(0, 0, 0, 0)">
+                                                        <div class="framer-10lt0l4" data-framer-name="Contact now"
+                                                            style="justify-content:center;--extracted-1w1cjl5:var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255));--framer-paragraph-spacing:0px;transform:none"
+                                                            data-framer-component-type="RichTextContainer">
+                                                            <h6 class="framer-text framer-styles-preset-4995rr"
+                                        
+
+--- MATCH ---
+
+tainer">
+                                                            <h6 class="framer-text framer-styles-preset-4995rr"
+                                                                data-styles-preset="eGWmhLuo2"
+                                                                style="--framer-text-alignment:center;--framer-text-color:var(--extracted-1w1cjl5, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))">
+                                                                Contact now</h6>
+                                                        </div>
+                                                    </div>
+                                                </button><!--/$--></div><input type="text" name="website" tabindex="-1"
+                                                autocomplete="one-time-code" aria-hidden="true"
+                                                style="position:absolute;transform:scale(0)" data-1p-ignore="true"
+                              

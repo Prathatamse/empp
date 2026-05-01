@@ -1,0 +1,97 @@
+[style] at runtime for opacity:0 + transform elements
+* not caught by Cheerio (covers computed/cascaded styles).
+*/
+        (function () {
+            var fallbackStyle = document.querySelector('style[data-nce-scroll-fallback]');
+
+            // Check API support — if missing, CSS fallback handles visibility
+            if (typeof IntersectionObserver === 'undefined' || typeof Element.prototype.animate !== 'function') {
+                return;
+            }
+
+            // Remove CSS fallback — JS will handle animation
+            if (fallbackStyle) fallbackStyle.remove();
+
+            var prefersReducedMotion = window.matchMedia
+                && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+            // Runtime scan: tag elements with inline opacity:0 + transform not caught by Cheerio
+            document.querySelectorAll('[style]').forEach(function (el) {
+                var s = el.getAttribute('style') || '';
+                if (/opacity\s*:\s*(0|0\.001)([;\s]|$)/.test(s)
+                    && /transform\s*:/.test(s)
+                    && !/transform\s*:\s*none/.test(s)
+                    && !el.hasAttribute('data-nce-scroll')) {
+                    if (/translate\(\s*-50%\s*,\s*-50%\s*\)/.test(s)) {
+                        el.style.opacity = '1';
+                        return;
+                    }
+                    el.setAttribute('data-nce-scroll', 'true');
+                    var m = s.match(/transform\s*:\s*([^;]+)/);
+                    if (m) el.setAttribute('data-nce-initial-transform', m[1].trim());
+                }
+            });
+
+            var els = document.querySelectorAll('[data-nce-scroll]');
+            if (els.length === 0) return;
+
+            if (prefersReducedMotion) {
+                els.forEach(function (el) {
+                    el.style.opacity = '1';
+                    var t = el.getAttribute('data-nce-initial-transform') || el.style.transform || '';
+                    if (/perspective\([^)]+\)/.test(t)) {
+                        el.style.transform = t.match(/perspective\([^)]+\)/)[0];
+                    } else {
+                        el.style.transform = 'none';
+                    }
+                });
+                return;
+            }
+
+            var observer = new IntersectionObserver(function (entries) {
+                entries.forEach(function (entry) {
+                    if (!entry.isIntersecting) return;
+                    var el = entry.target;
+                    var initialTransform = el.getAttribute('data-nce-initial-transform')
+                        || el.style.transform
+                        || 'translateY(20px)';
+
+                    // Skip centering transforms
+                    if (/translate\(\s*-50%\s*,\s*-50%\s*\)/.test(initialTransform)) {
+                        el.style.opacity = '1';
+                        observer.unobserve(el);
+                        return;
+                    }
+
+                    // Final transform: strip entrance offsets, keep perspective
+                    var finalTransform = 'none';
+                    if (/perspective\([^)]+\)/.test(initialTransform)) {
+                        var p = initialTransform.match(/perspective\([^)]+\)/);
+                        finalTransform = p ? p[0] : 'none';
+                    }
+
+                    el.animate(
+                        [
+                            { opacity: 0, transform: initialTransform },
+                            { opacity: 1, transform: finalTransform }
+                        ],
+                        { duration: 600, easing: 'ease-out', fill: 'forwards' }
+                    );
+
+                    observer.unobserve(el);
+                });
+            }, { threshold: 0.1 });
+
+            els.forEach(function (el) { observer.observe(el); });
+        })();
+    </script>
+    <script>/**
+* Accordion Polyfill — Structural Detection Algorithm
+*
+* Replaces framework AnimatePresence for accordion/FAQ components.
+* Instead of matching specific attribute names, this polyfill detects the
+* accordion *pattern* algorithmically:
+*
+* ALGORITHM:
+*   1. Find "accordion groups": containers with 3+ similar sibling children
+*      (same tag, ±1 child-element-count, all have [data-highlight]

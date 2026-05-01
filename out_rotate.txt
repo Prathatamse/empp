@@ -1,0 +1,689 @@
+yle="width:100%">
+                                                <div class="framer-1uly6uu" data-framer-name="Tech Lines - Left"
+                                                    style="transform:rotateY(180deg)">
+                                                    <div data-framer-component-type="SVG" data-framer-name="Group"
+                                                        style="image-rende
+
+--- MATCH ---
+
+         pointer-events: none
+                                                }
+
+                                                .back {
+                                                    transform: rotateY(180deg) translateZ(0.02px)
+                                                }
+
+                                                /* --- Mobile fix: реальная перспектива через transform на книге --- */
+ 
+
+--- MATCH ---
+
+yle="width:100%">
+                                                <div class="framer-1uly6uu" data-framer-name="Tech Lines - Left"
+                                                    style="transform:rotateY(180deg)">
+                                                    <div data-framer-component-type="SVG" data-framer-name="Group"
+                                                        style="image-rende
+
+--- MATCH ---
+
+         pointer-events: none
+                                                }
+
+                                                .back {
+                                                    transform: rotateY(180deg) translateZ(0.02px)
+                                                }
+
+                                                /* --- Mobile fix: реальная перспектива через transform на книге --- */
+ 
+
+--- MATCH ---
+
+hone" style="width:100%">
+                                            <div class="framer-1uly6uu" data-framer-name="Tech Lines - Left"
+                                                style="transform:rotateY(180deg)">
+                                                <div data-framer-component-type="SVG" data-framer-name="Group"
+                                                    style="image-rendering:pix
+
+--- MATCH ---
+
+                     pointer-events: none
+                                            }
+
+                                            .back {
+                                                transform: rotateY(180deg) translateZ(0.02px)
+                                            }
+
+                                            /* --- Mobile fix: реальная перспектива через transform на книге --- */
+         
+
+--- MATCH ---
+
+blet" style="width:100%">
+                                            <div class="framer-1uly6uu" data-framer-name="Tech Lines - Left"
+                                                style="transform:rotateY(180deg)">
+                                                <div data-framer-component-type="SVG" data-framer-name="Group"
+                                                    style="image-rendering:pix
+
+--- MATCH ---
+
+                     pointer-events: none
+                                            }
+
+                                            .back {
+                                                transform: rotateY(180deg) translateZ(0.02px)
+                                            }
+
+                                            /* --- Mobile fix: реальная перспектива через transform на книге --- */
+         
+
+--- MATCH ---
+
+r-name="Desktop">
+                                                <div class="framer-1n31a9o" data-framer-name="Tech Lines - Left"
+                                                    style="transform:rotateY(180deg)">
+                                                    <div data-framer-component-type="SVG" data-framer-name="Group"
+                                                        style="image-rende
+
+--- MATCH ---
+
+r-name="Desktop">
+                                                <div class="framer-1n31a9o" data-framer-name="Tech Lines - Left"
+                                                    style="transform:rotateY(180deg)">
+                                                    <div data-framer-component-type="SVG" data-framer-name="Group"
+                                                        style="image-rende
+
+--- MATCH ---
+
+ame="Tablet &amp; Phone">
+                                            <div class="framer-1n31a9o" data-framer-name="Tech Lines - Left"
+                                                style="transform:rotateY(180deg)">
+                                                <div data-framer-component-type="SVG" data-framer-name="Group"
+                                                    style="image-rendering:pix
+
+--- MATCH ---
+
+ame="Tablet &amp; Phone">
+                                            <div class="framer-1n31a9o" data-framer-name="Tech Lines - Left"
+                                                style="transform:rotateY(180deg)">
+                                                <div data-framer-component-type="SVG" data-framer-name="Group"
+                                                    style="image-rendering:pix
+
+--- MATCH ---
+
+%, -50%);width:209px;height:84px">
+                                        <div class="ffg-list"
+                                            style="transform:translate3d(0px, -11px, 0) rotateX(30deg) rotateY(-5deg) rotateZ(-105deg);-webkit-transform:translate3d(0px, -11px, 0) rotateX(30deg) rotateY(-5deg) rotateZ(-105deg)">
+                                            <div class="ffg-item"
+               
+
+--- MATCH ---
+
+ist"
+                                            style="transform:translate3d(0px, -11px, 0) rotateX(30deg) rotateY(-5deg) rotateZ(-105deg);-webkit-transform:translate3d(0px, -11px, 0) rotateX(30deg) rotateY(-5deg) rotateZ(-105deg)">
+                                            <div class="ffg-item"
+                                                style="--radius:0px;--imgrot:-9deg;--half:0px;--fallback:tr
+
+--- MATCH ---
+
+ard-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y
+
+--- MATCH ---
+
+r(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:9;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                               
+
+--- MATCH ---
+
+                           style="border-radius:0px;background:url('https://framerusercontent.com/images/MJiOeXI03jnwlQVQlNPtXD8sWk.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                  
+
+--- MATCH ---
+
+merusercontent.com/images/MJiOeXI03jnwlQVQlNPtXD8sWk.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                  
+
+--- MATCH ---
+
+ard-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y
+
+--- MATCH ---
+
+r(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:8;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                               
+
+--- MATCH ---
+
+                          style="border-radius:0px;background:url('https://framerusercontent.com/images/y0sOXJqkjb7WOLczhmCFDZQ63zs.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                  
+
+--- MATCH ---
+
+erusercontent.com/images/y0sOXJqkjb7WOLczhmCFDZQ63zs.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                  
+
+--- MATCH ---
+
+ard-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y
+
+--- MATCH ---
+
+r(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:7;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                               
+
+--- MATCH ---
+
+                           style="border-radius:0px;background:url('https://framerusercontent.com/images/rvAMzK04PpsY84ledWaUZbjSgU.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                  
+
+--- MATCH ---
+
+merusercontent.com/images/rvAMzK04PpsY84ledWaUZbjSgU.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                  
+
+--- MATCH ---
+
+ard-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y
+
+--- MATCH ---
+
+r(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:6;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                               
+
+--- MATCH ---
+
+                           style="border-radius:0px;background:url('https://framerusercontent.com/images/O1hEUsJCClaVtmbiRNF5dXwUiw.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                  
+
+--- MATCH ---
+
+merusercontent.com/images/O1hEUsJCClaVtmbiRNF5dXwUiw.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                  
+
+--- MATCH ---
+
+ard-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y
+
+--- MATCH ---
+
+r(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:5;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                               
+
+--- MATCH ---
+
+                          style="border-radius:0px;background:url('https://framerusercontent.com/images/57EcZVmwPdJMogCyvpXZHyl7NJk.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                  
+
+--- MATCH ---
+
+erusercontent.com/images/57EcZVmwPdJMogCyvpXZHyl7NJk.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                  
+
+--- MATCH ---
+
+ard-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y
+
+--- MATCH ---
+
+r(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:5;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                               
+
+--- MATCH ---
+
+                           style="border-radius:0px;background:url('https://framerusercontent.com/images/xM0ZKQTDuFGjARl4L45lrDbQac.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                  
+
+--- MATCH ---
+
+merusercontent.com/images/xM0ZKQTDuFGjARl4L45lrDbQac.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                  
+
+--- MATCH ---
+
+ard-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y
+
+--- MATCH ---
+
+r(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:6;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                               
+
+--- MATCH ---
+
+                             style="border-radius:0px;background:url('https://framerusercontent.com/images/p15sVSofrc7LFmoKg1HekMkY.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                  
+
+--- MATCH ---
+
+ramerusercontent.com/images/p15sVSofrc7LFmoKg1HekMkY.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                  
+
+--- MATCH ---
+
+ard-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y
+
+--- MATCH ---
+
+r(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:7;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                               
+
+--- MATCH ---
+
+                          style="border-radius:0px;background:url('https://framerusercontent.com/images/hozWSsSKpgbqiNLTptr6KIO82dc.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                  
+
+--- MATCH ---
+
+erusercontent.com/images/hozWSsSKpgbqiNLTptr6KIO82dc.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                  
+
+--- MATCH ---
+
+ard-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y
+
+--- MATCH ---
+
+r(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:8;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                               
+
+--- MATCH ---
+
+                          style="border-radius:0px;background:url('https://framerusercontent.com/images/fpKqbikuIeG9603CstLvZKES5dc.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                  
+
+--- MATCH ---
+
+erusercontent.com/images/fpKqbikuIeG9603CstLvZKES5dc.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                  
+
+--- MATCH ---
+
+%, -50%);width:209px;height:84px">
+                                        <div class="ffg-list"
+                                            style="transform:translate3d(0px, -11px, 0) rotateX(30deg) rotateY(-5deg) rotateZ(-105deg);-webkit-transform:translate3d(0px, -11px, 0) rotateX(30deg) rotateY(-5deg) rotateZ(-105deg)">
+                                            <div class="ffg-item"
+               
+
+--- MATCH ---
+
+ist"
+                                            style="transform:translate3d(0px, -11px, 0) rotateX(30deg) rotateY(-5deg) rotateZ(-105deg);-webkit-transform:translate3d(0px, -11px, 0) rotateX(30deg) rotateY(-5deg) rotateZ(-105deg)">
+                                            <div class="ffg-item"
+                                                style="--radius:0px;--imgrot:-9deg;--half:0px;--fallback:tr
+
+--- MATCH ---
+
+ard-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y
+
+--- MATCH ---
+
+r(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:9;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                               
+
+--- MATCH ---
+
+                           style="border-radius:0px;background:url('https://framerusercontent.com/images/MJiOeXI03jnwlQVQlNPtXD8sWk.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                  
+
+--- MATCH ---
+
+merusercontent.com/images/MJiOeXI03jnwlQVQlNPtXD8sWk.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                  
+
+--- MATCH ---
+
+ard-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y
+
+--- MATCH ---
+
+r(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:8;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                               
+
+--- MATCH ---
+
+                          style="border-radius:0px;background:url('https://framerusercontent.com/images/y0sOXJqkjb7WOLczhmCFDZQ63zs.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                  
+
+--- MATCH ---
+
+erusercontent.com/images/y0sOXJqkjb7WOLczhmCFDZQ63zs.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                  
+
+--- MATCH ---
+
+ard-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y
+
+--- MATCH ---
+
+r(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:7;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                               
+
+--- MATCH ---
+
+                           style="border-radius:0px;background:url('https://framerusercontent.com/images/rvAMzK04PpsY84ledWaUZbjSgU.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                  
+
+--- MATCH ---
+
+merusercontent.com/images/rvAMzK04PpsY84ledWaUZbjSgU.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                  
+
+--- MATCH ---
+
+ard-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y
+
+--- MATCH ---
+
+r(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:6;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                               
+
+--- MATCH ---
+
+                           style="border-radius:0px;background:url('https://framerusercontent.com/images/O1hEUsJCClaVtmbiRNF5dXwUiw.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                  
+
+--- MATCH ---
+
+merusercontent.com/images/O1hEUsJCClaVtmbiRNF5dXwUiw.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                  
+
+--- MATCH ---
+
+ard-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y
+
+--- MATCH ---
+
+r(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:5;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                               
+
+--- MATCH ---
+
+                          style="border-radius:0px;background:url('https://framerusercontent.com/images/57EcZVmwPdJMogCyvpXZHyl7NJk.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                  
+
+--- MATCH ---
+
+erusercontent.com/images/57EcZVmwPdJMogCyvpXZHyl7NJk.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                  
+
+--- MATCH ---
+
+ard-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y
+
+--- MATCH ---
+
+r(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:5;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                               
+
+--- MATCH ---
+
+                           style="border-radius:0px;background:url('https://framerusercontent.com/images/xM0ZKQTDuFGjARl4L45lrDbQac.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                  
+
+--- MATCH ---
+
+merusercontent.com/images/xM0ZKQTDuFGjARl4L45lrDbQac.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                  
+
+--- MATCH ---
+
+ard-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y
+
+--- MATCH ---
+
+r(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:6;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                               
+
+--- MATCH ---
+
+                             style="border-radius:0px;background:url('https://framerusercontent.com/images/p15sVSofrc7LFmoKg1HekMkY.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                  
+
+--- MATCH ---
+
+ramerusercontent.com/images/p15sVSofrc7LFmoKg1HekMkY.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                  
+
+--- MATCH ---
+
+ard-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y
+
+--- MATCH ---
+
+r(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:7;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                               
+
+--- MATCH ---
+
+                          style="border-radius:0px;background:url('https://framerusercontent.com/images/hozWSsSKpgbqiNLTptr6KIO82dc.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                  
+
+--- MATCH ---
+
+erusercontent.com/images/hozWSsSKpgbqiNLTptr6KIO82dc.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                  
+
+--- MATCH ---
+
+ard-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y
+
+--- MATCH ---
+
+r(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:8;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                               
+
+--- MATCH ---
+
+                          style="border-radius:0px;background:url('https://framerusercontent.com/images/fpKqbikuIeG9603CstLvZKES5dc.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                  
+
+--- MATCH ---
+
+erusercontent.com/images/fpKqbikuIeG9603CstLvZKES5dc.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                  
+
+--- MATCH ---
+
+e, e.duration = v(r.duration), e.type = "keyframes", e }; var xe = ["transformPerspective", "x", "y", "z", "translateX", "translateY", "translateZ", "scale", "scaleX", "scaleY", "rotate", "rotateX", "rotateY", "rotateZ", "skew", "skewX", "skewY"], Q = new Set(xe); var de = {}; function ge(e, r) { let t = W(e); return () => de[r] ?? t() } var ye = ge(() => { try { document.createElement("div").animate({ o
+
+--- MATCH ---
+
+ E.set(n, !1), C.ready ? C.ready.then(f).catch(q) : f() } var ae = ["transformPerspective", "x", "y", "z", "translateX", "translateY", "translateZ", "scale", "scaleX", "scaleY", "rotate", "rotateX", "rotateY", "rotateZ", "skew", "skewX", "skewY"], Le = { x: "translateX", y: "translateY", z: "translateZ", transformPerspective: "perspective" }, Re = { translateX: "px", translateY: "px", translateZ: "px", x
+
+--- MATCH ---
+
+formPerspective: "perspective" }, Re = { translateX: "px", translateY: "px", translateZ: "px", x: "px", y: "px", z: "px", perspective: "px", transformPerspective: "px", rotate: "deg", rotateX: "deg", rotateY: "deg" }; function Te(e, r) { let t = Re[e]; return !t || typeof r == "string" && r.endsWith(t) ? r : `${r}${t}` } function se(e) { return ae.includes(e) } var ze = (e, r) => ae.indexOf(e) - ae.index
+
+--- MATCH ---
+
+); return e.concat(o) } function B(e) { return e * 1e3 } var be = { duration: .001 }, I = { opacity: 1, scale: 1, translateX: 0, translateY: 0, translateZ: 0, x: 0, y: 0, z: 0, rotate: 0, rotateX: 0, rotateY: 0 }; function Ve(e, r, t, o, s) { return t.delay && (t.delay = B(t.delay)), t.type === "spring" ? Ne(e, r, t, o, s) : je(e, r, t, o, s) } function Fe(e, r, t) { let o = {}, s = 0, n = 0; for (let i 
+
+--- MATCH ---
+
+AppearAnimation: ie }; return zt })()</script>
+    <script type="framer/appear"
+        id="__framer__appearAnimationsContent">{"ggctko":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-400},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":40,"delay":0,"mass":1,"stiffness":200,
+
+--- MATCH ---
+
+pearAnimationsContent">{"ggctko":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-400},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":40,"delay":0,"mass":1,"stiffness":200,"type":"spring"},"x":0,"y":0}},"kcs94i":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"
+
+--- MATCH ---
+
+":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":40,"delay":0,"mass":1,"stiffness":200,"type":"spring"},"x":0,"y":0}},"kcs94i":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-400},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":40,"delay":0,"mass":1,"stiffness":200,
+
+--- MATCH ---
+
+200,"type":"spring"},"x":0,"y":0}},"kcs94i":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-400},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":40,"delay":0,"mass":1,"stiffness":200,"type":"spring"},"x":0,"y":0}},"3kpr47":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"
+
+--- MATCH ---
+
+":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":40,"delay":0,"mass":1,"stiffness":200,"type":"spring"},"x":0,"y":0}},"3kpr47":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-400},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":40,"delay":0,"mass":1,"stiffness":200,
+
+--- MATCH ---
+
+200,"type":"spring"},"x":0,"y":0}},"3kpr47":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-400},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":40,"delay":0,"mass":1,"stiffness":200,"type":"spring"},"x":0,"y":0}},"1bbcz71":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,
+
+--- MATCH ---
+
+:0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":40,"delay":0,"mass":1,"stiffness":200,"type":"spring"},"x":0,"y":0}},"1bbcz71":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-400},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":40,"delay":0,"mass":1,"stiffness":200,
+
+--- MATCH ---
+
+00,"type":"spring"},"x":0,"y":0}},"1bbcz71":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-400},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":40,"delay":0,"mass":1,"stiffness":200,"type":"spring"},"x":0,"y":0}}},"yp4aqy":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"
+
+--- MATCH ---
+
+":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":40,"delay":0,"mass":1,"stiffness":200,"type":"spring"},"x":0,"y":0}}},"yp4aqy":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-400},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":40,"delay":0,"mass":1,"stiffness":200,
+
+--- MATCH ---
+
+spring"},"x":0,"y":0}}},"yp4aqy":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-400},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":40,"delay":0,"mass":1,"stiffness":200,"type":"spring"},"x":0,"y":0}},"kcs94i":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"
+
+--- MATCH ---
+
+":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":40,"delay":0,"mass":1,"stiffness":200,"type":"spring"},"x":0,"y":0}},"kcs94i":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-400},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":40,"delay":0,"mass":1,"stiffness":200,
+
+--- MATCH ---
+
+200,"type":"spring"},"x":0,"y":0}},"kcs94i":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-400},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":40,"delay":0,"mass":1,"stiffness":200,"type":"spring"},"x":0,"y":0}},"3kpr47":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"
+
+--- MATCH ---
+
+":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":40,"delay":0,"mass":1,"stiffness":200,"type":"spring"},"x":0,"y":0}},"3kpr47":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-400},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":40,"delay":0,"mass":1,"stiffness":200,
+
+--- MATCH ---
+
+200,"type":"spring"},"x":0,"y":0}},"3kpr47":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-400},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":40,"delay":0,"mass":1,"stiffness":200,"type":"spring"},"x":0,"y":0}},"1bbcz71":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,
+
+--- MATCH ---
+
+:0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":40,"delay":0,"mass":1,"stiffness":200,"type":"spring"},"x":0,"y":0}},"1bbcz71":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-400},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":40,"delay":0,"mass":1,"stiffness":200,
+
+--- MATCH ---
+
+00,"type":"spring"},"x":0,"y":0}},"1bbcz71":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":-400},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":40,"delay":0,"mass":1,"stiffness":200,"type":"spring"},"x":0,"y":0}}},"1x0ust":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"
+
+--- MATCH ---
+
+":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":40,"delay":0,"mass":1,"stiffness":200,"type":"spring"},"x":0,"y":0}}},"1x0ust":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":30},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":40,"delay":0.2,"mass":1,"stiffness":200,
+
+--- MATCH ---
+
+:"spring"},"x":0,"y":0}}},"1x0ust":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":30},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":40,"delay":0.2,"mass":1,"stiffness":200,"type":"spring"},"x":0,"y":0}}},"13zag25":{"default":{"initial":{"opacity":1,"rotate":0,"rotateX":0,"r
+
+--- MATCH ---
+
+Y":0,"scale":1,"skewX":0,"skewY":0,"transition":{"damping":40,"delay":0.2,"mass":1,"stiffness":200,"type":"spring"},"x":0,"y":0}}},"13zag25":{"default":{"initial":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transformPerspective":1200,"x":0,"y":160},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transformPerspective":1200,"transi
+
+--- MATCH ---
+
+"13zag25":{"default":{"initial":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transformPerspective":1200,"x":0,"y":160},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transformPerspective":1200,"transition":{"damping":40,"delay":0.8,"mass":1,"stiffness":200,"type":"spring"},"x":0,"y":0}}},"1shagqu":{"default":{"initial":{"opacity"
+
+--- MATCH ---
+
+:0,"transformPerspective":1200,"transition":{"damping":40,"delay":0.8,"mass":1,"stiffness":200,"type":"spring"},"x":0,"y":0}}},"1shagqu":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":3},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"delay":1,"duration":0.4,"ease":[0.44,0,0.56,1],"ty
+
+--- MATCH ---
+
+:"spring"},"x":0,"y":0}}},"1shagqu":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":3},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"delay":1,"duration":0.4,"ease":[0.44,0,0.56,1],"type":"tween"},"x":0,"y":0}}},"jab6of-0":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,
+
+--- MATCH ---
+
+:0,"scale":1,"skewX":0,"skewY":0,"transition":{"delay":1,"duration":0.4,"ease":[0.44,0,0.56,1],"type":"tween"},"x":0,"y":0}}},"jab6of-0":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"delay":0,"duration":0.6,"ease":[0.44,0,0.56,1],"ty
+
+--- MATCH ---
+
+:"tween"},"x":0,"y":0}}},"jab6of-0":{"default":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"delay":0,"duration":0.6,"ease":[0.44,0,0.56,1],"type":"tween"},"x":0,"y":0}},"3kpr47":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"s
+
+--- MATCH ---
+
+X":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"delay":0,"duration":0.6,"ease":[0.44,0,0.56,1],"type":"tween"},"x":0,"y":0}},"3kpr47":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"delay":0,"duration":0.6,"ease":[0.44,0,0.56,1],"ty
+
+--- MATCH ---
+
+0.56,1],"type":"tween"},"x":0,"y":0}},"3kpr47":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"delay":0,"duration":0.6,"ease":[0.44,0,0.56,1],"type":"tween"},"x":0,"y":0}},"1bbcz71":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"
+
+--- MATCH ---
+
+":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"delay":0,"duration":0.6,"ease":[0.44,0,0.56,1],"type":"tween"},"x":0,"y":0}},"1bbcz71":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"delay":0,"duration":0.6,"ease":[0.44,0,0.56,1],"ty
+
+--- MATCH ---
+
+.56,1],"type":"tween"},"x":0,"y":0}},"1bbcz71":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"delay":0,"duration":0.6,"ease":[0.44,0,0.56,1],"type":"tween"},"x":0,"y":0}},"kcs94i":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"s
+
+--- MATCH ---
+
+X":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"delay":0,"duration":0.6,"ease":[0.44,0,0.56,1],"type":"tween"},"x":0,"y":0}},"kcs94i":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"delay":0,"duration":0.6,"ease":[0.44,0,0.56,1],"ty
+
+--- MATCH ---
+
+0.56,1],"type":"tween"},"x":0,"y":0}},"kcs94i":{"initial":{"opacity":0.001,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"delay":0,"duration":0.6,"ease":[0.44,0,0.56,1],"type":"tween"},"x":0,"y":0}}},"7eeebx-0":{"default":{"initial":{"opacity":1,"rotate":0,"rotateX":0,"rot
+
+--- MATCH ---
+
+teY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"delay":0,"duration":0.6,"ease":[0.44,0,0.56,1],"type":"tween"},"x":0,"y":0}}},"7eeebx-0":{"default":{"initial":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":0.95,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"delay":0,"duration":0.4,"ease":[0.44,0,0.56,1],
+
+--- MATCH ---
+
+":"tween"},"x":0,"y":0}}},"7eeebx-0":{"default":{"initial":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":0.95,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"delay":0,"duration":0.4,"ease":[0.44,0,0.56,1],"type":"tween"},"x":0,"y":0}},"3kpr47":{"initial":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale
+
+--- MATCH ---
+
+tateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"delay":0,"duration":0.4,"ease":[0.44,0,0.56,1],"type":"tween"},"x":0,"y":0}},"3kpr47":{"initial":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":0.95,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"delay":0,"duration":0.4,"ease":[0.44,0,0.56,1],
+
+--- MATCH ---
+
+,0.56,1],"type":"tween"},"x":0,"y":0}},"3kpr47":{"initial":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":0.95,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"delay":0,"duration":0.4,"ease":[0.44,0,0.56,1],"type":"tween"},"x":0,"y":0}},"1bbcz71":{"initial":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scal
+
+--- MATCH ---
+
+ateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"delay":0,"duration":0.4,"ease":[0.44,0,0.56,1],"type":"tween"},"x":0,"y":0}},"1bbcz71":{"initial":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":0.95,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"delay":0,"duration":0.4,"ease":[0.44,0,0.56,1],
+
+--- MATCH ---
+
+0.56,1],"type":"tween"},"x":0,"y":0}},"1bbcz71":{"initial":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":0.95,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"delay":0,"duration":0.4,"ease":[0.44,0,0.56,1],"type":"tween"},"x":0,"y":0}},"kcs94i":{"initial":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale
+
+--- MATCH ---
+
+tateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"delay":0,"duration":0.4,"ease":[0.44,0,0.56,1],"type":"tween"},"x":0,"y":0}},"kcs94i":{"initial":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":0.95,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"delay":0,"duration":0.4,"ease":[0.44,0,0.56,1],
+
+--- MATCH ---
+
+,0.56,1],"type":"tween"},"x":0,"y":0}},"kcs94i":{"initial":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":0.95,"skewX":0,"skewY":0,"x":0,"y":0},"animate":{"opacity":1,"rotate":0,"rotateX":0,"rotateY":0,"scale":1,"skewX":0,"skewY":0,"transition":{"delay":0,"duration":0.4,"ease":[0.44,0,0.56,1],"type":"tween"},"x":0,"y":0}}}}</script>
+    <script type="framer/appear"
+        id="__framer__breakpoi

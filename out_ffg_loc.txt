@@ -1,0 +1,1489 @@
+                    </div>
+                        </div>
+                        <div class="framer-1o3nssz" data-framer-name="Container">
+                            <div class="framer-5rpgwz-container"><!--$-->
+                                <div
+                                    style="width:100%;height:100%;position:relative;perspective:3000px;perspective-origin:50% 50%;overflow:visible;cursor:default">
+                                    <style>
+                                        .ffg-scene {
+                                            position: relative;
+                                            transform-style: preserve-3d;
+                                            -webkit-transform-style: preserve-3d;
+                                            --global-rotation: 0deg;
+                                            /* Card rotations (degrees) */
+                                            --card-rot-x-deg: 0deg;
+                                            --card-rot-y
+
+--- MATCH ---
+
+ion: 0deg;
+                                            /* Card rotations (degrees) */
+                                            --card-rot-x-deg: 0deg;
+                                            --card-rot-y-deg: 0deg;
+                                            --card-rot-z-deg: 0deg;
+                                            /* Card opacity */
+                                            --card-opacity: 1;
+                                        }
+
+                                        .ffg-list {
+                                            position: relative;
+                                            width: 100%;
+                                            height: 100%;
+                                            transform-style: preserve-3d;
+                                            -webkit-transform-style: preserve-3d;
+                                        }
+
+                                        .ffg-item {
+                                            contain: layout
+
+--- MATCH ---
+
+                          }
+
+                                        .ffg-list {
+                                            position: relative;
+                                            width: 100%;
+                                            height: 100%;
+                                            transform-style: preserve-3d;
+                                            -webkit-transform-style: preserve-3d;
+                                        }
+
+                                        .ffg-item {
+                                            contain: layout style;
+                                            position: absolute;
+                                            inset: 0;
+                                            transform-style: preserve-3d;
+                                            -webkit-transform-style: preserve-3d;
+                                            transform-origin: center center;
+                                            -webkit-transform-origin: c
+
+--- MATCH ---
+
+                        position: absolute;
+                                            inset: 0;
+                                            transform-style: preserve-3d;
+                                            -webkit-transform-style: preserve-3d;
+                                            transform-origin: center center;
+                                            -webkit-transform-origin: center center;
+                                        }
+
+                                        .ffg-scene,
+                                        .ffg-list,
+                                        .ffg-item,
+                                        .ffg-maskWrap,
+                                        .ffg-content {
+                                            will-change: transform;
+
+                                            transform: translateZ(0);
+                                        }
+
+                                        .ffg-maskWrap {
+                                       
+
+--- MATCH ---
+
+                                    inset: 0;
+                                            transform-style: preserve-3d;
+                                            -webkit-transform-style: preserve-3d;
+                                            transform-origin: center center;
+                                            -webkit-transform-origin: center center;
+                                        }
+
+                                        .ffg-scene,
+                                        .ffg-list,
+                                        .ffg-item,
+                                        .ffg-maskWrap,
+                                        .ffg-content {
+                                            will-change: transform;
+
+                                            transform: translateZ(0);
+                                        }
+
+                                        .ffg-maskWrap {
+                                            position: absolute;
+                           
+
+--- MATCH ---
+
+                                       transform-style: preserve-3d;
+                                            -webkit-transform-style: preserve-3d;
+                                            transform-origin: center center;
+                                            -webkit-transform-origin: center center;
+                                        }
+
+                                        .ffg-scene,
+                                        .ffg-list,
+                                        .ffg-item,
+                                        .ffg-maskWrap,
+                                        .ffg-content {
+                                            will-change: transform;
+
+                                            transform: translateZ(0);
+                                        }
+
+                                        .ffg-maskWrap {
+                                            position: absolute;
+                                            inset: 0;
+                        
+
+--- MATCH ---
+
+yle: preserve-3d;
+                                            -webkit-transform-style: preserve-3d;
+                                            transform-origin: center center;
+                                            -webkit-transform-origin: center center;
+                                        }
+
+                                        .ffg-scene,
+                                        .ffg-list,
+                                        .ffg-item,
+                                        .ffg-maskWrap,
+                                        .ffg-content {
+                                            will-change: transform;
+
+                                            transform: translateZ(0);
+                                        }
+
+                                        .ffg-maskWrap {
+                                            position: absolute;
+                                            inset: 0;
+                                            transform-style: preserve-3d;
+ 
+
+--- MATCH ---
+
+       -webkit-transform-style: preserve-3d;
+                                            transform-origin: center center;
+                                            -webkit-transform-origin: center center;
+                                        }
+
+                                        .ffg-scene,
+                                        .ffg-list,
+                                        .ffg-item,
+                                        .ffg-maskWrap,
+                                        .ffg-content {
+                                            will-change: transform;
+
+                                            transform: translateZ(0);
+                                        }
+
+                                        .ffg-maskWrap {
+                                            position: absolute;
+                                            inset: 0;
+                                            transform-style: preserve-3d;
+                                            -webkit-tran
+
+--- MATCH ---
+
+          }
+
+                                        .ffg-scene,
+                                        .ffg-list,
+                                        .ffg-item,
+                                        .ffg-maskWrap,
+                                        .ffg-content {
+                                            will-change: transform;
+
+                                            transform: translateZ(0);
+                                        }
+
+                                        .ffg-maskWrap {
+                                            position: absolute;
+                                            inset: 0;
+                                            transform-style: preserve-3d;
+                                            -webkit-transform-style: preserve-3d;
+                                        }
+
+                                        .ffg-content {
+                                            position: absolute;
+                                            inset
+
+--- MATCH ---
+
+                 transform: translateZ(0);
+                                        }
+
+                                        .ffg-maskWrap {
+                                            position: absolute;
+                                            inset: 0;
+                                            transform-style: preserve-3d;
+                                            -webkit-transform-style: preserve-3d;
+                                        }
+
+                                        .ffg-content {
+                                            position: absolute;
+                                            inset: 0;
+                                            transform-style: preserve-3d;
+                                            -webkit-transform-style: preserve-3d;
+                                        }
+
+                                        .ffg-face {
+                                            position: absolute;
+                                            inset: 0;
+
+--- MATCH ---
+
+      -webkit-transform-style: preserve-3d;
+                                        }
+
+                                        .ffg-content {
+                                            position: absolute;
+                                            inset: 0;
+                                            transform-style: preserve-3d;
+                                            -webkit-transform-style: preserve-3d;
+                                        }
+
+                                        .ffg-face {
+                                            position: absolute;
+                                            inset: 0;
+                                            overflow: hidden;
+                                            border-radius: var(--radius);
+                                            backface-visibility: hidden;
+                                            -webkit-backface-visibility: hidden;
+
+                                            background-position: center;
+       
+
+--- MATCH ---
+
+                      background-position: center;
+                                            background-size: cover;
+                                            background-repeat: no-repeat;
+
+
+
+                                            /* Opacity is applied directly to card faces */
+                                            opacity: var(--card-opacity, 1);
+                                        }
+                                    </style>
+                                    <div class="ffg-scene"
+                                        style="position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:209px;height:84px">
+                                        <div class="ffg-list"
+                                            style="transform:translate3d(0px, -11px, 0) rotateX(30deg) rotateY(-5deg) rotateZ(-105deg);-webkit-transform:translate3d(0px, -11px, 0) rotateX(30deg) rotateY(-5deg) rotateZ(-105deg)">
+                                            <div class="ff
+
+--- MATCH ---
+
+                                     /* Opacity is applied directly to card faces */
+                                            opacity: var(--card-opacity, 1);
+                                        }
+                                    </style>
+                                    <div class="ffg-scene"
+                                        style="position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:209px;height:84px">
+                                        <div class="ffg-list"
+                                            style="transform:translate3d(0px, -11px, 0) rotateX(30deg) rotateY(-5deg) rotateZ(-105deg);-webkit-transform:translate3d(0px, -11px, 0) rotateX(30deg) rotateY(-5deg) rotateZ(-105deg)">
+                                            <div class="ffg-item"
+                                                style="--radius:0px;--imgrot:-9deg;--half:0px;--fallback:transparent;--maskUrl:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70
+
+--- MATCH ---
+
+="ffg-scene"
+                                        style="position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:209px;height:84px">
+                                        <div class="ffg-list"
+                                            style="transform:translate3d(0px, -11px, 0) rotateX(30deg) rotateY(-5deg) rotateZ(-105deg);-webkit-transform:translate3d(0px, -11px, 0) rotateX(30deg) rotateY(-5deg) rotateZ(-105deg)">
+                                            <div class="ffg-item"
+                                                style="--radius:0px;--imgrot:-9deg;--half:0px;--fallback:transparent;--maskUrl:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');--maskSizeVal:100% 100%;--maskrot:80deg;--item-angle:0deg;--radial:-140px;--card-rot-x:var(--card-rot-x-deg, 0deg);--card-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial
+
+--- MATCH ---
+
+g, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:9;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                                    style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                     
+
+--- MATCH ---
+
+                                       style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/MJiOeXI03jnwlQVQlNPtXD8sWk.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rot
+
+--- MATCH ---
+
+ge:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/MJiOeXI03jnwlQVQlNPtXD8sWk.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                     
+
+--- MATCH ---
+
+                                       style="border-radius:0px;background:url('https://framerusercontent.com/images/MJiOeXI03jnwlQVQlNPtXD8sWk.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/MJiOeXI03jnwlQVQlNPtXD8sWk.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </d
+
+--- MATCH ---
+
+                              style="border-radius:0px;background:url('https://framerusercontent.com/images/MJiOeXI03jnwlQVQlNPtXD8sWk.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/MJiOeXI03jnwlQVQlNPtXD8sWk.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+     
+
+--- MATCH ---
+
+r;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="ffg-item"
+                                                style="--radius:0px;--imgrot:-9deg;--half:0px;--fallback:transparent;--maskUrl:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');--maskSizeVal:100% 100%;--maskrot:80deg;--item-angle:40deg;--radial:-140px;--card-rot-x:var(--card-rot-x-deg, 0deg);--card-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radi
+
+--- MATCH ---
+
+g, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:8;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                                    style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                   
+
+--- MATCH ---
+
+                                     style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/y0sOXJqkjb7WOLczhmCFDZQ63zs.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:ro
+
+--- MATCH ---
+
+e:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/y0sOXJqkjb7WOLczhmCFDZQ63zs.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                    
+
+--- MATCH ---
+
+                                      style="border-radius:0px;background:url('https://framerusercontent.com/images/y0sOXJqkjb7WOLczhmCFDZQ63zs.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/y0sOXJqkjb7WOLczhmCFDZQ63zs.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </
+
+--- MATCH ---
+
+                             style="border-radius:0px;background:url('https://framerusercontent.com/images/y0sOXJqkjb7WOLczhmCFDZQ63zs.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/y0sOXJqkjb7WOLczhmCFDZQ63zs.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+    
+
+--- MATCH ---
+
+r;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="ffg-item"
+                                                style="--radius:0px;--imgrot:-9deg;--half:0px;--fallback:transparent;--maskUrl:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');--maskSizeVal:100% 100%;--maskrot:80deg;--item-angle:80deg;--radial:-140px;--card-rot-x:var(--card-rot-x-deg, 0deg);--card-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radia
+
+--- MATCH ---
+
+g, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:7;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                                    style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                     
+
+--- MATCH ---
+
+                                       style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/rvAMzK04PpsY84ledWaUZbjSgU.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rot
+
+--- MATCH ---
+
+ge:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/rvAMzK04PpsY84ledWaUZbjSgU.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                     
+
+--- MATCH ---
+
+                                       style="border-radius:0px;background:url('https://framerusercontent.com/images/rvAMzK04PpsY84ledWaUZbjSgU.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/rvAMzK04PpsY84ledWaUZbjSgU.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </d
+
+--- MATCH ---
+
+                              style="border-radius:0px;background:url('https://framerusercontent.com/images/rvAMzK04PpsY84ledWaUZbjSgU.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/rvAMzK04PpsY84ledWaUZbjSgU.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+     
+
+--- MATCH ---
+
+r;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="ffg-item"
+                                                style="--radius:0px;--imgrot:-9deg;--half:0px;--fallback:transparent;--maskUrl:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');--maskSizeVal:100% 100%;--maskrot:80deg;--item-angle:120deg;--radial:-140px;--card-rot-x:var(--card-rot-x-deg, 0deg);--card-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radi
+
+--- MATCH ---
+
+g, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:6;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                                    style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                     
+
+--- MATCH ---
+
+                                       style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/O1hEUsJCClaVtmbiRNF5dXwUiw.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rot
+
+--- MATCH ---
+
+ge:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/O1hEUsJCClaVtmbiRNF5dXwUiw.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                     
+
+--- MATCH ---
+
+                                       style="border-radius:0px;background:url('https://framerusercontent.com/images/O1hEUsJCClaVtmbiRNF5dXwUiw.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/O1hEUsJCClaVtmbiRNF5dXwUiw.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </d
+
+--- MATCH ---
+
+                              style="border-radius:0px;background:url('https://framerusercontent.com/images/O1hEUsJCClaVtmbiRNF5dXwUiw.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/O1hEUsJCClaVtmbiRNF5dXwUiw.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+     
+
+--- MATCH ---
+
+r;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="ffg-item"
+                                                style="--radius:0px;--imgrot:-9deg;--half:0px;--fallback:transparent;--maskUrl:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');--maskSizeVal:100% 100%;--maskrot:80deg;--item-angle:160deg;--radial:-140px;--card-rot-x:var(--card-rot-x-deg, 0deg);--card-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--rad
+
+--- MATCH ---
+
+g, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:5;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                                    style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                   
+
+--- MATCH ---
+
+                                     style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/57EcZVmwPdJMogCyvpXZHyl7NJk.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:ro
+
+--- MATCH ---
+
+e:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/57EcZVmwPdJMogCyvpXZHyl7NJk.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                    
+
+--- MATCH ---
+
+                                      style="border-radius:0px;background:url('https://framerusercontent.com/images/57EcZVmwPdJMogCyvpXZHyl7NJk.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/57EcZVmwPdJMogCyvpXZHyl7NJk.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </
+
+--- MATCH ---
+
+                             style="border-radius:0px;background:url('https://framerusercontent.com/images/57EcZVmwPdJMogCyvpXZHyl7NJk.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/57EcZVmwPdJMogCyvpXZHyl7NJk.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+    
+
+--- MATCH ---
+
+r;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="ffg-item"
+                                                style="--radius:0px;--imgrot:-9deg;--half:0px;--fallback:transparent;--maskUrl:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');--maskSizeVal:100% 100%;--maskrot:80deg;--item-angle:200deg;--radial:-140px;--card-rot-x:var(--card-rot-x-deg, 0deg);--card-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radi
+
+--- MATCH ---
+
+g, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:5;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                                    style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                     
+
+--- MATCH ---
+
+                                       style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/xM0ZKQTDuFGjARl4L45lrDbQac.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rot
+
+--- MATCH ---
+
+ge:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/xM0ZKQTDuFGjARl4L45lrDbQac.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                     
+
+--- MATCH ---
+
+                                       style="border-radius:0px;background:url('https://framerusercontent.com/images/xM0ZKQTDuFGjARl4L45lrDbQac.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/xM0ZKQTDuFGjARl4L45lrDbQac.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </d
+
+--- MATCH ---
+
+                              style="border-radius:0px;background:url('https://framerusercontent.com/images/xM0ZKQTDuFGjARl4L45lrDbQac.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/xM0ZKQTDuFGjARl4L45lrDbQac.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+     
+
+--- MATCH ---
+
+r;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="ffg-item"
+                                                style="--radius:0px;--imgrot:-9deg;--half:0px;--fallback:transparent;--maskUrl:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');--maskSizeVal:100% 100%;--maskrot:80deg;--item-angle:240deg;--radial:-140px;--card-rot-x:var(--card-rot-x-deg, 0deg);--card-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radi
+
+--- MATCH ---
+
+g, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:6;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                                    style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                     
+
+--- MATCH ---
+
+                                       style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/p15sVSofrc7LFmoKg1HekMkY.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotat
+
+--- MATCH ---
+
+ge:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/p15sVSofrc7LFmoKg1HekMkY.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                       
+
+--- MATCH ---
+
+                                         style="border-radius:0px;background:url('https://framerusercontent.com/images/p15sVSofrc7LFmoKg1HekMkY.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/p15sVSofrc7LFmoKg1HekMkY.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div
+
+--- MATCH ---
+
+                                style="border-radius:0px;background:url('https://framerusercontent.com/images/p15sVSofrc7LFmoKg1HekMkY.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/p15sVSofrc7LFmoKg1HekMkY.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+       
+
+--- MATCH ---
+
+r;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="ffg-item"
+                                                style="--radius:0px;--imgrot:-9deg;--half:0px;--fallback:transparent;--maskUrl:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');--maskSizeVal:100% 100%;--maskrot:80deg;--item-angle:280deg;--radial:-140px;--card-rot-x:var(--card-rot-x-deg, 0deg);--card-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--rad
+
+--- MATCH ---
+
+g, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:7;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                                    style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                   
+
+--- MATCH ---
+
+                                     style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/hozWSsSKpgbqiNLTptr6KIO82dc.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:ro
+
+--- MATCH ---
+
+e:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/hozWSsSKpgbqiNLTptr6KIO82dc.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                    
+
+--- MATCH ---
+
+                                      style="border-radius:0px;background:url('https://framerusercontent.com/images/hozWSsSKpgbqiNLTptr6KIO82dc.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/hozWSsSKpgbqiNLTptr6KIO82dc.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </
+
+--- MATCH ---
+
+                             style="border-radius:0px;background:url('https://framerusercontent.com/images/hozWSsSKpgbqiNLTptr6KIO82dc.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/hozWSsSKpgbqiNLTptr6KIO82dc.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+    
+
+--- MATCH ---
+
+r;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="ffg-item"
+                                                style="--radius:0px;--imgrot:-9deg;--half:0px;--fallback:transparent;--maskUrl:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');--maskSizeVal:100% 100%;--maskrot:80deg;--item-angle:320deg;--radial:-140px;--card-rot-x:var(--card-rot-x-deg, 0deg);--card-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radi
+
+--- MATCH ---
+
+g, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:8;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                                    style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                     
+
+--- MATCH ---
+
+                                       style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/fpKqbikuIeG9603CstLvZKES5dc.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:ro
+
+--- MATCH ---
+
+ge:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/fpKqbikuIeG9603CstLvZKES5dc.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                    
+
+--- MATCH ---
+
+                                      style="border-radius:0px;background:url('https://framerusercontent.com/images/fpKqbikuIeG9603CstLvZKES5dc.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/fpKqbikuIeG9603CstLvZKES5dc.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </
+
+--- MATCH ---
+
+                             style="border-radius:0px;background:url('https://framerusercontent.com/images/fpKqbikuIeG9603CstLvZKES5dc.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/fpKqbikuIeG9603CstLvZKES5dc.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+    
+
+--- MATCH ---
+
+                    </div>
+                        </div>
+                        <div class="framer-1o3nssz" data-framer-name="Container">
+                            <div class="framer-5rpgwz-container"><!--$-->
+                                <div
+                                    style="width:100%;height:100%;position:relative;perspective:3000px;perspective-origin:50% 50%;overflow:visible;cursor:default">
+                                    <style>
+                                        .ffg-scene {
+                                            position: relative;
+                                            transform-style: preserve-3d;
+                                            -webkit-transform-style: preserve-3d;
+                                            --global-rotation: 0deg;
+                                            /* Card rotations (degrees) */
+                                            --card-rot-x-deg: 0deg;
+                                            --card-rot-y
+
+--- MATCH ---
+
+ion: 0deg;
+                                            /* Card rotations (degrees) */
+                                            --card-rot-x-deg: 0deg;
+                                            --card-rot-y-deg: 0deg;
+                                            --card-rot-z-deg: 0deg;
+                                            /* Card opacity */
+                                            --card-opacity: 1;
+                                        }
+
+                                        .ffg-list {
+                                            position: relative;
+                                            width: 100%;
+                                            height: 100%;
+                                            transform-style: preserve-3d;
+                                            -webkit-transform-style: preserve-3d;
+                                        }
+
+                                        .ffg-item {
+                                            contain: layout
+
+--- MATCH ---
+
+                          }
+
+                                        .ffg-list {
+                                            position: relative;
+                                            width: 100%;
+                                            height: 100%;
+                                            transform-style: preserve-3d;
+                                            -webkit-transform-style: preserve-3d;
+                                        }
+
+                                        .ffg-item {
+                                            contain: layout style;
+                                            position: absolute;
+                                            inset: 0;
+                                            transform-style: preserve-3d;
+                                            -webkit-transform-style: preserve-3d;
+                                            transform-origin: center center;
+                                            -webkit-transform-origin: c
+
+--- MATCH ---
+
+                        position: absolute;
+                                            inset: 0;
+                                            transform-style: preserve-3d;
+                                            -webkit-transform-style: preserve-3d;
+                                            transform-origin: center center;
+                                            -webkit-transform-origin: center center;
+                                        }
+
+                                        .ffg-scene,
+                                        .ffg-list,
+                                        .ffg-item,
+                                        .ffg-maskWrap,
+                                        .ffg-content {
+                                            will-change: transform;
+
+                                            transform: translateZ(0);
+                                        }
+
+                                        .ffg-maskWrap {
+                                       
+
+--- MATCH ---
+
+                                    inset: 0;
+                                            transform-style: preserve-3d;
+                                            -webkit-transform-style: preserve-3d;
+                                            transform-origin: center center;
+                                            -webkit-transform-origin: center center;
+                                        }
+
+                                        .ffg-scene,
+                                        .ffg-list,
+                                        .ffg-item,
+                                        .ffg-maskWrap,
+                                        .ffg-content {
+                                            will-change: transform;
+
+                                            transform: translateZ(0);
+                                        }
+
+                                        .ffg-maskWrap {
+                                            position: absolute;
+                           
+
+--- MATCH ---
+
+                                       transform-style: preserve-3d;
+                                            -webkit-transform-style: preserve-3d;
+                                            transform-origin: center center;
+                                            -webkit-transform-origin: center center;
+                                        }
+
+                                        .ffg-scene,
+                                        .ffg-list,
+                                        .ffg-item,
+                                        .ffg-maskWrap,
+                                        .ffg-content {
+                                            will-change: transform;
+
+                                            transform: translateZ(0);
+                                        }
+
+                                        .ffg-maskWrap {
+                                            position: absolute;
+                                            inset: 0;
+                        
+
+--- MATCH ---
+
+yle: preserve-3d;
+                                            -webkit-transform-style: preserve-3d;
+                                            transform-origin: center center;
+                                            -webkit-transform-origin: center center;
+                                        }
+
+                                        .ffg-scene,
+                                        .ffg-list,
+                                        .ffg-item,
+                                        .ffg-maskWrap,
+                                        .ffg-content {
+                                            will-change: transform;
+
+                                            transform: translateZ(0);
+                                        }
+
+                                        .ffg-maskWrap {
+                                            position: absolute;
+                                            inset: 0;
+                                            transform-style: preserve-3d;
+ 
+
+--- MATCH ---
+
+       -webkit-transform-style: preserve-3d;
+                                            transform-origin: center center;
+                                            -webkit-transform-origin: center center;
+                                        }
+
+                                        .ffg-scene,
+                                        .ffg-list,
+                                        .ffg-item,
+                                        .ffg-maskWrap,
+                                        .ffg-content {
+                                            will-change: transform;
+
+                                            transform: translateZ(0);
+                                        }
+
+                                        .ffg-maskWrap {
+                                            position: absolute;
+                                            inset: 0;
+                                            transform-style: preserve-3d;
+                                            -webkit-tran
+
+--- MATCH ---
+
+          }
+
+                                        .ffg-scene,
+                                        .ffg-list,
+                                        .ffg-item,
+                                        .ffg-maskWrap,
+                                        .ffg-content {
+                                            will-change: transform;
+
+                                            transform: translateZ(0);
+                                        }
+
+                                        .ffg-maskWrap {
+                                            position: absolute;
+                                            inset: 0;
+                                            transform-style: preserve-3d;
+                                            -webkit-transform-style: preserve-3d;
+                                        }
+
+                                        .ffg-content {
+                                            position: absolute;
+                                            inset
+
+--- MATCH ---
+
+                 transform: translateZ(0);
+                                        }
+
+                                        .ffg-maskWrap {
+                                            position: absolute;
+                                            inset: 0;
+                                            transform-style: preserve-3d;
+                                            -webkit-transform-style: preserve-3d;
+                                        }
+
+                                        .ffg-content {
+                                            position: absolute;
+                                            inset: 0;
+                                            transform-style: preserve-3d;
+                                            -webkit-transform-style: preserve-3d;
+                                        }
+
+                                        .ffg-face {
+                                            position: absolute;
+                                            inset: 0;
+
+--- MATCH ---
+
+      -webkit-transform-style: preserve-3d;
+                                        }
+
+                                        .ffg-content {
+                                            position: absolute;
+                                            inset: 0;
+                                            transform-style: preserve-3d;
+                                            -webkit-transform-style: preserve-3d;
+                                        }
+
+                                        .ffg-face {
+                                            position: absolute;
+                                            inset: 0;
+                                            overflow: hidden;
+                                            border-radius: var(--radius);
+                                            backface-visibility: hidden;
+                                            -webkit-backface-visibility: hidden;
+
+                                            background-position: center;
+       
+
+--- MATCH ---
+
+                      background-position: center;
+                                            background-size: cover;
+                                            background-repeat: no-repeat;
+
+
+
+                                            /* Opacity is applied directly to card faces */
+                                            opacity: var(--card-opacity, 1);
+                                        }
+                                    </style>
+                                    <div class="ffg-scene"
+                                        style="position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:209px;height:84px">
+                                        <div class="ffg-list"
+                                            style="transform:translate3d(0px, -11px, 0) rotateX(30deg) rotateY(-5deg) rotateZ(-105deg);-webkit-transform:translate3d(0px, -11px, 0) rotateX(30deg) rotateY(-5deg) rotateZ(-105deg)">
+                                            <div class="ff
+
+--- MATCH ---
+
+                                     /* Opacity is applied directly to card faces */
+                                            opacity: var(--card-opacity, 1);
+                                        }
+                                    </style>
+                                    <div class="ffg-scene"
+                                        style="position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:209px;height:84px">
+                                        <div class="ffg-list"
+                                            style="transform:translate3d(0px, -11px, 0) rotateX(30deg) rotateY(-5deg) rotateZ(-105deg);-webkit-transform:translate3d(0px, -11px, 0) rotateX(30deg) rotateY(-5deg) rotateZ(-105deg)">
+                                            <div class="ffg-item"
+                                                style="--radius:0px;--imgrot:-9deg;--half:0px;--fallback:transparent;--maskUrl:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70
+
+--- MATCH ---
+
+="ffg-scene"
+                                        style="position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:209px;height:84px">
+                                        <div class="ffg-list"
+                                            style="transform:translate3d(0px, -11px, 0) rotateX(30deg) rotateY(-5deg) rotateZ(-105deg);-webkit-transform:translate3d(0px, -11px, 0) rotateX(30deg) rotateY(-5deg) rotateZ(-105deg)">
+                                            <div class="ffg-item"
+                                                style="--radius:0px;--imgrot:-9deg;--half:0px;--fallback:transparent;--maskUrl:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');--maskSizeVal:100% 100%;--maskrot:80deg;--item-angle:0deg;--radial:-152px;--card-rot-x:var(--card-rot-x-deg, 0deg);--card-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial
+
+--- MATCH ---
+
+g, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:9;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                                    style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                     
+
+--- MATCH ---
+
+                                       style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/MJiOeXI03jnwlQVQlNPtXD8sWk.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rot
+
+--- MATCH ---
+
+ge:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/MJiOeXI03jnwlQVQlNPtXD8sWk.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                     
+
+--- MATCH ---
+
+                                       style="border-radius:0px;background:url('https://framerusercontent.com/images/MJiOeXI03jnwlQVQlNPtXD8sWk.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/MJiOeXI03jnwlQVQlNPtXD8sWk.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </d
+
+--- MATCH ---
+
+                              style="border-radius:0px;background:url('https://framerusercontent.com/images/MJiOeXI03jnwlQVQlNPtXD8sWk.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/MJiOeXI03jnwlQVQlNPtXD8sWk.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+     
+
+--- MATCH ---
+
+r;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="ffg-item"
+                                                style="--radius:0px;--imgrot:-9deg;--half:0px;--fallback:transparent;--maskUrl:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');--maskSizeVal:100% 100%;--maskrot:80deg;--item-angle:40deg;--radial:-152px;--card-rot-x:var(--card-rot-x-deg, 0deg);--card-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radi
+
+--- MATCH ---
+
+g, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:8;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                                    style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                   
+
+--- MATCH ---
+
+                                     style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/y0sOXJqkjb7WOLczhmCFDZQ63zs.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:ro
+
+--- MATCH ---
+
+e:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/y0sOXJqkjb7WOLczhmCFDZQ63zs.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                    
+
+--- MATCH ---
+
+                                      style="border-radius:0px;background:url('https://framerusercontent.com/images/y0sOXJqkjb7WOLczhmCFDZQ63zs.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/y0sOXJqkjb7WOLczhmCFDZQ63zs.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </
+
+--- MATCH ---
+
+                             style="border-radius:0px;background:url('https://framerusercontent.com/images/y0sOXJqkjb7WOLczhmCFDZQ63zs.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/y0sOXJqkjb7WOLczhmCFDZQ63zs.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+    
+
+--- MATCH ---
+
+r;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="ffg-item"
+                                                style="--radius:0px;--imgrot:-9deg;--half:0px;--fallback:transparent;--maskUrl:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');--maskSizeVal:100% 100%;--maskrot:80deg;--item-angle:80deg;--radial:-152px;--card-rot-x:var(--card-rot-x-deg, 0deg);--card-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radia
+
+--- MATCH ---
+
+g, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:7;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                                    style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                     
+
+--- MATCH ---
+
+                                       style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/rvAMzK04PpsY84ledWaUZbjSgU.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rot
+
+--- MATCH ---
+
+ge:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/rvAMzK04PpsY84ledWaUZbjSgU.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                     
+
+--- MATCH ---
+
+                                       style="border-radius:0px;background:url('https://framerusercontent.com/images/rvAMzK04PpsY84ledWaUZbjSgU.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/rvAMzK04PpsY84ledWaUZbjSgU.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </d
+
+--- MATCH ---
+
+                              style="border-radius:0px;background:url('https://framerusercontent.com/images/rvAMzK04PpsY84ledWaUZbjSgU.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/rvAMzK04PpsY84ledWaUZbjSgU.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+     
+
+--- MATCH ---
+
+r;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="ffg-item"
+                                                style="--radius:0px;--imgrot:-9deg;--half:0px;--fallback:transparent;--maskUrl:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');--maskSizeVal:100% 100%;--maskrot:80deg;--item-angle:120deg;--radial:-152px;--card-rot-x:var(--card-rot-x-deg, 0deg);--card-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radi
+
+--- MATCH ---
+
+g, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:6;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                                    style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                     
+
+--- MATCH ---
+
+                                       style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/O1hEUsJCClaVtmbiRNF5dXwUiw.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rot
+
+--- MATCH ---
+
+ge:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/O1hEUsJCClaVtmbiRNF5dXwUiw.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                     
+
+--- MATCH ---
+
+                                       style="border-radius:0px;background:url('https://framerusercontent.com/images/O1hEUsJCClaVtmbiRNF5dXwUiw.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/O1hEUsJCClaVtmbiRNF5dXwUiw.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </d
+
+--- MATCH ---
+
+                              style="border-radius:0px;background:url('https://framerusercontent.com/images/O1hEUsJCClaVtmbiRNF5dXwUiw.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/O1hEUsJCClaVtmbiRNF5dXwUiw.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+     
+
+--- MATCH ---
+
+r;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="ffg-item"
+                                                style="--radius:0px;--imgrot:-9deg;--half:0px;--fallback:transparent;--maskUrl:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');--maskSizeVal:100% 100%;--maskrot:80deg;--item-angle:160deg;--radial:-152px;--card-rot-x:var(--card-rot-x-deg, 0deg);--card-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--rad
+
+--- MATCH ---
+
+g, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:5;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                                    style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                   
+
+--- MATCH ---
+
+                                     style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/57EcZVmwPdJMogCyvpXZHyl7NJk.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:ro
+
+--- MATCH ---
+
+e:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/57EcZVmwPdJMogCyvpXZHyl7NJk.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                    
+
+--- MATCH ---
+
+                                      style="border-radius:0px;background:url('https://framerusercontent.com/images/57EcZVmwPdJMogCyvpXZHyl7NJk.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/57EcZVmwPdJMogCyvpXZHyl7NJk.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </
+
+--- MATCH ---
+
+                             style="border-radius:0px;background:url('https://framerusercontent.com/images/57EcZVmwPdJMogCyvpXZHyl7NJk.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/57EcZVmwPdJMogCyvpXZHyl7NJk.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+    
+
+--- MATCH ---
+
+r;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="ffg-item"
+                                                style="--radius:0px;--imgrot:-9deg;--half:0px;--fallback:transparent;--maskUrl:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');--maskSizeVal:100% 100%;--maskrot:80deg;--item-angle:200deg;--radial:-152px;--card-rot-x:var(--card-rot-x-deg, 0deg);--card-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radi
+
+--- MATCH ---
+
+g, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:5;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                                    style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                     
+
+--- MATCH ---
+
+                                       style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/xM0ZKQTDuFGjARl4L45lrDbQac.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rot
+
+--- MATCH ---
+
+ge:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/xM0ZKQTDuFGjARl4L45lrDbQac.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                     
+
+--- MATCH ---
+
+                                       style="border-radius:0px;background:url('https://framerusercontent.com/images/xM0ZKQTDuFGjARl4L45lrDbQac.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/xM0ZKQTDuFGjARl4L45lrDbQac.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </d
+
+--- MATCH ---
+
+                              style="border-radius:0px;background:url('https://framerusercontent.com/images/xM0ZKQTDuFGjARl4L45lrDbQac.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/xM0ZKQTDuFGjARl4L45lrDbQac.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+     
+
+--- MATCH ---
+
+r;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="ffg-item"
+                                                style="--radius:0px;--imgrot:-9deg;--half:0px;--fallback:transparent;--maskUrl:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');--maskSizeVal:100% 100%;--maskrot:80deg;--item-angle:240deg;--radial:-152px;--card-rot-x:var(--card-rot-x-deg, 0deg);--card-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radi
+
+--- MATCH ---
+
+g, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:6;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                                    style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                     
+
+--- MATCH ---
+
+                                       style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/p15sVSofrc7LFmoKg1HekMkY.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotat
+
+--- MATCH ---
+
+ge:url('https://framerusercontent.com/assets/j9ealEkiQbZ8KHyIL3WY7J1e70.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/p15sVSofrc7LFmoKg1HekMkY.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                       
+
+--- MATCH ---
+
+                                         style="border-radius:0px;background:url('https://framerusercontent.com/images/p15sVSofrc7LFmoKg1HekMkY.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/p15sVSofrc7LFmoKg1HekMkY.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div
+
+--- MATCH ---
+
+                                style="border-radius:0px;background:url('https://framerusercontent.com/images/p15sVSofrc7LFmoKg1HekMkY.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/p15sVSofrc7LFmoKg1HekMkY.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+       
+
+--- MATCH ---
+
+r;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="ffg-item"
+                                                style="--radius:0px;--imgrot:-9deg;--half:0px;--fallback:transparent;--maskUrl:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');--maskSizeVal:100% 100%;--maskrot:80deg;--item-angle:280deg;--radial:-152px;--card-rot-x:var(--card-rot-x-deg, 0deg);--card-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--rad
+
+--- MATCH ---
+
+g, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:7;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                                    style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                   
+
+--- MATCH ---
+
+                                     style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/hozWSsSKpgbqiNLTptr6KIO82dc.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:ro
+
+--- MATCH ---
+
+e:url('https://framerusercontent.com/assets/RFOKYYr4V7jGULtjGJXGPgmLbKg.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/hozWSsSKpgbqiNLTptr6KIO82dc.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                    
+
+--- MATCH ---
+
+                                      style="border-radius:0px;background:url('https://framerusercontent.com/images/hozWSsSKpgbqiNLTptr6KIO82dc.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/hozWSsSKpgbqiNLTptr6KIO82dc.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </
+
+--- MATCH ---
+
+                             style="border-radius:0px;background:url('https://framerusercontent.com/images/hozWSsSKpgbqiNLTptr6KIO82dc.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/hozWSsSKpgbqiNLTptr6KIO82dc.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+    
+
+--- MATCH ---
+
+r;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="ffg-item"
+                                                style="--radius:0px;--imgrot:-9deg;--half:0px;--fallback:transparent;--maskUrl:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');--maskSizeVal:100% 100%;--maskrot:80deg;--item-angle:320deg;--radial:-152px;--card-rot-x:var(--card-rot-x-deg, 0deg);--card-rot-y:var(--card-rot-y-deg, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radi
+
+--- MATCH ---
+
+g, 0deg);--card-rot-z:var(--card-rot-z-deg, 0deg);transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));-webkit-transform:rotateX(calc(var(--global-rotation) - var(--item-angle))) translateZ(var(--radial)) rotateX(var(--card-rot-x)) rotateY(var(--card-rot-y)) rotateZ(var(--card-rot-z));z-index:8;pointer-events:none">
+                                                <div class="ffg-maskWrap"
+                                                    style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                     
+
+--- MATCH ---
+
+                                       style="transform:rotateZ(80deg);-webkit-transform:rotateZ(80deg);mask-image:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');-webkit-mask-image:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/fpKqbikuIeG9603CstLvZKES5dc.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:ro
+
+--- MATCH ---
+
+ge:url('https://framerusercontent.com/assets/PCebBaNd3gJhsYOxzHRtoqBv3w.svg');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-position:center;-webkit-mask-position:center">
+                                                    <div class="ffg-content"
+                                                        style="transform:rotateZ(-80deg);-webkit-transform:rotateZ(-80deg)">
+                                                        <div class="ffg-face"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/fpKqbikuIeG9603CstLvZKES5dc.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                    
+
+--- MATCH ---
+
+                                      style="border-radius:0px;background:url('https://framerusercontent.com/images/fpKqbikuIeG9603CstLvZKES5dc.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/fpKqbikuIeG9603CstLvZKES5dc.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </
+
+--- MATCH ---
+
+                             style="border-radius:0px;background:url('https://framerusercontent.com/images/fpKqbikuIeG9603CstLvZKES5dc.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+                                                        <div class="ffg-face ffg-back"
+                                                            style="border-radius:0px;background:url('https://framerusercontent.com/images/fpKqbikuIeG9603CstLvZKES5dc.jpg?width=209&amp;height=84') center/cover;transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);-webkit-transform:rotateZ(90deg) rotateY(180deg) translateZ(0px) rotate(-9deg);backface-visibility:hidden;-webkit-backface-visibility:hidden">
+                                                        </div>
+    

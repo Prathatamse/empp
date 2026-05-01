@@ -1,0 +1,81 @@
+sk framer-1hb11wj"
+                                            data-framer-name="Normal" data-highlight="true"
+                                            style="--9vryxv:10px 0px 10px 20px" href="./#testimonials" tabindex="0">
+                                            <div class="framer-190oa1v" data-framer-name="Home"
+                                                style="justify-content:center;--extract
+
+--- MATCH ---
+
+                       style="--framer-text-color:var(--extracted-1w1cjl5, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))">
+                                                    Testimonial</h6>
+                                            </div>
+                                            <div class="framer-y5upef" data-framer-name="Left" style="opacity:0">
+                             
+
+--- MATCH ---
+
+on>
+                    </div>
+                </div>
+                <div class="ssr-variant hidden-3kpr47 hidden-1bbcz71 hidden-kcs94i">
+                    <div class="framer-hscp9t-container" id="testimonials">
+                        <section class="framer-UELR1 framer-u028yh framer-v-u028yh" data-framer-name="Wide Screen"
+                            style="background:linear-gradient(180deg, var(--token
+
+--- MATCH ---
+
+spacing:0.025em;--framer-text-color:var(--extracted-r6o4lv, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))"
+                                                class="framer-text">Testimonials<span
+                                                    style="--framer-text-color:var(--extracted-1w3ko1f, var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48)))"
+                   
+
+--- MATCH ---
+
+on>
+                    </div>
+                </div>
+                <div class="ssr-variant hidden-1bbcz71 hidden-kcs94i hidden-72rtr7">
+                    <div class="framer-hscp9t-container" id="testimonials">
+                        <section class="framer-UELR1 framer-u028yh framer-v-3c5lhe" data-framer-name="Phone"
+                            style="background:linear-gradient(180deg, var(--token-7aee8
+
+--- MATCH ---
+
+spacing:0.025em;--framer-text-color:var(--extracted-r6o4lv, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))"
+                                                class="framer-text">Testimonials<span
+                                                    style="--framer-text-color:var(--extracted-1w3ko1f, var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48)))"
+                   
+
+--- MATCH ---
+
+ion>
+                    </div>
+                </div>
+                <div class="ssr-variant hidden-3kpr47 hidden-kcs94i hidden-72rtr7">
+                    <div class="framer-hscp9t-container" id="testimonials">
+                        <section class="framer-UELR1 framer-u028yh framer-v-1v5xuxd" data-framer-name="Tablet"
+                            style="background:linear-gradient(180deg, var(--token-7ae
+
+--- MATCH ---
+
+spacing:0.025em;--framer-text-color:var(--extracted-r6o4lv, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))"
+                                                class="framer-text">Testimonials<span
+                                                    style="--framer-text-color:var(--extracted-1w3ko1f, var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48)))"
+                   
+
+--- MATCH ---
+
+on>
+                    </div>
+                </div>
+                <div class="ssr-variant hidden-3kpr47 hidden-1bbcz71 hidden-72rtr7">
+                    <div class="framer-hscp9t-container" id="testimonials">
+                        <section class="framer-UELR1 framer-u028yh framer-v-m1d37l" data-framer-name="Laptop"
+                            style="background:linear-gradient(180deg, var(--token-7aee
+
+--- MATCH ---
+
+spacing:0.025em;--framer-text-color:var(--extracted-r6o4lv, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))"
+                                                class="framer-text">Testimonials<span
+                                                    style="--framer-text-color:var(--extracted-1w3ko1f, var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48)))"
+                   
