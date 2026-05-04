@@ -12557,12 +12557,14 @@ src="https://www.facebook.com/tr?id=1578072603266162&ev=PageView&noscript=1"
 (function() {
   function patchVideos() {
     document.querySelectorAll('video').forEach(function(v) {
-      if (!v.hasAttribute('playsinline')) v.setAttribute('playsinline', '');
-      if (!v.hasAttribute('muted'))       v.setAttribute('muted', '');
-      v.muted = true;
-      // Re-trigger load so Safari picks up the attributes
-      if (v.paused) {
-        v.load();
+      var changed = false;
+      if (!v.hasAttribute('playsinline')) { v.setAttribute('playsinline', ''); changed = true; }
+      if (!v.hasAttribute('muted'))       { v.setAttribute('muted', ''); changed = true; }
+      if (!v.muted) { v.muted = true; changed = true; }
+      
+      // Only re-trigger load if we actually changed something that Safari needs to re-evaluate
+      if (changed && v.paused) {
+        // v.load(); // Don't call load(), it stalls the network in Safari
         v.play().catch(function(){});
       }
     });
@@ -12574,7 +12576,6 @@ src="https://www.facebook.com/tr?id=1578072603266162&ev=PageView&noscript=1"
     patchVideos();
   }
 
-  // Also run after Framer finishes rendering dynamic components
   window.addEventListener('load', patchVideos);
 })();
 </script>
