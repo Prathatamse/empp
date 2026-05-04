@@ -19,214 +19,7 @@
                 text-align: center;
             }
         }
-
-        /* ── Testimonial List Centering Fix (all responsive sizes) ─────────── */
-
-        /* The core fix: Framer sets transform:translateX(-50%) inline on .framer-lmlumn
-           so left must be 50% (not 0) for the element to be centered on any screen size. */
-
-        /* Tablet & Small Laptop: 810px – 1399.98px */
-        @media (min-width: 810px) and (max-width: 1399.98px) {
-
-            /* Increase section height so all 7 testimonial cards fit */
-            .framer-UELR1.framer-v-1v5xuxd.framer-u028yh {
-                width: 100% !important;
-                max-width: 100vw !important;
-                min-height: 2800px !important;
-                overflow: visible !important;
-            }
-
-            /* Allow the vg1kpn container to be tall enough */
-            .framer-v-1v5xuxd .framer-vg1kpn {
-                width: 100% !important;
-                overflow: visible !important;
-            }
-
-            .framer-v-1v5xuxd .framer-x191cg {
-                width: 100% !important;
-                display: flex !important;
-                justify-content: center !important;
-                align-items: center !important;
-            }
-
-            /* Extend the PhotoTunnel to fill the taller section */
-            .framer-v-1v5xuxd .framer-1op2flb-container {
-                width: 100% !important;
-                height: 2800px !important;
-            }
-
-            /* Spacer — keeps heading-to-list gap */
-            .framer-v-1v5xuxd .framer-1lytv5o {
-                height: 150px !important;
-            }
-
-            /* List: centered using left:50% + keepinig the inline translateX(-50%) */
-            .framer-v-1v5xuxd .framer-lmlumn {
-                position: absolute !important;
-                top: 337px !important;
-                left: 50% !important;
-                right: unset !important;
-                bottom: unset !important;
-                width: 90% !important;
-                max-width: 600px !important;
-                margin: 0 !important;
-                height: auto !important;
-                display: flex !important;
-                flex-direction: column !important;
-                justify-content: center !important;
-                align-items: center !important;
-                gap: 40px !important;
-                padding: 0 20px 120px 20px !important;
-                z-index: 5 !important;
-                overflow: visible !important;
-                transform: translateX(-50%) !important;
-            }
-
-            /* Each testimonial card — full width up to 560px, centered */
-            .framer-v-1v5xuxd .framer-qa7qj-container,
-            .framer-v-1v5xuxd .framer-pw5qka-container,
-            .framer-v-1v5xuxd .framer-gmv9a7-container,
-            .framer-v-1v5xuxd .framer-1ny5duj-container,
-            .framer-v-1v5xuxd .framer-1r97j1w-container,
-            .framer-v-1v5xuxd .framer-7k90av-container,
-            .framer-v-1v5xuxd .framer-bzhsmy-container {
-                width: 100% !important;
-                max-width: 560px !important;
-                height: auto !important;
-            }
-
-            /* Fix for Marketing Agency text layout - Force single line */
-            .framer-styles-preset-1t536sl,
-            .framer-styles-preset-1adaemi {
-                white-space: nowrap !important;
-            }
-        }
-
-        /* Small tablet / large mobile: 600px – 809px */
-        @media (min-width: 600px) and (max-width: 809.98px) {
-
-            /* Force outer Phone variant containers to full viewport width */
-            .framer-tppbh,
-            .framer-17go8qu {
-                width: 100vw !important;
-                max-width: 100vw !important;
-                overflow-x: hidden !important;
-            }
-
-            .framer-UELR1.framer-v-1v5xuxd.framer-u028yh {
-                min-height: 3000px !important;
-                overflow: visible !important;
-            }
-
-            .framer-v-1v5xuxd .framer-vg1kpn,
-            .framer-vg1kpn {
-                width: 100% !important;
-                overflow: visible !important;
-            }
-
-            .framer-v-1v5xuxd .framer-1op2flb-container {
-                height: 3000px !important;
-            }
-
-            /* Use 50vw (viewport-relative) so centering works regardless of parent width */
-            .framer-lmlumn {
-                position: absolute !important;
-                top: 300px !important;
-                left: 50vw !important;
-                right: unset !important;
-                bottom: unset !important;
-                width: min(90vw, 520px) !important;
-                max-width: 520px !important;
-                margin: 0 !important;
-                height: auto !important;
-                display: flex !important;
-                flex-direction: column !important;
-                align-items: center !important;
-                gap: 30px !important;
-                padding: 0 16px 80px 16px !important;
-                z-index: 5 !important;
-                overflow: visible !important;
-                transform: translateX(-50%) !important;
-            }
-
-            .framer-qa7qj-container,
-            .framer-pw5qka-container,
-            .framer-gmv9a7-container,
-            .framer-1ny5duj-container,
-            .framer-1r97j1w-container,
-            .framer-7k90av-container,
-            .framer-bzhsmy-container {
-                width: 100% !important;
-                max-width: 480px !important;
-                height: auto !important;
-            }
-        }
-
-        /* Mobile: below 600px — Phone variant fix */
-        @media (max-width: 599.98px) {
-
-            /* CRITICAL: Force the Phone variant outer wrapper (485px fixed) to fill viewport */
-            .framer-tppbh,
-            .framer-17go8qu {
-                width: 100vw !important;
-                max-width: 100vw !important;
-                min-width: unset !important;
-                overflow-x: hidden !important;
-            }
-
-            /* Force the inner section wrapper to full width too */
-            .framer-vg1kpn {
-                width: 100% !important;
-                overflow: visible !important;
-            }
-
-            /* Tablet-variant section if somehow shown */
-            .framer-UELR1.framer-v-1v5xuxd.framer-u028yh {
-                min-height: 3200px !important;
-                overflow: visible !important;
-            }
-
-            .framer-v-1v5xuxd .framer-1op2flb-container {
-                height: 3200px !important;
-            }
-
-            /* CORE FIX: Use 50vw (viewport-width) so centering works even when parent
-               container has a fixed width wider than the viewport */
-            .framer-lmlumn {
-                position: absolute !important;
-                top: 260px !important;
-                left: 50vw !important;
-                right: unset !important;
-                bottom: unset !important;
-                width: min(92vw, 380px) !important;
-                max-width: 380px !important;
-                margin: 0 !important;
-                height: auto !important;
-                display: flex !important;
-                flex-direction: column !important;
-                align-items: center !important;
-                gap: 24px !important;
-                padding: 0 12px 60px 12px !important;
-                z-index: 5 !important;
-                overflow: visible !important;
-                transform: translateX(-50%) !important;
-            }
-
-            /* Individual testimonial card containers */
-            .framer-qa7qj-container,
-            .framer-pw5qka-container,
-            .framer-gmv9a7-container,
-            .framer-1ny5duj-container,
-            .framer-1r97j1w-container,
-            .framer-7k90av-container,
-            .framer-bzhsmy-container {
-                width: 100% !important;
-                max-width: 340px !important;
-                height: auto !important;
-            }
-        }
     </style>
-
     <!-- End of headStart -->
     <meta name="viewport" content="width=device-width">
     <meta name="generator" content="Framer 97e2e97">
@@ -236,11 +29,11 @@
         content="https://framerusercontent.com/sites/2TJlmTmK48T8qzgHcPm2Tm/searchIndex-cJjsjbBvRXkt.json">
     <meta name="framer-search-index-fallback"
         content="https://framerusercontent.com/sites/2TJlmTmK48T8qzgHcPm2Tm/searchIndex-0pkqo4tY2o6z.json">
-    <link href="https://framerusercontent.com/images/KMvtDplTAzHSDHDfsp08QNruHvk.png" rel="icon"
+    <link href="favicon.png" rel="icon"
         media="(prefers-color-scheme: light)">
-    <link href="https://framerusercontent.com/images/KMvtDplTAzHSDHDfsp08QNruHvk.png" rel="icon"
+    <link href="favicon.png" rel="icon"
         media="(prefers-color-scheme: dark)">
-    <link rel="apple-touch-icon" href="https://framerusercontent.com/images/ZO13NtZK8TppCxi8jIW7FYNvu4g.png">
+    <link rel="apple-touch-icon" href="favicon.png">
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:title" content="Eviation Marketing ">
@@ -1388,69 +1181,21 @@
             width: auto !important;
             flex: 1 !important;
             display: flex !important;
-            flex-wrap: nowrap !important;
+            flex-wrap: wrap !important;
             justify-content: flex-end !important;
             gap: 15px !important;
         }
 
-        @media (max-width: 1450px) {
-            .framer-FbrZO .framer-40t19v {
-                gap: 8px !important;
-            }
+        @media (max-width: 1024px) {
             .framer-FbrZO .framer-12e8q36 {
                 justify-content: space-between !important;
-                padding: 0 20px !important;
-            }
-            .framer-FbrZO .framer-190oa1v {
-                padding: 0 5px !important;
-            }
-            .framer-FbrZO h6.framer-text {
-                font-size: 14px !important;
-            }
-        }
-        @media (max-width: 1250px) {
-            .framer-FbrZO .framer-40t19v {
-                gap: 5px !important;
-            }
-            .framer-FbrZO .framer-12e8q36 {
-                justify-content: space-between !important;
-                padding: 0 10px !important;
-            }
-            .framer-FbrZO .framer-40t19v>div {
-                margin-right: 0px !important;
-            }
-            .framer-FbrZO .framer-190oa1v {
-                padding: 0 2px !important;
-            }
-            .framer-FbrZO a.framer-O6ncF {
-                padding: 0 4px !important; 
-            }
-            .framer-FbrZO h6.framer-text {
-                font-size: 13px !important;
-            }
-            .framer-190oa1v h6::after {
-                display: none !important;
-            }
-        }
-        @media (max-width: 950px) {
-            .framer-FbrZO .framer-40t19v {
-                gap: 2px !important;
-            }
-            .framer-FbrZO .framer-12e8q36 {
-                padding: 0 5px !important;
-            }
-            .framer-FbrZO h6.framer-text {
-                font-size: 11px !important;
-            }
-            .framer-FbrZO a.framer-O6ncF {
-                padding: 0 2px !important; 
             }
         }
     </style>
     <script id="custom-form-fix">
         // Global interception of ALL form submissions to force FormSubmit.co
         (function () {
-            const FORM_ENDPOINT = 'https://formsubmit.co/info@eviationmarketing.com';
+            const FORM_ENDPOINT = 'https://formsubmit.co/eviationmarketing@gmail.com';
 
             function handleFormSubmission(e) {
                 const form = e.target;
@@ -7727,49 +7472,6 @@
             height: 2000px
         }
 
-        .framer-UELR1.framer-v-1v5xuxd .framer-lmlumn {
-            position: absolute;
-            top: 337px;
-            left: 0;
-            right: 0;
-            bottom: unset;
-            transform: none;
-            flex-flow: column;
-            place-content: center;
-            align-items: center;
-            gap: 60px;
-            width: 100%;
-            padding: 0
-        }
-
-        .framer-UELR1.framer-v-1v5xuxd .framer-qa7qj-container,
-        .framer-UELR1.framer-v-1v5xuxd .framer-pw5qka-container,
-        .framer-UELR1.framer-v-1v5xuxd .framer-gmv9a7-container,
-        .framer-UELR1.framer-v-1v5xuxd .framer-1ny5duj-container,
-        .framer-UELR1.framer-v-1v5xuxd .framer-1r97j1w-container,
-        .framer-UELR1.framer-v-1v5xuxd .framer-7k90av-container,
-        .framer-UELR1.framer-v-1v5xuxd .framer-bzhsmy-container {
-            z-index: 3;
-            flex: none;
-            width: 380px;
-            height: auto;
-            position: relative
-        }
-
-        .framer-UELR1.framer-v-1v5xuxd .framer-vg1kpn {
-            overflow: visible;
-            min-height: unset
-        }
-
-        .framer-UELR1.framer-v-1v5xuxd.framer-u028yh {
-            overflow: hidden
-        }
-
-        .framer-UELR1.framer-v-1v5xuxd .framer-1op2flb-container {
-            height: 1500px
-        }
-
-
         .framer-UELR1.framer-v-3c5lhe.framer-u028yh {
             align-content: unset;
             align-items: unset;
@@ -12510,6 +12212,369 @@
             }
         }
     </style>
+
+<style>
+/* === Testimonials from GitHub === */
+/* Mobile specific style overrides to fix the TextFrontCarousel overflow 
+           since React hydration will ignore inline style patches */
+        @media (max-width: 809.98px) {
+            body .phrase {
+                font-size: calc(var(--size, 100px) * 0.80) !important;
+                white-space: nowrap !important;
+                text-align: center;
+            }
+        }
+
+        /* ── Testimonial List Centering Fix (all responsive sizes) ─────────── */
+
+        /* The core fix: Framer sets transform:translateX(-50%) inline on .framer-lmlumn
+           so left must be 50% (not 0) for the element to be centered on any screen size. */
+
+        /* Tablet & Small Laptop: 810px – 1399.98px */
+        @media (min-width: 810px) and (max-width: 1399.98px) {
+
+            /* Increase section height so all 7 testimonial cards fit */
+.framer-UELR1.framer-v-1v5xuxd.framer-u028yh {
+                width: 100% !important;
+                max-width: 100vw !important;
+                min-height: 2800px !important;
+                overflow: visible !important;
+            }
+
+            /* Allow the vg1kpn container to be tall enough */
+.framer-v-1v5xuxd .framer-vg1kpn {
+                width: 100% !important;
+                overflow: visible !important;
+            }
+.framer-v-1v5xuxd .framer-x191cg {
+                width: 100% !important;
+                display: flex !important;
+                justify-content: center !important;
+                align-items: center !important;
+            }
+
+            /* Extend the PhotoTunnel to fill the taller section */
+.framer-v-1v5xuxd .framer-1op2flb-container {
+                width: 100% !important;
+                height: 2800px !important;
+            }
+
+            /* Spacer — keeps heading-to-list gap */
+.framer-v-1v5xuxd .framer-1lytv5o {
+                height: 150px !important;
+            }
+
+            /* List: centered using left:50% + keepinig the inline translateX(-50%) */
+.framer-v-1v5xuxd .framer-lmlumn {
+                position: absolute !important;
+                top: 337px !important;
+                left: 50% !important;
+                right: unset !important;
+                bottom: unset !important;
+                width: 90% !important;
+                max-width: 600px !important;
+                margin: 0 !important;
+                height: auto !important;
+                display: flex !important;
+                flex-direction: column !important;
+                justify-content: center !important;
+                align-items: center !important;
+                gap: 40px !important;
+                padding: 0 20px 120px 20px !important;
+                z-index: 5 !important;
+                overflow: visible !important;
+                transform: translateX(-50%) !important;
+            }
+
+            /* Each testimonial card — full width up to 560px, centered */
+.framer-v-1v5xuxd .framer-qa7qj-container,
+.framer-v-1v5xuxd .framer-pw5qka-container,
+.framer-v-1v5xuxd .framer-gmv9a7-container,
+.framer-v-1v5xuxd .framer-1ny5duj-container,
+.framer-v-1v5xuxd .framer-1r97j1w-container,
+.framer-v-1v5xuxd .framer-7k90av-container,
+.framer-v-1v5xuxd .framer-bzhsmy-container {
+                width: 100% !important;
+                max-width: 560px !important;
+                height: auto !important;
+            }
+
+            /* Fix for Marketing Agency text layout - Force single line */
+.framer-UELR1.framer-v-1v5xuxd.framer-u028yh {
+                min-height: 3000px !important;
+                overflow: visible !important;
+            }
+.framer-v-1v5xuxd .framer-vg1kpn,
+.framer-vg1kpn {
+                width: 100% !important;
+                overflow: visible !important;
+            }
+.framer-v-1v5xuxd .framer-1op2flb-container {
+                height: 3000px !important;
+            }
+
+            /* Use 50vw (viewport-relative) so centering works regardless of parent width */
+.framer-lmlumn {
+                position: absolute !important;
+                top: 300px !important;
+                left: 50vw !important;
+                right: unset !important;
+                bottom: unset !important;
+                width: min(90vw, 520px) !important;
+                max-width: 520px !important;
+                margin: 0 !important;
+                height: auto !important;
+                display: flex !important;
+                flex-direction: column !important;
+                align-items: center !important;
+                gap: 30px !important;
+                padding: 0 16px 80px 16px !important;
+                z-index: 5 !important;
+                overflow: visible !important;
+                transform: translateX(-50%) !important;
+            }
+.framer-bzhsmy-container {
+                width: 100% !important;
+                max-width: 480px !important;
+                height: auto !important;
+            }
+        }
+
+        /* Mobile: below 600px — Phone variant fix */
+        @media (max-width: 599.98px) {
+
+            /* CRITICAL: Force the Phone variant outer wrapper (485px fixed) to fill viewport */
+.framer-vg1kpn {
+                width: 100% !important;
+                overflow: visible !important;
+            }
+
+            /* Tablet-variant section if somehow shown */
+.framer-UELR1.framer-v-1v5xuxd.framer-u028yh {
+                min-height: 3200px !important;
+                overflow: visible !important;
+            }
+.framer-v-1v5xuxd .framer-1op2flb-container {
+                height: 3200px !important;
+            }
+
+            /* CORE FIX: Use 50vw (viewport-width) so centering works even when parent
+               container has a fixed width wider than the viewport */
+.framer-lmlumn {
+                position: absolute !important;
+                top: 260px !important;
+                left: 50vw !important;
+                right: unset !important;
+                bottom: unset !important;
+                width: min(92vw, 380px) !important;
+                max-width: 380px !important;
+                margin: 0 !important;
+                height: auto !important;
+                display: flex !important;
+                flex-direction: column !important;
+                align-items: center !important;
+                gap: 24px !important;
+                padding: 0 12px 60px 12px !important;
+                z-index: 5 !important;
+                overflow: visible !important;
+                transform: translateX(-50%) !important;
+            }
+
+            /* Individual testimonial card containers */
+.framer-bzhsmy-container {
+                width: 100% !important;
+                max-width: 340px !important;
+                height: auto !important;
+            }
+        }
+.framer-FbrZO h6.framer-text {
+                font-size: 14px !important;
+            }
+        }
+        @media (max-width: 1250px) {
+.framer-FbrZO h6.framer-text {
+                font-size: 13px !important;
+            }
+.framer-FbrZO h6.framer-text {
+                font-size: 11px !important;
+            }
+.framer-UELR1.framer-v-1v5xuxd .framer-lmlumn {
+            position: absolute;
+            top: 337px;
+            left: 0;
+            right: 0;
+            bottom: unset;
+            transform: none;
+            flex-flow: column;
+            place-content: center;
+            align-items: center;
+            gap: 60px;
+            width: 100%;
+            padding: 0
+        }
+.framer-UELR1.framer-v-1v5xuxd .framer-qa7qj-container,
+.framer-UELR1.framer-v-1v5xuxd .framer-pw5qka-container,
+.framer-UELR1.framer-v-1v5xuxd .framer-gmv9a7-container,
+.framer-UELR1.framer-v-1v5xuxd .framer-1ny5duj-container,
+.framer-UELR1.framer-v-1v5xuxd .framer-1r97j1w-container,
+.framer-UELR1.framer-v-1v5xuxd .framer-7k90av-container,
+.framer-UELR1.framer-v-1v5xuxd .framer-bzhsmy-container {
+            z-index: 3;
+            flex: none;
+            width: 380px;
+            height: auto;
+            position: relative
+        }
+.framer-UELR1.framer-v-1v5xuxd .framer-vg1kpn {
+            overflow: visible;
+            min-height: unset
+        }
+.framer-UELR1.framer-v-1v5xuxd.framer-u028yh {
+            overflow: hidden
+        }
+.framer-UELR1.framer-v-1v5xuxd .framer-1op2flb-container {
+            height: 1500px
+        }
+</style>
+
+<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1578072603266162');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1578072603266162&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+
+<!-- ===== Safari iOS Performance Patch ===== -->
+<style>
+/* -------------------------------------------------------
+   FIX 1: Limit will-change to prevent compositor overload
+   107 elements had will-change:transform active at once –
+   this exhausts Safari's GPU memory and causes freezes.
+------------------------------------------------------- */
+@supports (-webkit-touch-callout: none) {
+  * {
+    will-change: auto !important;
+  }
+}
+
+/* -------------------------------------------------------
+   FIX 2: Disable backdrop-filter blur on mobile Safari
+   20 blurred layers composited simultaneously = GPU crash.
+   Replace with solid semi-transparent bg (looks the same).
+------------------------------------------------------- */
+@supports (-webkit-touch-callout: none) {
+  [style*="backdrop-filter"],
+  [style*="-webkit-backdrop-filter"] {
+    -webkit-backdrop-filter: none !important;
+    backdrop-filter: none !important;
+    background-color: rgba(18, 18, 18, 0.88) !important;
+  }
+}
+
+/* -------------------------------------------------------
+   FIX 3: Fix 3D card-flip layout breaking on Safari
+   Safari flattens 3D inside overflow:hidden containers.
+   Preserve-3d must be explicit; clip container overflow.
+------------------------------------------------------- */
+@supports (-webkit-touch-callout: none) {
+  /* Preserve 3D context on all animated transform elements */
+  [style*="rotateY"],
+  [style*="rotateX"],
+  [style*="rotate3d"],
+  [style*="rotateZ"] {
+    -webkit-transform-style: preserve-3d !important;
+    transform-style: preserve-3d !important;
+  }
+
+  /* The creative archive section wrapper – allow 3D overflow */
+  .framer-UELR1 {
+    overflow: visible !important;
+    -webkit-transform-style: preserve-3d !important;
+    transform-style: preserve-3d !important;
+  }
+
+  /* Perspective must be on the parent, not the child */
+  [style*="perspective"] {
+    -webkit-perspective: inherit;
+    perspective: inherit;
+    -webkit-transform-style: preserve-3d !important;
+    transform-style: preserve-3d !important;
+  }
+}
+
+/* -------------------------------------------------------
+   FIX 4: Restore native momentum scroll + stop hangs
+   Framer's scroll-jacking conflicts with Safari's
+   momentum scroll engine causing freezes on scroll.
+------------------------------------------------------- */
+@supports (-webkit-touch-callout: none) {
+  html,
+  body {
+    -webkit-overflow-scrolling: touch !important;
+    overscroll-behavior-y: none !important;
+    touch-action: pan-y !important;
+  }
+
+  /* Prevent Framer scroll containers from swallowing touch */
+  [data-framer-component-type="ScrollContentWrapper"],
+  [class*="framer"][style*="overflow"] {
+    -webkit-overflow-scrolling: touch !important;
+    touch-action: pan-y !important;
+  }
+}
+
+/* -------------------------------------------------------
+   FIX 5: Reduce paint complexity on Motion video strip
+   The horizontal video strip at bottom uses expensive
+   filter + transform combinations. Simplify for Safari.
+------------------------------------------------------- */
+@supports (-webkit-touch-callout: none) {
+  [style*="filter"]:not(img):not(video) {
+    filter: none !important;
+    -webkit-filter: none !important;
+  }
+}
+</style>
+
+<!-- FIX 6: Video autoplay on Safari requires playsinline + muted -->
+<script>
+(function() {
+  function patchVideos() {
+    document.querySelectorAll('video').forEach(function(v) {
+      if (!v.hasAttribute('playsinline')) v.setAttribute('playsinline', '');
+      if (!v.hasAttribute('muted'))       v.setAttribute('muted', '');
+      v.muted = true;
+      // Re-trigger load so Safari picks up the attributes
+      if (v.paused) {
+        v.load();
+        v.play().catch(function(){});
+      }
+    });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', patchVideos);
+  } else {
+    patchVideos();
+  }
+
+  // Also run after Framer finishes rendering dynamic components
+  window.addEventListener('load', patchVideos);
+})();
+</script>
+<!-- ===== End Safari iOS Performance Patch ===== -->
+
 </head>
 
 <body>
@@ -12653,7 +12718,7 @@
                                     <div class="framer-x6h6d2-container"><!--$--><a
                                             class="framer-O6ncF framer-4fghF framer-AWrPb framer-nugfsk framer-v-nugfsk framer-1hb11wj"
                                             data-framer-name="Normal" data-highlight="true"
-                                            style="--9vryxv:10px 0px 10px 20px" href="./cases" tabindex="0">
+                                            style="--9vryxv:10px 0px 10px 20px" href="./#cases" tabindex="0">
                                             <div class="framer-190oa1v" data-framer-name="Home"
                                                 style="justify-content:center;--extracted-1w1cjl5:var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255));--framer-paragraph-spacing:0px;transform:none"
                                                 data-framer-component-type="RichTextContainer">
@@ -13518,7 +13583,7 @@
                                             data-framer-component-type="RichTextContainer">
                                             <p dir="auto"
                                                 style="--font-selector:RlM7Q2xhc2ggRGlzcGxheS1zZW1pYm9sZA==;--framer-font-family:&quot;Clash Display&quot;, &quot;Clash Display Placeholder&quot;, sans-serif;--framer-font-open-type-features:'blwf' on, 'cv09' on, 'cv03' on, 'cv04' on, 'cv11' on;--framer-font-size:20px;--framer-font-weight:600;--framer-letter-spacing:0px;--framer-line-height:24px;--framer-text-color:var(--token-d4ca82da-9858-4dad-acd0-b334826e1013, rgb(255, 255, 255));--framer-text-transform:capitalize"
-                                                class="framer-text">Consultancy led Branding &amp; Digital Marketing
+                                                class="framer-text">Consultancy-Led Branding &amp; Digital Marketing
                                                 Agency</p>
                                         </div>
                                         <div class="framer-hw9a8t" style="transform:none"
@@ -23578,7 +23643,7 @@
      - Google Forms: redirect action to your Google Form URL
      See https://nocodeexport.com/docs/forms for setup guides -->
                                         <form class="framer-9h5j1h" method="POST"
-                                            action="https://formsubmit.co/info@eviationmarketing.com"
+                                            action="https://formsubmit.co/eviationmarketing@gmail.com"
                                             enctype="application/x-www-form-urlencoded">
                                             <div class="framer-vqz5wm" data-framer-name="Fields">
                                                 <div class="framer-18x20ok" data-framer-name="1"><label
@@ -23774,15 +23839,15 @@
                                                 style="--framer-text-color:var(--extracted-1w1cjl5, var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48)))">
                                                 Prefer email?</h6>
                                         </div>
-                                        <div class="framer-1rb6z98" data-framer-name="info@eviationmarketing.com"
+                                        <div class="framer-1rb6z98" data-framer-name="contact@eviationnmarketing.in"
                                             style="justify-content:center;--framer-paragraph-spacing:0px;transform:none"
                                             data-framer-component-type="RichTextContainer">
                                             <h3 class="framer-text framer-styles-preset-wvy7ez"
                                                 data-styles-preset="hdCs32bmG"><!--$--><a
                                                     class="framer-text framer-styles-preset-1hifpy6"
                                                     data-styles-preset="I3Wr9DZwr"
-                                                    href="mailto:info@eviationmarketing.com" rel="noopener"
-                                                    target="_top">info@eviationmarketing.com</a><!--/$--></h3>
+                                                    href="https://contact@eviationnmarketing.in/" rel="noopener"
+                                                    target="_top">eviationmarketing@gmail.com</a><!--/$--></h3>
                                         </div>
                                     </div>
                                     <div class="framer-18gmaoe">
@@ -23869,7 +23934,7 @@
      - Google Forms: redirect action to your Google Form URL
      See https://nocodeexport.com/docs/forms for setup guides -->
                                         <form class="framer-9h5j1h" method="POST"
-                                            action="https://formsubmit.co/info@eviationmarketing.com"
+                                            action="https://formsubmit.co/eviationmarketing@gmail.com"
                                             enctype="application/x-www-form-urlencoded">
                                             <div class="framer-vqz5wm" data-framer-name="Fields">
                                                 <div class="framer-18x20ok" data-framer-name="1"><label
@@ -24065,15 +24130,15 @@
                                                 style="--framer-text-color:var(--extracted-1w1cjl5, var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48)))">
                                                 Prefer email?</h6>
                                         </div>
-                                        <div class="framer-1rb6z98" data-framer-name="info@eviationmarketing.com"
+                                        <div class="framer-1rb6z98" data-framer-name="contact@eviationnmarketing.in"
                                             style="justify-content:center;--framer-paragraph-spacing:0px;transform:none"
                                             data-framer-component-type="RichTextContainer">
                                             <h5 class="framer-text framer-styles-preset-wc63h7"
                                                 data-styles-preset="eHmylL7z6"><!--$--><a
                                                     class="framer-text framer-styles-preset-1hifpy6"
                                                     data-styles-preset="I3Wr9DZwr"
-                                                    href="mailto:info@eviationmarketing.com" rel="noopener"
-                                                    target="_top">info@eviationmarketing.com</a><!--/$--></h5>
+                                                    href="https://contact@eviationnmarketing.in/" rel="noopener"
+                                                    target="_top">eviationmarketing@gmail.com</a><!--/$--></h5>
                                         </div>
                                     </div>
                                     <div class="framer-18gmaoe">
@@ -24160,7 +24225,7 @@
      - Google Forms: redirect action to your Google Form URL
      See https://nocodeexport.com/docs/forms for setup guides -->
                                         <form class="framer-9h5j1h" method="POST"
-                                            action="https://formsubmit.co/info@eviationmarketing.com"
+                                            action="https://formsubmit.co/eviationmarketing@gmail.com"
                                             enctype="application/x-www-form-urlencoded">
                                             <div class="framer-vqz5wm" data-framer-name="Fields">
                                                 <div class="framer-18x20ok" data-framer-name="1"><label
@@ -24356,15 +24421,15 @@
                                                 style="--framer-text-color:var(--extracted-1w1cjl5, var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48)))">
                                                 Prefer email?</h6>
                                         </div>
-                                        <div class="framer-1rb6z98" data-framer-name="info@eviationmarketing.com"
+                                        <div class="framer-1rb6z98" data-framer-name="contact@eviationnmarketing.in"
                                             style="justify-content:center;--framer-paragraph-spacing:0px;transform:none"
                                             data-framer-component-type="RichTextContainer">
                                             <h5 class="framer-text framer-styles-preset-wc63h7"
                                                 data-styles-preset="eHmylL7z6"><!--$--><a
                                                     class="framer-text framer-styles-preset-1hifpy6"
                                                     data-styles-preset="I3Wr9DZwr"
-                                                    href="mailto:info@eviationmarketing.com" rel="noopener"
-                                                    target="_top">info@eviationmarketing.com</a><!--/$--></h5>
+                                                    href="https://contact@eviationnmarketing.in/" rel="noopener"
+                                                    target="_top">eviationmarketing@gmail.com</a><!--/$--></h5>
                                         </div>
                                     </div>
                                     <div class="framer-18gmaoe">
@@ -24451,7 +24516,7 @@
      - Google Forms: redirect action to your Google Form URL
      See https://nocodeexport.com/docs/forms for setup guides -->
                                         <form class="framer-9h5j1h" method="POST"
-                                            action="https://formsubmit.co/info@eviationmarketing.com"
+                                            action="https://formsubmit.co/eviationmarketing@gmail.com"
                                             enctype="application/x-www-form-urlencoded">
                                             <div class="framer-vqz5wm" data-framer-name="Fields">
                                                 <div class="framer-18x20ok" data-framer-name="1"><label
@@ -24647,15 +24712,15 @@
                                                 style="--framer-text-color:var(--extracted-1w1cjl5, var(--token-f7eb9440-9c7c-4693-9d23-740211c4f1b2, rgb(251, 73, 48)))">
                                                 Prefer email?</h6>
                                         </div>
-                                        <div class="framer-1rb6z98" data-framer-name="info@eviationmarketing.com"
+                                        <div class="framer-1rb6z98" data-framer-name="contact@eviationnmarketing.in"
                                             style="justify-content:center;--framer-paragraph-spacing:0px;transform:none"
                                             data-framer-component-type="RichTextContainer">
                                             <h3 class="framer-text framer-styles-preset-wvy7ez"
                                                 data-styles-preset="hdCs32bmG"><!--$--><a
                                                     class="framer-text framer-styles-preset-1hifpy6"
                                                     data-styles-preset="I3Wr9DZwr"
-                                                    href="mailto:info@eviationmarketing.com" rel="noopener"
-                                                    target="_top">info@eviationmarketing.com</a><!--/$--></h3>
+                                                    href="https://contact@eviationnmarketing.in/" rel="noopener"
+                                                    target="_top">eviationmarketing@gmail.com</a><!--/$--></h3>
                                         </div>
                                     </div>
                                     <div class="framer-18gmaoe">
@@ -24977,7 +25042,7 @@
                                                     data-styles-preset="LFTrb0jZU"><!--$--><a
                                                         class="framer-text framer-styles-preset-1bddqgg"
                                                         data-styles-preset="yc637LCLb"
-                                                        href="https://maps.app.goo.gl/eR6EQbbTFVXiVCAL7" target="_blank"
+                                                        href="https://www.google.com/maps/search/?api=1&query=Goa,+India" target="_blank"
                                                         rel="noopener"><span
                                                             style="--framer-text-color:var(--extracted-hl0iuy, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))"
                                                             class="framer-text">Goa-India</span></a><!--/$--></p>
@@ -24993,7 +25058,7 @@
                                                         data-styles-preset="LFTrb0jZU"
                                                         style="--framer-text-color:var(--extracted-r6o4lv, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))">
                                                         <!--$--><a class="framer-text framer-styles-preset-1bddqgg"
-                                                            data-styles-preset="yc637LCLb" href="https://+91 7666983261"
+                                                            data-styles-preset="yc637LCLb" href="tel:+917666983261"
                                                             rel="noopener">+91 7666983261</a><!--/$-->
                                                     </p>
                                                 </div>
@@ -25499,7 +25564,7 @@
                                                     data-styles-preset="TUHGD6dmV"><!--$--><a
                                                         class="framer-text framer-styles-preset-1bddqgg"
                                                         data-styles-preset="yc637LCLb"
-                                                        href="https://maps.app.goo.gl/eR6EQbbTFVXiVCAL7" target="_blank"
+                                                        href="https://www.google.com/maps/search/?api=1&query=Goa,+India" target="_blank"
                                                         rel="noopener"><span
                                                             style="--framer-text-color:var(--extracted-hl0iuy, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))"
                                                             class="framer-text">Goa-India</span></a><!--/$--></p>
@@ -25515,7 +25580,7 @@
                                                         data-styles-preset="TUHGD6dmV"
                                                         style="--framer-text-color:var(--extracted-r6o4lv, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))">
                                                         <!--$--><a class="framer-text framer-styles-preset-1bddqgg"
-                                                            data-styles-preset="yc637LCLb" href="https://+91 7666983261"
+                                                            data-styles-preset="yc637LCLb" href="tel:+917666983261"
                                                             rel="noopener">+91 7666983261</a><!--/$-->
                                                     </p>
                                                 </div>
@@ -25790,7 +25855,7 @@
                                                     data-styles-preset="TUHGD6dmV"><!--$--><a
                                                         class="framer-text framer-styles-preset-1bddqgg"
                                                         data-styles-preset="yc637LCLb"
-                                                        href="https://maps.app.goo.gl/eR6EQbbTFVXiVCAL7" target="_blank"
+                                                        href="https://www.google.com/maps/search/?api=1&query=Goa,+India" target="_blank"
                                                         rel="noopener"><span
                                                             style="--framer-text-color:var(--extracted-hl0iuy, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))"
                                                             class="framer-text">Goa-India</span></a><!--/$--></p>
@@ -25806,7 +25871,7 @@
                                                         data-styles-preset="TUHGD6dmV"
                                                         style="--framer-text-color:var(--extracted-r6o4lv, var(--token-cabcd209-02ce-41bf-9dfa-3682975d9176, rgb(255, 255, 255)))">
                                                         <!--$--><a class="framer-text framer-styles-preset-1bddqgg"
-                                                            data-styles-preset="yc637LCLb" href="https://+91 7666983261"
+                                                            data-styles-preset="yc637LCLb" href="tel:+917666983261"
                                                             rel="noopener">+91 7666983261</a><!--/$-->
                                                     </p>
                                                 </div>
@@ -26079,7 +26144,7 @@
     <link rel="modulepreload" fetchpriority="low"
         href="https://framerusercontent.com/sites/2TJlmTmK48T8qzgHcPm2Tm/MDKaJsCav.CWWbdCNQ.mjs">
     <script type="module" async="" data-framer-bundle="main" fetchpriority="low"
-        src="/script_main.zMWyeqfe.mjs"></script>
+        src="./script_main.zMWyeqfe.mjs"></script>
     <script type="framer/handover"
         id="__framer__handoverData">[{"0":1,"1":28},["Map",2,3],"{\"from\":\"a5c81d53-b96a-4c3b-a395-801bc0e72178\",\"limit\":{\"type\":\"LiteralValue\",\"value\":1},\"select\":[{\"collection\":\"HTeWk9tTA\",\"name\":\"NgUeCgB51\",\"type\":\"Identifier\"},{\"collection\":\"HTeWk9tTA\",\"name\":\"clnm46k8N\",\"type\":\"Identifier\"},{\"collection\":\"HTeWk9tTA\",\"name\":\"ff6KFKIFV\",\"type\":\"Identifier\"},{\"collection\":\"HTeWk9tTA\",\"name\":\"dm40P6hXm\",\"type\":\"Identifier\"},{\"collection\":\"HTeWk9tTA\",\"name\":\"ZWdl4QtH2\",\"type\":\"Identifier\"},{\"collection\":\"HTeWk9tTA\",\"name\":\"yVoskjCKV\",\"type\":\"Identifier\"},{\"collection\":\"HTeWk9tTA\",\"name\":\"G8EH75d5D\",\"type\":\"Identifier\"},{\"collection\":\"HTeWk9tTA\",\"name\":\"id\",\"type\":\"Identifier\"}],\"where\":{\"left\":{\"collection\":\"HTeWk9tTA\",\"name\":\"id\",\"type\":\"Identifier\"},\"operator\":\"==\",\"right\":{\"type\":\"LiteralValue\",\"value\":\"Ad0vVz6lI\"},\"type\":\"BinaryOperation\"}}default",[4],{"NgUeCgB51":5,"clnm46k8N":12,"ff6KFKIFV":15,"dm40P6hXm":18,"ZWdl4QtH2":20,"yVoskjCKV":22,"G8EH75d5D":24,"id":26},{"type":6,"value":7},"responsiveimage",{"src":8,"srcSet":9,"pixelWidth":10,"pixelHeight":11},"https://framerusercontent.com/images/xSrDNOMaj8SN6npgOEpR6e6Jyi0.jpg?width=1600&height=800","https://framerusercontent.com/images/xSrDNOMaj8SN6npgOEpR6e6Jyi0.jpg?scale-down-to=512&width=1600&height=800 512w,https://framerusercontent.com/images/xSrDNOMaj8SN6npgOEpR6e6Jyi0.jpg?scale-down-to=1024&width=1600&height=800 1024w,https://framerusercontent.com/images/xSrDNOMaj8SN6npgOEpR6e6Jyi0.jpg?width=1600&height=800 1600w",1600,800,{"type":13,"value":14},"enum","q5_tTIypI",{"type":16,"value":17},"string","hotel-éden-karwar",{"type":16,"value":19},"Hotel Éden Karwar",{"type":16,"value":21},"Brand refinement, social media strategy and cinematic visual storytelling crafted to reposition Hotel Éden as an aspirational coastal destination.",{"type":16,"value":23},"₹ 20,532 Ex ROI",{"type":16,"value":25},"24M Views",{"type":16,"value":27},"Ad0vVz6lI",["Map"]]</script>
     <div id="svg-templates"
@@ -26871,7 +26936,7 @@
     <script>
         (function () {
             var origin = "https://breezy-months-462813.framer.app";
-            var allowed = ["https://breezy-months-462813.framer.app/", "https://breezy-months-462813.framer.app/404", "https://breezy-months-462813.framer.app/cases", "https://breezy-months-462813.framer.app/cases/hotel-%C3%A9den-karwar"];
+            var allowed = ["https://breezy-months-462813.framer.app/", "https://breezy-months-462813.framer.app/404", "https://breezy-months-462813.framer.app/cases", "https://breezy-months-462813.framer.app/cases/hotel-eden-karwar", "https://breezy-months-462813.framer.app/cases/hotel-%C3%A9den-karwar", "https://breezy-months-462813.framer.app/cases/hotel-éden-karwar"];
             var relativeRoot = "./";
 
             function neutralizeLink(a) {
@@ -26998,157 +27063,6 @@
             display: none !important;
             opacity: 0 !important;
             pointer-events: none !important;
-        }
-    </style>
-    <style>
-        /* ===== FAQ BENTO GRID RESPONSIVE FIX (v3) =====
-           THE CORE PROBLEM: grid-template-rows: repeat(10, 75px) = fixed 750px.
-           Even with height:auto on card content, grid rows never expanded → overlap.
-           FIX: override grid rows to auto at sub-1400px so rows grow with content.
-        */
-
-        /* --- Global: fluid text widths instead of fixed px --- */
-
-        /* Card 1 text wrapper: was 360px fixed */
-        .framer-0QMxT .framer-1fwy7at {
-            width: 100%;
-            max-width: 360px;
-        }
-
-        /* Card 1 heading: was 431px fixed */
-        .framer-0QMxT .framer-117hbx1 {
-            width: 100%;
-        }
-
-        /* ─────────────────────────────────────────────────────────
-           810px – 1399px  (desktop grid squished to medium screen)
-        ───────────────────────────────────────────────────────── */
-        @media (min-width: 810px) and (max-width: 1399px) {
-
-            /* KEY FIX: let grid rows size themselves to content */
-            .framer-0QMxT .framer-8kkxwy {
-                grid-template-rows: none !important;
-                grid-auto-rows: auto !important;
-                grid-template-columns: repeat(6, minmax(60px, 1fr));
-                overflow: visible;
-            }
-
-            /* Give every card room to breathe and grow */
-            .framer-0QMxT .framer-1eon07x,
-            .framer-0QMxT .framer-18yeg3e,
-            .framer-0QMxT .framer-1d4e6m8,
-            .framer-0QMxT .framer-zboq4j,
-            .framer-0QMxT .framer-1b2gmek {
-                padding: 28px;
-                height: auto !important;
-                overflow: hidden;
-                align-self: stretch;
-            }
-
-            /* Packages content row: was height:163px flex-row → column auto */
-            .framer-0QMxT .framer-1u2j9nb {
-                flex-direction: column;
-                height: auto !important;
-                overflow: visible;
-                gap: 16px;
-            }
-
-            /* Text column in Packages card */
-            .framer-0QMxT .framer-1kfwiz2 {
-                flex: none;
-                width: 100%;
-                height: auto;
-                min-width: 0;
-            }
-
-            /* Hide decorative images in Packages card — frees full width for text */
-            .framer-0QMxT .framer-sp0nb7,
-            .framer-0QMxT .framer-btbtn9 {
-                display: none;
-            }
-
-            /* WHY DO YOU NEED BRANDING? content: was height:527px */
-            .framer-0QMxT .framer-lus3fh {
-                height: auto !important;
-                overflow: visible;
-            }
-
-            .framer-0QMxT .framer-10o9pb1 {
-                height: auto;
-                overflow: visible;
-            }
-
-            /* TYPICAL PROJECT TIMELINE? content row */
-            .framer-0QMxT .framer-b8pa85 {
-                height: auto !important;
-                flex-wrap: wrap;
-                overflow: visible;
-            }
-
-            .framer-0QMxT .framer-18y4m7 {
-                width: 100%;
-                height: auto;
-                min-width: 0;
-            }
-
-            /* ARE YOUR SERVICES GLOBAL? content row */
-            .framer-0QMxT .framer-jol73i {
-                height: auto;
-                flex-wrap: wrap;
-                overflow: visible;
-            }
-
-            .framer-0QMxT .framer-1bopz5t {
-                width: 100%;
-                min-width: 0;
-            }
-        }
-
-        /* ─────────────────────────────────────────────────────────
-           <= 809px  (phone layout is already column-stacked, but
-           clamp any content that might still bleed)
-        ───────────────────────────────────────────────────────── */
-        @media (max-width: 809px) {
-
-            /* Phone variant uses display:flex column — just guard overflow */
-            .framer-0QMxT .framer-8kkxwy {
-                overflow: hidden;
-            }
-
-            .framer-0QMxT .framer-1eon07x,
-            .framer-0QMxT .framer-18yeg3e,
-            .framer-0QMxT .framer-zboq4j,
-            .framer-0QMxT .framer-1b2gmek,
-            .framer-0QMxT .framer-1d4e6m8 {
-                max-width: 100%;
-                overflow: hidden;
-                padding: 20px;
-            }
-
-            .framer-0QMxT .framer-1fwy7at {
-                width: 100%;
-                max-width: 100%;
-            }
-
-            .framer-0QMxT .framer-117hbx1 {
-                width: 100%;
-            }
-
-            .framer-0QMxT .framer-1u2j9nb {
-                height: auto !important;
-                overflow: visible;
-                flex-direction: column;
-            }
-
-            .framer-0QMxT .framer-lus3fh {
-                height: auto !important;
-                overflow: visible;
-            }
-
-            .framer-0QMxT .framer-1kfwiz2 {
-                width: 100%;
-                height: auto;
-            }
         }
     </style>
 </body>
