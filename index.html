@@ -12453,6 +12453,15 @@ src="https://www.facebook.com/tr?id=1578072603266162&ev=PageView&noscript=1"
 
 <!-- ===== Safari iOS Performance Patch ===== -->
 <style>
+
+/* Fix squished MOTION flex items in Safari */
+@supports (-webkit-touch-callout: none) {
+  .framer-IYtVa > * > *,
+  .framer-1h2pbt7 > *,
+  [class*="framer-s0zvbc"] > * {
+    flex-shrink: 0 !important;
+  }
+}
 /* -------------------------------------------------------
    FIX 1: Limit will-change to prevent compositor overload
    107 elements had will-change:transform active at once –
